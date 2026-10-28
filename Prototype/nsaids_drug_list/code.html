@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Clinical Drug Ref - NSAIDs</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            "colors": {
+                    "surface-container-highest": "#353534",
+                    "on-surface": "#e5e2e1",
+                    "secondary-fixed-dim": "#ffb877",
+                    "on-tertiary-fixed": "#1a1c1c",
+                    "outline": "#8e9192",
+                    "on-tertiary": "#2f3131",
+                    "surface-tint": "#c6c6c7",
+                    "on-surface-variant": "#c4c7c8",
+                    "outline-variant": "#444748",
+                    "on-secondary-container": "#ffd4b1",
+                    "surface-bright": "#393939",
+                    "on-tertiary-fixed-variant": "#454747",
+                    "on-primary-fixed-variant": "#454747",
+                    "primary-container": "#e2e2e2",
+                    "on-error": "#690005",
+                    "background": "#131313",
+                    "tertiary-fixed": "#e2e2e2",
+                    "tertiary-container": "#e2e2e2",
+                    "on-secondary": "#4b2700",
+                    "surface-dim": "#131313",
+                    "secondary-fixed": "#ffdcc0",
+                    "surface-container-high": "#2a2a2a",
+                    "primary-fixed-dim": "#c6c6c7",
+                    "error": "#ffb4ab",
+                    "primary-fixed": "#e2e2e2",
+                    "surface-container-low": "#1c1b1b",
+                    "error-container": "#93000a",
+                    "on-secondary-fixed": "#2e1600",
+                    "on-tertiary-container": "#636565",
+                    "surface-container-lowest": "#0e0e0e",
+                    "secondary": "#ffb877",
+                    "on-error-container": "#ffdad6",
+                    "surface-container": "#201f1f",
+                    "surface-variant": "#353534",
+                    "inverse-surface": "#e5e2e1",
+                    "on-primary": "#2f3131",
+                    "inverse-primary": "#5d5f5f",
+                    "inverse-on-surface": "#313030",
+                    "tertiary-fixed-dim": "#c6c6c7",
+                    "surface": "#131313",
+                    "on-primary-container": "#636565",
+                    "primary": "#ffffff",
+                    "on-background": "#e5e2e1",
+                    "tertiary": "#ffffff",
+                    "secondary-container": "#915101",
+                    "on-secondary-fixed-variant": "#6c3b00",
+                    "on-primary-fixed": "#1a1c1c"
+            },
+            "borderRadius": {
+                    "DEFAULT": "0.125rem",
+                    "lg": "0.25rem",
+                    "xl": "0.5rem",
+                    "full": "0.75rem"
+            },
+            "spacing": {
+                    "container-padding": "2rem",
+                    "table-row-padding": "1rem",
+                    "stack-space": "0.75rem",
+                    "card-gap": "1rem",
+                    "grid-gutter": "1.5rem"
+            },
+            "fontFamily": {
+                    "display-mobile": ["Hanken Grotesk"],
+                    "display": ["Hanken Grotesk"],
+                    "body-sm": ["Hanken Grotesk"],
+                    "body-md": ["Hanken Grotesk"],
+                    "body-lg": ["Hanken Grotesk"],
+                    "label-caps": ["Hanken Grotesk"],
+                    "headline-md": ["Hanken Grotesk"]
+            },
+            "fontSize": {
+                    "display-mobile": ["24px", {"lineHeight": "32px", "fontWeight": "700"}],
+                    "display": ["32px", {"lineHeight": "40px", "letterSpacing": "-0.02em", "fontWeight": "700"}],
+                    "body-sm": ["13px", {"lineHeight": "18px", "fontWeight": "400"}],
+                    "body-md": ["14px", {"lineHeight": "20px", "fontWeight": "400"}],
+                    "body-lg": ["16px", {"lineHeight": "20px", "fontWeight": "700"}],
+                    "label-caps": ["11px", {"lineHeight": "16px", "letterSpacing": "0.05em", "fontWeight": "700"}],
+                    "headline-md": ["18px", {"lineHeight": "24px", "fontWeight": "700"}]
+            }
+          },
+        },
+      }
+    </script>
+<style>
+        body {
+            background-color: #131313;
+            font-family: 'Hanken Grotesk', sans-serif;
+            -webkit-font-smoothing: antialiased;
+        }
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+        }
+        .custom-scrollbar::-webkit-scrollbar {
+            width: 4px;
+        }
+        .custom-scrollbar::-webkit-scrollbar-track {
+            background: #131313;
+        }
+        .custom-scrollbar::-webkit-scrollbar-thumb {
+            background: #353534;
+            border-radius: 10px;
+        }
+    </style>
+<style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+  </head>
+<body class="text-on-surface">
+<!-- TopAppBar -->
+<header class="sticky top-0 z-50 flex items-center justify-between px-container-padding w-full h-16 border-b border-white/10 bg-surface dark:bg-surface">
+<div class="flex items-center gap-4">
+<button class="active:scale-95 transition-transform duration-150 text-primary dark:text-primary">
+<span class="material-symbols-outlined" data-icon="arrow_back">arrow_back</span>
+</button>
+<h1 class="font-headline-md text-headline-md-mobile md:text-headline-md tracking-tight font-bold">NSAIDs</h1>
+</div>
+<div class="flex items-center gap-2">
+<button class="p-2 hover:bg-surface-container-highest transition-colors rounded-full text-primary dark:text-primary active:scale-95 transition-transform duration-150">
+<span class="material-symbols-outlined" data-icon="search">search</span>
+</button>
+</div>
+</header>
+<!-- Main Content -->
+<main class="max-w-[800px] mx-auto px-4 md:px-container-padding py-6 pb-24">
+<!-- Category Summary Header -->
+<div class="mb-8 p-6 bg-surface-container rounded-lg border border-white/5">
+<div class="flex items-center justify-between mb-2">
+<span class="font-label-caps text-label-caps text-secondary uppercase">Pharmacological Class</span>
+<span class="font-body-sm text-body-sm text-on-surface-variant">12 Results</span>
+</div>
+<h2 class="font-display-mobile md:font-display text-display-mobile md:text-display text-primary mb-2">Nonsteroidal Anti-inflammatory Drugs</h2>
+<p class="font-body-md text-body-md text-on-surface-variant leading-relaxed">
+                Agents used primarily to treat inflammation, mild-to-moderate pain, and fever. Specific uses include the treatment of headaches, arthritis, sports injuries, and menstrual cramps.
+            </p>
+</div>
+<!-- Drug List -->
+<section class="space-y-card-gap">
+<!-- Drug Card: Ibuprofen -->
+<div class="group bg-[#1E1E1E] p-5 rounded-lg border border-white/5 hover:border-secondary/30 transition-all cursor-pointer active:scale-[0.98]">
+<div class="flex justify-between items-start mb-3">
+<div>
+<h3 class="font-headline-md text-headline-md text-primary group-hover:text-secondary transition-colors">Ibuprofen</h3>
+<p class="font-body-sm text-body-sm text-on-surface-variant italic">Advil, Motrin</p>
+</div>
+<span class="bg-secondary-container text-on-secondary-container px-3 py-1 rounded-full font-label-caps text-label-caps flex items-center gap-1">
+<span class="material-symbols-outlined text-[14px]" style="font-variation-settings: 'FILL' 1;">star</span>
+                        Commonly Prescribed
+                    </span>
+</div>
+<div class="grid grid-cols-2 gap-4 mt-4">
+<div>
+<span class="block font-label-caps text-label-caps text-outline uppercase mb-1">Primary Indication</span>
+<span class="font-body-lg text-body-lg text-on-surface">Pain &amp; Inflammation</span>
+</div>
+<div>
+<span class="block font-label-caps text-label-caps text-outline uppercase mb-1">Dosing Form</span>
+<span class="font-body-lg text-body-lg text-on-surface">Oral Tablet/Liquid</span>
+</div>
+</div>
+</div>
+<!-- Drug Card: Naproxen -->
+<div class="group bg-[#1E1E1E] p-5 rounded-lg border border-white/5 hover:border-secondary/30 transition-all cursor-pointer active:scale-[0.98]">
+<div class="flex justify-between items-start mb-3">
+<div>
+<h3 class="font-headline-md text-headline-md text-primary group-hover:text-secondary transition-colors">Naproxen</h3>
+<p class="font-body-sm text-body-sm text-on-surface-variant italic">Aleve, Naprosyn</p>
+</div>
+<span class="bg-surface-container-highest text-on-surface-variant px-3 py-1 rounded-full font-label-caps text-label-caps">OTC + Rx</span>
+</div>
+<div class="grid grid-cols-2 gap-4 mt-4">
+<div>
+<span class="block font-label-caps text-label-caps text-outline uppercase mb-1">Primary Indication</span>
+<span class="font-body-lg text-body-lg text-on-surface">Pain &amp; Inflammation</span>
+</div>
+<div>
+<span class="block font-label-caps text-label-caps text-outline uppercase mb-1">Duration</span>
+<span class="font-body-lg text-body-lg text-on-surface">Long-acting (12h)</span>
+</div>
+</div>
+</div>
+<!-- Drug Card: Celecoxib -->
+<div class="group bg-[#1E1E1E] p-5 rounded-lg border border-white/5 hover:border-secondary/30 transition-all cursor-pointer active:scale-[0.98]">
+<div class="flex justify-between items-start mb-3">
+<div>
+<h3 class="font-headline-md text-headline-md text-primary group-hover:text-secondary transition-colors">Celecoxib</h3>
+<p class="font-body-sm text-body-sm text-on-surface-variant italic">Celebrex</p>
+</div>
+<span class="bg-secondary-container text-on-secondary-container px-3 py-1 rounded-full font-label-caps text-label-caps flex items-center gap-1">
+<span class="material-symbols-outlined text-[14px]" style="font-variation-settings: 'FILL' 1;">star</span>
+                        Commonly Prescribed
+                    </span>
+</div>
+<div class="grid grid-cols-2 gap-4 mt-4">
+<div>
+<span class="block font-label-caps text-label-caps text-outline uppercase mb-1">Primary Indication</span>
+<span class="font-body-lg text-body-lg text-on-surface">Osteoarthritis</span>
+</div>
+<div>
+<span class="block font-label-caps text-label-caps text-outline uppercase mb-1">Class</span>
+<span class="font-body-lg text-body-lg text-on-surface">COX-2 Inhibitor</span>
+</div>
+</div>
+</div>
+<!-- Warning Banner -->
+<div class="bg-[#2a1d1d] border border-error/40 p-4 rounded-lg flex gap-4 items-start my-6">
+<span class="material-symbols-outlined text-error" data-icon="warning">warning</span>
+<div>
+<span class="font-body-lg text-body-lg text-error block mb-1">Class Warning: GI Risk</span>
+<p class="font-body-sm text-body-sm text-on-surface-variant">NSAIDs may cause an increased risk of serious gastrointestinal adverse events including bleeding, ulceration, and perforation of the stomach or intestines.</p>
+</div>
+</div>
+<!-- Drug Card: Diclofenac -->
+<div class="group bg-[#1E1E1E] p-5 rounded-lg border border-white/5 hover:border-secondary/30 transition-all cursor-pointer active:scale-[0.98]">
+<div class="flex justify-between items-start mb-3">
+<div>
+<h3 class="font-headline-md text-headline-md text-primary group-hover:text-secondary transition-colors">Diclofenac</h3>
+<p class="font-body-sm text-body-sm text-on-surface-variant italic">Voltaren, Zipsor</p>
+</div>
+<span class="bg-surface-container-highest text-on-surface-variant px-3 py-1 rounded-full font-label-caps text-label-caps">Rx Only</span>
+</div>
+<div class="grid grid-cols-2 gap-4 mt-4">
+<div>
+<span class="block font-label-caps text-label-caps text-outline uppercase mb-1">Primary Indication</span>
+<span class="font-body-lg text-body-lg text-on-surface">Pain &amp; Inflammation</span>
+</div>
+<div>
+<span class="block font-label-caps text-label-caps text-outline uppercase mb-1">Common Route</span>
+<span class="font-body-lg text-body-lg text-on-surface">Topical Gel/Oral</span>
+</div>
+</div>
+</div>
+<!-- Drug Card: Meloxicam -->
+<div class="group bg-[#1E1E1E] p-5 rounded-lg border border-white/5 hover:border-secondary/30 transition-all cursor-pointer active:scale-[0.98]">
+<div class="flex justify-between items-start mb-3">
+<div>
+<h3 class="font-headline-md text-headline-md text-primary group-hover:text-secondary transition-colors">Meloxicam</h3>
+<p class="font-body-sm text-body-sm text-on-surface-variant italic">Mobic</p>
+</div>
+<span class="bg-secondary-container text-on-secondary-container px-3 py-1 rounded-full font-label-caps text-label-caps flex items-center gap-1">
+<span class="material-symbols-outlined text-[14px]" style="font-variation-settings: 'FILL' 1;">star</span>
+                        Commonly Prescribed
+                    </span>
+</div>
+<div class="grid grid-cols-2 gap-4 mt-4">
+<div>
+<span class="block font-label-caps text-label-caps text-outline uppercase mb-1">Primary Indication</span>
+<span class="font-body-lg text-body-lg text-on-surface">Rheumatoid Arthritis</span>
+</div>
+<div>
+<span class="block font-label-caps text-label-caps text-outline uppercase mb-1">Frequency</span>
+<span class="font-body-lg text-body-lg text-on-surface">Once Daily</span>
+</div>
+</div>
+</div>
+</section>
+</main>
+<!-- BottomNavBar -->
+<nav class="fixed bottom-0 left-0 w-full z-50 flex justify-around items-center px-4 py-3 pb-safe border-t border-white/10 bg-surface-container dark:bg-surface-container">
+<!-- Search -->
+<button class="flex flex-col items-center justify-center text-on-surface-variant hover:text-on-surface active:scale-90 transition-transform duration-200">
+<span class="material-symbols-outlined mb-1" data-icon="search">search</span>
+<span class="font-label-caps text-label-caps uppercase">Search</span>
+</button>
+<!-- Categories (Active) -->
+<button class="flex flex-col items-center justify-center bg-secondary-container text-on-secondary-container rounded-full px-5 py-1 active:scale-90 transition-transform duration-200">
+<span class="material-symbols-outlined mb-1" data-icon="category" style="font-variation-settings: 'FILL' 1;">category</span>
+<span class="font-label-caps text-label-caps uppercase">Categories</span>
+</button>
+<!-- Favorites -->
+<button class="flex flex-col items-center justify-center text-on-surface-variant hover:text-on-surface active:scale-90 transition-transform duration-200">
+<span class="material-symbols-outlined mb-1" data-icon="medical_services">medical_services</span>
+<span class="font-label-caps text-label-caps uppercase">Favorites</span>
+</button>
+<!-- History -->
+<button class="flex flex-col items-center justify-center text-on-surface-variant hover:text-on-surface active:scale-90 transition-transform duration-200">
+<span class="material-symbols-outlined mb-1" data-icon="history">history</span>
+<span class="font-label-caps text-label-caps uppercase">History</span>
+</button>
+</nav>
+<script>
+        // Simple micro-interaction for card highlighting
+        document.querySelectorAll('.group').forEach(card => {
+            card.addEventListener('click', () => {
+                // Future expansion: navigate to drug details
+                console.log('Drug clicked:', card.querySelector('h3').innerText);
+            });
+        });
+    </script>
+</body></html>

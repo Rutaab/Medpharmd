@@ -1,0 +1,1423 @@
+
+--- Page 1 ---
+Marker Full Normal Timeof Peak Return MainClinical Diseases Causing
+Name Range Rise Time to Use Elevation
+(after Normal
+injury)
+Troponini Cardiac «0.04 36 12-24 57 Most specific | Myocardial infarction
+(cTnl) Troponin ng/mL hours hours days marker for (Ml), myocarditis,
+1 myocardial cardiac trauma,
+injury sepsis (secondary),
+renal failure
+TroponinT Cardiac «0.01 36 12-48 101+ 00 MI, myocarditis, heart
+(cTnT) Troponin ng/ml hours hours days cTni, used for failure, renal failure
+T MI diagnosis
+and
+monitoring
+CK - Male: 46 24-36 2-3 General Skeletal muscle
+(Creatine 55-170 hours hours days muscle injury,
+Kinase, UA, enzyme (not —_ rhabdomyolysis, Mi,
+total) Female: specific to myositis
+30-135 heart)
+UA
+CK-MB Creatine <5%of 46 18-24 2-3 Specific for MI, myocarditis,
+Kinase-  totalCK hours hours days cardiac cardiac surgery,
+MB or<25 muscle but severe skeletal
+fraction UA less specific muscle injury
+than troponin
+Myoglobin - 25-72 1-3 6-9 24 Early marker MI (early),
+ng/mL hours hours hours of muscle rhabdomyolysis,
+(earliest injury trauma, renal injury
+)
+NT- N- <125 Variable - - Marker of Heart failure
+proBNP terminal pg/ml myocardial (acute/chronic), renal
+pro-B- (<75 wall stress dysfunction,
+type yrs), and heart pulmonary
+Natriureti <450 failure hypertension
+cPeptide pg/ml
+(>75 yrs)
+CRP C- 210 46 24-48 3-7 Non-specific Infection, sepsis,
+Reactive mg/L hours hours days marker of autoimmune
+Protein (after inflammation — diseases,
+inflamm atherosclerosis, acute
+ation coronary syndrome
+starts) (indirect marker)
+
+--- Page 2 ---
+H-FABP Heart- <6 1-3 68 24 Very early Ml (earlier than
+type ng/mL hours hours hours marker of troponin), cardiac
+Fatty myocardial ischemia, skeletal
+Acid injury muscle injury
+Binding
+Protein
+LDH Lactate 140-280 8-2 48-72 7-10 Non-specific MI, liver disease,
+Dehydrog U/L hours hours days tissue injury hemolysis, cancers,
+enase enzyme muscle injury
+GPBB Glycogen >10 ‏ارون‎ 1-4 612 1-2 Early cardiac Early myocardial
+Phosphor hours hours days marker, ischemia, unstable
+ylase detects angina, MI
+lsoenzym ischemia
+eBB before
+necrosis
+Comprehensive Guide to Cardiac Biomarkers
+Main Biomarkers Covered:
+1. Cardiac Troponin | cTnl (Cardiac troponin !— unit ng/mL /ngA)
+2. Cardiac Troponin T cTnT (hs-cTnT given in ng/.})
+3. CK-MB (Creatine Kinase - MB Isoenzyme — unit UA}
+4. Myoglobin (ng/mL)
+5. LDH (Lactate Dehydrogenase, especially LDH,/LDH2 — unit U/L)
+6. BNP & NT-proBNP (Heart Failure markers — unit pg/mL)
+7. hs-CRP (Cardiac risk/inflammation marker — unit mg/L)
+8. HFABP (Heart type - Fatty Acid Binding Protein — units: ng/mL)
+9. GPBB (Glycogen phosphorylase Isoenzyme BB) — units: ug/L)
+1) Troponin | (cTnl) — units: ng/mL (also shown in ng/L)
+Condition Representative range
+Normal (ULN/99th) > 0.04 ng/mL (< 40 ng/L)
+Diabetes Mellitus (chronic 0.01 - 0.10 ng/mL
+low-grade)
+Acute Mi— Initial (Oh, at Often <0.04 ‏ج‎ may be normal; can be 0.04-0.4 ng/mL if early rise
+presentation)
+Acute Mi— Repeat (3h/6h 3h:often + to 0.1-2.0 ng/mL; 6-12 h: 0.5-4.0+ ng/mL depending on infarct
+/1t2h) size
+
+--- Page 3 ---
+Condition Representative range
+tid MI (days-weaks 0.1-2.0 ng/mL (declining over 5-7 days; smaller infarcts lower)
+Acute Heart Failure Often mildly +: 0.05-0.5 ng/mL
+Chronic Heart Failure Low-level +: 0.02-0.5 ng/mL (linked to ongoing myocyte injury)
+‘Ischemic Heart Disease Stable IHD: usually 50,04 ng/mL; Unstable angina: may have 0.04-0.2 ng/mL
+(stable/UA)
+Chronic Kidney Disease Persistent mild +: 0.05-0.5 ng/mL (reduced clearance; depends on stage}
+Sampling times Initial: oh (presentation). Repeat: 3h and/or 6 h; further at 12-24 hif
+needed; interpret A (rise/fall) against assay A rules.
+2) Troponin T (hs-cTnT)— units: ng/L (ng/mL shown in parentheses)
+Condition Representative range
+Normal (ULN/99th) < 0.014 ng/mL
+Diabetes Mellitus 0.014-0.1 ng/mL (low-grade chronic elevation common)
+Acute MI! — Initial (0 h} Often <0.014 ng/L at very early presentation; may be 0.014-0.052 ng/L
+Acute Mi— Repeat (3/6/ 3h: 20-300 ng/L; 6-12 h: 100-5,000+ ng/L depending on infarct
+12h)
+Chronic MI (post-Mi days) Elevated for days: 50-1000+ ng/L (declining over days- weeks)
+Acute HF Often 50-500 ng/L
+Chronic HF 20-500 ng/L (higher with worse LV dysfunction)
+IHD (stable/unstable) Stable: often <14 ng/L; Unstable: 14-200 ng/L
+CkD Persistently +: 20-500+ ng/L (stage dependent)
+Sampling times 1 tea . Repeat: 1-3 h (per hs-assay algorithms) and 3-6 h; further at 12h
+3) CK (total creatine kinase) — units: U/L
+Condition Representative range
+Normal Male: 55-170 U/L; Female: 30-135 UA.
+Diabetes Mellitus Usually normal or mildly +: > 1.5x ULN(= 60-250 U/L)
+Acute Mi— Initial | May be normal at0h;+ by4-6h
+Acute Mi— Repeat Peak 24-36 h: values vary widely, often 300-3,000 U/L with large MI
+
+--- Page 4 ---
+Condition Representative range
+
+Chronic MI Returns toward normal over days; may remain mildly + for 2-3 days
+
+me HE/Ghronie Often normal; mild + if concomitant muscle injury
+
+IHD Usually normal unless recent infarct
+
+‎CK can be elevated with muscle wasting or reduced clearance of metabolites‏ و6
+‎(variable)‏
+
+‎Sampling times Initial: 0 h. Repeat: 6-12 h and 24 h (peak).
+
+‎4) CK-MB — units: U/L (or % of total CK)
+
+‎Condition Representative range
+
+‎Normal CK-MB: <25 U/L or <5% of total CK
+
+‎Diabetes Mellitus — Typically normal; mild + if cardiac strain
+
+‎Acute M!— Initial May be normal at 0-h;+ by 4-6h
+
+‎Acute MI— Repeat Peak 18-24 h: ranges >50-500 U/L depending on size; falls by 48-72 h
+
+‎Chronic MI Returns to baseline over days; useful to detect reinfarction if rises again
+
+‎HF /IHD /CKD Variable; CK-MB more specific to cardiac muscle than total CK
+
+‎Sampling times Initial: 0h. Repeat: 6-12 h and 18-24 h; repeat at 48-72 h to demonstrate fall.
+
+‎5) Myoglobin — units: ng/mL
+
+‎Condition Representative range
+
+‎Normal 25-72 ng/mL
+
+‎Diabetes Mellitus May be mildly + with diabetic myopathy: 50-300 ng/mL
+
+‎Acute Ml — Initial Rises 1-3 h: initial elevation often >72 ng/mL
+
+‎Acute MI— Repeat Peak 6-9 h: can reach 200-2,000+ ng/mL (non-specific)
+
+‎Chronic MI Returns to baseline rapidly (~24 h)
+
+‎HF /IHD /CKD Variable; not specific
+
+‎Sampling times Initial: 0 h. Repeat: 1-3 h and 6-9 h (early rule-in/rule-out), then 24 h.
+
+‎6) NT-proBNP — units: pg/mL
+
+--- Page 5 ---
+Condition Representative range
+
+Normal <125 pg/ml (non-acute)
+
+Diabetes Mellitus Often mildly +: 200-600 pg/mL
+
+Acute HF — >900 pg/ml (age dependent rules: >450 pg/mL if <50 yrs, >900 pg/mL if 50-76 yrs, >1800
+
+Initial pg/mL if >75 yrs)
+
+Acute HF — Used to monitor response; falls with effective therapy (serial drops of 30% considered
+
+Repeat meaningful}
+
+Chronic HF Elevated chronically: 300-2000+ pg/mL depending on severity (NYHA class)
+
+Acute MI May be mildly + due to wall stress: 100-2,000 pg/mL
+
+IHD Often normal unless LV dysfunction present
+
+KD NT-proBNP elevated due to reduced clearance and volume overload: >300-2000+
+pg/mL
+
+Sampling times Initial: 0 h. Repeat: daily or as clinically indicated; 24-48 h for trend.
+
+7) CRP/hs-CRP — units: mg/L
+
+Condition Representative range
+
+Normal (hs-CRP) <1 mg/L (low CV risk)
+
+Diabetes Mellitus Chronic low-grade inflammation: 3-10 mg/L (hs-CRP often >3 mg/L)
+
+Acute Ml — Initial May be normal early (first few hours); often + within 24 h
+
+Acute Mi— Repeat 24-72 h: CRP often >20-100 mg/L depending on infarct size and inflammation
+
+‎Elevated in larger infarcts; may remain mildly + for weeks‏ سد
+
+‎Acute/Chronic HF Mild-moderate elevation: 5-50 mg/L depending on comorbidity
+
+‎IHD Higher baseline hs-CRP predicts IHD risk (hs-CRP 1-3 mg/L = intermediate)
+
+‎CKD CRP often + due to chronic inflammation; ranges widely
+
+‎Sampling times iil 0h (but not useful very early). Repeat: 24 h and 48-72 h for peak and
+
+‎8) H-FABP — units: ng/mL
+
+‎Condition Representative range
+
+‎Normal <6 ng/mL
+
+‎Diabetes Mellitus Mild +: 7-15 ng/mL in some patients
+
+--- Page 6 ---
+Condition Representative range
+
+Acute Ml— Initial Rises 1-3 h; initial >6-10 ng/mL suggests early injury
+
+Acute Mi— Repeat Peak 6-8 h: can reach 20-200 ng/mL depending on assay and infarct
+
+Chronic MI Returns to baseline within 24 h
+
+HF/IHD Mild + with chronic ischemia
+
+00 May be mildly +; assay dependent
+
+Sampling times _ Initial: 0 h. Repeat: 1-3 h and 6-8 ‏زط‎ 24 h to confirm normalization.
+
+9) LDH (total) and LDH-Isoenzyme — units: U/L
+
+Condition Representative range
+
+Normal (totalLDH) 140-280 U/L
+
+Diabetes Mellitus Mild +: 200-400 UAL (variable)
+
+Acute Mi— Initial Rises after 8-12 ‏ط‎
+
+Acute MI— Repeat/ Peak 48-72 h: total LDH often 300-1,500 U/L depending on infarct; LDH-1 > LDH-2
+Peak indicates MI (“flipped pattern”)
+
+Chronic MI Remains + for days- weeks, normalizes over ~7-10 days
+
+HF /IHD Variable; not specific
+
+CKD LDH may be mildly * if tissue hypoxia or comorbidity present
+
+Sampling times Initial: 0 h. Repeat: 12-24 h and 48-72 h (LDH useful later-stage confirmation).
+10) GPBB (Glycogen phosphorylase isoenzyme BB) — units: ug/L
+
+Condition Representative range
+
+Normal <6-10 pg/L
+
+Diabetes Mellitus Mild +: 10-30 pg/L in some studies
+
+Acute Ml— Initial Rises 1-4 h: initial >10 ug/L suggests early ischemia
+
+Acute Ml— Repeat Peak 6-12 h: can reach 20-200 pg/L (assay dependent)
+
+Chronic MI Returns to baseline in 1-2 days
+
+HF/IHD Mild + in ischemic heart disease
+
+00 Variable; assay dependent
+
+Sampling times _ Initial: 0 h. Repeat: 1-4 h and 6-12 h. Early marker for ischemia prior to troponin rise.
+
+--- Page 7 ---
+Practical testing algorithms (generalized)
+٠ Chest pain /suspected acute coronary syndrome (ACS)
+o Draw:hs-cTn (lor T) at 0h and repeat at 1-3 h (per local hs-algorithm) or 0 and 3-6 h for
+conventional assays.
+o Add CK-MB if you need to detect reinfarction later (48-72 h).
+o Myoglobin, H-FABP, GPBB are useful early adjuncts (1-4 h) but not routine in many centers.
+o CRPis not diagnostic early but useful for prognostic inflammatory assessment (24-72 h rise).
+« Heart failure
+o NT-proBNP at presentation (0 h) and repeat at 24-48 h; interpret with age and renal
+function adjustments.
+« Suspected sepsis with cardiac involvement
+o Troponins may be mildly elevated; check at 0 h and repeat at 3-6 h to see kinetics.
+« Chronic kidney disease
+o Expect baseline higher troponins and NT-proBNP; use dynamic change (4) rather than
+single value to diagnose acute MI.
+Cardiac Troponins (Troponin | & Troponin T)
+Most specific and sensitive markers of myocardial injury.
+They are structural proteins released when cardiac muscle is damaged.
+Parameter Normal Mild 8 Moderate Severe Clinical Interpretation
+Range Elevation
+Troponint <0.04 0.05-05 05-20 >2,9 28-04: Myocardial injury possible. <0.5:
+Myocardial infarction (Ml). >2.0: Large
+(cTni) ng/mL = ng/mL ng/ml ng/mt 8 , ,
+infarction or ongoing necrosis.
+TroponinT <0.01 0.02-0.1  0.1-1.0 >1.0 2 <0.1: Diagnostic for MI. Persistently high>
+(cTnT) ng/mL = ng/mL ng/ml ng/ml reinfarction or ongoing injury.
+Rise & Fall Pattern:
+« Rise: 3-6 hours after injury
+« Peak: 12-24 hours
+« Return to normal: 7-14 days
+Diseases / Causes of Elevated Troponins:
+« Mild: Tachyarrhythmia, myocarditis, heart failure, pulmonary embolism, sepsis
++ Moderate to severe: Acute MI, cardiac contusion, prolonged hypotension/shock, myocarditis, renal
+failure (chronic elevation due to poor clearance)
+Key Point:
+Troponin is specific to cardiac muscle — even small elevations are clinically significant.
+
+--- Page 8 ---
+CK-MB (Creatine Kinase - MB Isoenzyme)
+Second most specific marker for myocardial damage, particularly useful for detecting reinfarction
+(since it normalizes earlier than troponin).
+Parameter Normal Range Mild 8 Moderate Severe Clinical Interpretation
+Elevation
+ces ‏سي‎ 5 ym OR ‏ييا‎
+‎Rise & Fall Pattern:
+« Rise: 3-6 hours after infarction
+© Peak: 12-24 hours
+« Returns to normal: 2-3 days
+Uses:
+٠ Early diagnosis of MI (with troponin)
+٠ Detecting reinfarction after initial MI (because it returns to baseline quickly)
+Diseases /Causes of CK-MB Elevation:
+٠ Myocardial infarction
+« Myocarditis
+« Cardiac surgery or trauma
+٠ Severe skeletal muscle injury (mild elevation possible}
+Myoglobin
+Earliest marker to rise after cardiac injury but nonspecific (also found in skeletal muscle).
+Parameter Ronse vevation Moderate Severe Clinical Interpretation
+Myoglobin 10-95 96-150 150-500 >500 Early marker of MI, but may also increase in
+ng/ml ng/m ng/ml ng/mL skeletal muscle trauma or renal failure.
+Rise & Fall Pattern:
+« Rise: 1-3 hours after injury (earliest)
+٠. Peak: 6-9 hours
+« Return to normal: Within 24 hours
+Key Role:
+« Best used for early exclusion of Mi (a normal myoglobin after 8 hours > MI unlikely).
+LDH (Lactate Dehydrogenase) and Isoenzymes (LDH1, LDH2)
+
+--- Page 9 ---
+Older marker, now mosily historical, but still useful for late diagnosis (post-24h infarction).
+Parameter Ronse ‏بيد‎ tion Moderate Severe Clinical Interpretation
+LDH (Total) 122-222 UA. 24 oe we ‏مسد‎ on an hemolysis, hepatic injury,
+LoniADHE LOH <LDH2 Loz tract of hl appears 12.2 posl
+ratio (normal) LDH2 persists 5-7 days).
+Rise & Fall Pattern:
+« Rise: 12-24 hours
+« Peak: 48-72 hours
+« Return to normal: 7-10 days
+Diseases:
+٠ Myocardial infarction (LDH1>LDH2)
+« Hemolytic anemia (LDH1, LDH2 +)
+« Hepatic injury (LDH5 +)
+AST (Aspartate Aminotransferase)
+Once used as a cardiac enzyme before troponin testing became available.
+Parameter Rene. ‏ايد‎ tion Moderate Severe Clinical interpretation
+AST 848UA 49-100UA ‏د‎ eid myocardial injury, botean ao be hepatic or
+muscular in origin.
+Rise & Fall Pattern:
+« Rise: 6-8 hours
+٠. Peak: 24 hours
+« Return to normal: 4-5 days
+Key Point:
+Non-specific; rarely used now except as part of total LFT or historical correlation.
+BNP (B-type Natriuretic Peptide) & NT-proBNP
+Markers of heart failure (HF) and cardiac wall stress.
+
+--- Page 10 ---
+Parameter Normal Range a tion Moderate Severe Clinical Interpretation
+NP <100pq/mL eink. Highoremoreseveretunetn.
+NT- < 125 pg/ml (age<75) 300-900 900-2000 >2000 Sensitive marker for LV
+proBNP <450pg/ml (age>75) pg/mL pg/mL pg/mL — dysfunction and prognosis in HF.
+Interpretation:
+« Mild: Early LV dysfunction, controlled heart failure
+« Moderate: Acute decompensated HF
+٠ Severe: Chronic advanced HF or cardiomyopathy
+Non-cardiac causes of elevation:
+Renal failure, pulmonary hypertension, sepsis, elderly age.
+hs-CRP (High-sensitivity C-Reactive Protein)
+A marker of inflammation and cardiovascular risk, not direct myocardial necrosis.
+Parameter Category hs-CRP Level interpretation
+Low Risk <i mg/L Minimal inflammation, low CVD risk
+meee 1-3 mg/L Mild inflammation, moderate risk
+High Risk 23mg. eae 00 high CVD risk (atherosclerosis, unstable
+Clinical Uses:
+٠ Predicts risk of future MI, stroke, or coronary artery disease
+« Useful in conjunction with lipid profile
+‏7ه‎ Diagnostic Timing Summary (by hours post-injury)
+Marker Rise (hrs) Peak (hrs) Returnto Normal Usefulness
+Myoglobin 1-3 69 24h Earliest marker, low specificity
+CK-MB 36 12-24 2-3 days Detects reinfarction
+Troponini/T 36 12-24 7-14 days Gold standard for MI
+LDH 12-24 48-72 7-10 days Late marker (historical)
+AST 68 24 4-5 days Supportive only
+BNP/NT-proBNP Continuous — Depends on therapy Heart failure monitoring
+
+--- Page 11 ---
+Diagnostic Pattern Recognition
+Pattern Key Findings Indicative Conditions
+Acute MI Troponin +, CK-MB ++, LDHI>LDH2 Myocardial infarction
+Reinfarction New CK-MB rise after normalization Secondary infarct
+Heart Failure BNP/NT-proBNP +, Troponin mild + LY dysfunction or decompensated HF
+Myocarditis Troponin * (mod.), CK-MB mild + Viral/autoimmune myocarditis
+Skeletal muscle injury CK-MM +, Myoglobin + but Troponin normal Trauma, rhabdomyolysis
+Chronic renal disease Troponin mild + (due to clearance) Non-ischemic elevation
+38 One-Page Numeric Summary
+Marker Normal Mild Moderate Severe Major Diagnostic Use
+Troponin! <0.04 ng/mL 0.05-0.50.5-20 >2.0 Mi(goldstandard)
+Troponin T <0.01 ng/mL 0.02-0.10.1-1.0 >1.0 MI, myocarditis
+CK-MB <5 ng/mL 510 10-25 >25 ~~ MI, reinfarction
+Myoglobin 10-95 ng/mL 96-150 150-500 >500 EarlyMi marker
+LDH (Total) 122-222 UA. 223-444 445-800 >800 Late MI/hemolysis
+LDH1/LDH2 ratio <1 =f >t - LDH1>LDH2 = MI
+AST 8-48 UA 49-100 100-300 >300 Supportive
+BNP <100 pg/mL 100-300 300-900 >900 Heart failure severity
+NT-proBNP <125/<450 (age dep.) 300-900 900-2000 >2000 LV dysfunction
+hs-CRP <i mg/. 1-3 - >3 Cardiac risk marker
+Practical Interpretation Summary
+٠ Troponin = gold standard for MI (specific and sensitive).
+٠ CK-MB helps confirm reinfarction after initial MI.
+« Myoglobinrises first > good for early rule-out.
+« LDH1>LDH2 flip confirms MI when late.
+٠ BNP/NT-proBNP measure heart failure severity and prognosis.
+« _hs-CRP measures cardiac inflammation and atherosclerotic risk.
+
+--- Page 12 ---
+Sources for the key numeric/layered guidance: StatPearls (LFT overview), Mayo Clinic LFT pages, Medscape
+reference values, Cleveland Clinic, and DynaMed for severity-multiples. (NCBI)
+Quick reference — common LFT panel (normal adult ranges)
+٠ ALT (alanine aminotransferase):= 7-55 U/L (many labs use 7-45 U/L). (Mayo Clinic)
+« AST (aspartate aminotransferase):= 8-48 U/L (many labs 10-35). (Mayo Clinic)
+٠ Alkaline phosphatase (ALP):= 30-120 U/L (adult) - age/sex dependent. (accp.com)
+٠ GGT (y-glutamy! transferase):= 8-61 U/L (males) /5-36 U/L (females) in many labs. (Mayo Clinic)
+٠ Total bilirubin: = 0.1-1.2 mg/dL (0.3-1.0 commonly cited). (Mayo Clinic)
+« Direct (conjugated) bilirubin:= 0.1-0.3 mg/dL. (Medscape)
+« Albumin: 3.5-5.0 g/dL. (Mayo Clinic)
+٠ Total protein: 6.3-7.9 g/dL. (Mayo Clinic)
+٠ Prothrombin time (PT): lab-dependent; INR normal = 0.9- 1.2. Prolongation = impaired synthetic
+function. (Mayo Clinic)
+« Ammonia (venous): commonly ~10-50 mol/L (lab dependent; values >100 yumol/_ are clinically
+concerning for encephalopathy). (Medscape)
+٠ LDH (total) (often reported): = 122-222 U/L (lab dependent) — nonspecific tissue marker. (Mayo
+Clinic)
+Severity tiers — practical definitions (used clinically)
+For aminotransferases (ALT/AST) clinicians commonly use multiples of the upper limit of normal (ULN).
+DynaMed/clinical references commonly describe:
+٠ Mild: = 1-2 ULN (some sources: 2-5x ULN considered mild in other contexts)
+٠ Moderate: 2-5x ULN (or 5-15x ULN in some classifications)
+٠ Severe/massive: >5-15x ULN (very large rises seen in acute viral hepatitis, ischemic hepatitis) —
+e.g., AST/ALT > 1000 U/L = severe/acute massive injury. (dynamed.com)
+For ALP (cholestatic enzyme):
+٠ Mild:<2* ULN
+« Moderate: 2-4x ULN
+« Marked/severe: >4x ULN (cholestasis/obstruction commonly gives 24x). StatPearls notes ALP 24x
+ULN frequently occurs in cholestatic disease. (NCBI)
+For GGT and 5'-NT: interpret relative to ALP— if ALP elevated and GGT or 5'-nucleotidase elevated, origin
+is hepatic (not bone). No universal absolute cutoffs; use multiples of ULN: mild <3x, moderate 3-10x,
+severe >10x as pragmatic bins.
+Bilirubin:
+« Mild: total bilirubin >1.2-2.0 mg/dL (may be asymptomatic)
+٠ Clinically visible jaundice:22.5-3.0 mg/dL (skin/scleral yellowing)
+
+--- Page 13 ---
+٠ Severe/critical: >10-20 mg/dL (risk of bilirubin encephalopathy in neonates; in adults points to
+
+major cholestasis or liver failure). (Cleveland Clinic}
+Albumin:
+
+٠ Normal: 3.5-5.0 g/dL.
+
+« Mild hypoalbuminemia: 3.0-3.5 g/dl — may reflect chronic disease, malnutrition.
+
+٠ Moderate: 2.0-3.0 g/dl — suggests chronic significant synthetic dysfunction or severe
+malnutritionnephrotic loss.
+
+« Severe: <2.0 g/dl — marked synthetic failure (advanced chronic liver disease or nephrotic
+syndrome).
+
+PT/INR:
+
+٠ Normal INR ~0.9-1.2.
+
+٠ Clinically significant prolongation: INR 21.5 (impaired synthetic function /increased bleeding risk)
+— inacute liver failure or decompensation this is a key prognostic marker. (PMC)
+
+Test-by-test: ranges and what each level suggests
+
+Below each test | list: Normal range, mild/moderate/severe numeric bins (where practical), and
+differential/diseases commonly associated with each bin.
+
+1) ALT (alanine aminotransferase) — hepatocellular enzyme
+
+٠ Normal: ~7-55 U/L (lab dependent). (Mayo Clinic)
+
+٠ Mild: 1-2« ULN(= 55-110 U/L) > fatty liver (NAFLD), chronic hepatitis (mild), medications, alcohol
+use.
+
+٠ Moderate: 2-5x ULN (= 110-275 U/L) > acute viral hepatitis (early), autoimmune hepatitis (mild-
+moderate), alcoholic hepatitis, drug-induced liver injury (DILI).
+
+٠ Severe/Very high: >5- 15x ULN (= >275-825 U/L) and especially >1,000 U/L ischemic hepatitis
+(shock liver), acute viral hepatitis (A/B), toxin-induced necrosis (e.g., acetaminophen), severe DILI.
+(dynamed.com)
+
+Notes: ALT is more liver-specific than AST. Ratio AST/ALT matters (see below).
+2) AST (aspartate aminotransferase) — hepatocellular but also from muscle/heart
+
+« Normal: ~8-48 U/L (lab dependent). (Mayo Clinic)
+
+«= Mild: 1-2 ULN (= 48-96 U/L) > chronic liver disease, NAFLD, mild alcohol use, chronic viral hepatitis.
+
+٠ Moderate: 2-5x ULN (= 96-240 U/L) > acute hepatitis, toxic injury, alcoholic hepatitis.
+
+« Severe: >5-15x ULN (>300->1000 UA) > ischemic hepatitis, severe viral/toxic hepatitis,
+rhabdomyolysis (if muscle source). (dynamed.com)
+
+AST-ALT ratio:
+« AST/ALT >2 suggests alcoholic hepatitis (classically) or advanced fibrosis/cirrhosis.
+
+--- Page 14 ---
+٠ AST>ALT but <2 can be seen in many conditions; ALT predominance suggests nonalcoholic fatty
+liver disease (NAFLD) or viral hepatitis.
+
+٠ 2 ‏]ا‎ 8517 and ALT both extremely high (>1,000 U/L) > think ischemic hepatitis, acute viral hepatitis, or
+toxin (e.g., acetaminophen).
+
+3) Alkaline phosphatase (ALP) — cholestatic pattern (biliary/bone)
+
+« Normal:= 30-120 U/L (adults). (accp.com)
+
+٠ Mild: <2x ULN (e.g., 120-240 U/L) > fatty infiltration, mild cholestasis, bone growth/turnover.
+
+« Moderate: 2-4x ULN (240-480 U/L) > intrahepatic cholestasis (PBC early, infiltrative disease),
+biliary obstruction partial.
+
+« Severe / Marked: >4x ULN (2 ~480 U/L) > extrahepatic obstruction (common bile duct stone or
+malignant obstruction), primary sclerosing cholangitis, cholangiocarcinoma. (NCBI)
+
+Key point: If ALP is elevated, measure GGT or5’-nucleotidase: if GGT + with ALP + > hepatic/biliary
+source; if GGT normal > bone source more likely.
+4) GGT (y-glutamy! transferase) — sensitive marker for biliary/hepatic origin
+
+« Normal:= 8-61 U/L (males; lab dependent). (Mayo Clinic)
+
+« Interpretation: GGT is not liver-specific for disease severity but helps identify hepatic vs bone
+origin of ALP.
+
+o Elevated mildly (1-3x): alcoholic use, chronic biliary disease, some medications (phenytoin,
+phenobarbital).
+o Markedly elevated (> 10x): significant cholestasis or biliary obstruction. (Cleveland Clinic)
+5) Total bilirubin & direct (conjugated) bilirubin
+
+٠ Total bilirubin normal: = 0.1-1.2 mg/dL (some labs 0.3- 1.0). Direct bilirubin = 0.1-0.3 mg/dL.
+(Mayo Clinic}
+
+« Mild elevation (total): 1.3-2.5 mg/dL > Gilbert syndrome (unconjugated), hemolysis (indirect), mild
+cholestasis.
+
+٠ Moderate: 2.5-10 mg/dL> significant hemolysis, intrahepatic cholestasis, viral hepatitis, drug-
+induced cholestasis. Jaundice usually visible >2.5-3 mg/dL. (Cleveland Clinic)
+
+« Severe: >10 mg/dl > severe obstruction (extrahepatic), advanced liver failure; conjugated
+predominance signals cholestasis, unconjugated predominance signals hemolysis or impaired
+conjugation.
+
+Clinical clues:
+
+« Predominantly unconjugated + (indirect): hemolysis, Gilbert, Crigler-Najjar.
+
+« Predominantly conjugated + (direct): cholestasis (biliary obstruction), cholangitis, drug-induced
+cholestasis, hepatocellular injury with impaired excretion.
+
+--- Page 15 ---
+6) Albumin (hepatic synthetic function)
+
+« Normal: 3.5-5.0 g/dL. (Mayo Clinic}
+
+٠ Mild ¥:3.0-3.5 g/dL > chronic inflammation, malnutrition, early liver disease, nephrotic syndrome.
+
+٠ Moderate 4: 2.0-3.0 g/dL > significant chronic liver disease/cirrhosis, severe malnutrition, protein
+
+loss.
+
+« Severe ¥:<2.0 g/dl > advanced synthetic failure (decompensated cirrhosis) — note albumin
+
+changes slowly (weeks) and is not an acute marker.
+Interpretation: Low albumin suggests chronic liver dysfunction, protein wasting, or increased losses (renal
+Gi). Not useful for acute liver injury diagnosis because of long hait-life.
+7) Prothrombin time (PT) / INR (hepatic synthetic function)
+
+« Normal INR:~ 0.9-1.2. (Mayo Clinic)
+
+« Mild prolongation: INR 1.3-1.5 ‏ج‎ mild synthetic impairment, vitamin K deficiency, early liver
+
+disease, anticoagulant use.
+
+٠ Clinically significant / moderate: INR21.5- impaired hepatic synthesis (significant), correlates
+
+with bleeding risk and morbidity in sepsis/critical illness. (PMC)
+
+٠ Severe: INR >2-3 without anticoagulant > severe synthetic failure (acute liver failure or advanced
+
+cirrhosis).
+Clinical role: PT/INR is among the most important acute prognostic markers (used in transplant criteria
+and acute liver failure scoring).
+8) Ammonia (NH;) — encephalopathy marker (not routine LFT)
+
+« Normal venous: roughly 10-50 pmol/L (lab dependent). (Medscape)
+
+« Mild elevation: 50-100 pmol/L > mild encephalopathy risk.
+
+٠ Moderate: 100-200 pmol/L > significant encephalopathy; consider therapy.
+
+٠ Severe: >200 pmol/L > high risk of coma, cerebral edema; consider urgent dialysis. (NCBI)
+Pitfalls: ammonia assay variability and preanalytic issues (tourniquet, tourniquet time, delayed
+processing) reduce reliability; interpret clinically.
+
+9) 5’-Nucleotidase & Other cholestatic markers
++ 5?-Nucleotidase is more specific for hepatic ALP origin (helps distinguish bone vs hepatic ALP). No
+single universal numeric cutoff provided here because assays vary; clinically used qualitatively:
+when ALP is high elevated 5’NT or GGT supports hepatic source. (NCBI)
+10) LDH (lactate dehydrogenase) — nonspecific, supportive
+٠ Normal: lab dependent (e.g., = 120-220 UA).
+
+--- Page 16 ---
+« Mild/moderate/severe elevations are nonspecific ‏ح‎ seen in hemolysis, hepatic necrosis,
+malignancy, ischemia. LDH isoenzymes (LDH-5 in liver) can help but seldom used routinely if specific
+LFTs available.
+
+Patterns of abnormality — how to read the panel
+1. Hepatocellular (injury) pattern
+o AST/ALT dominant (ALT usually > AST except alcohol): AST and ALT + (mild-severe).
+o Suggests: viral hepatitis, toxin/drug injury, autoimmune hepatitis, ischemic hepatitis (very
+high), NAFLD (mild). (NCBI)
+2. Cholestatic (obstructive) pattern
+o ALP? + 6617+ + conjugated bilirubine (ALP often 22-4x ULN).
+o Suggests: extrahepatic obstruction (gallstone, tumor), intrahepatic cholestasis (PBC, PSC,
+drugs). Use imaging/ultrasound. (NCBI)
+
+3. Mixed pattern
+
+o Moderate increases in both aminotransferases and ALP > mixed hepatocellular/cholestatic
+causes (e.g., drug-induced liver injury, autoimmune disease, cholangitis).
+
+4. Isolated bilirubin +
+
+٠ Conjugated + > cholestasis or severe hepatocellular dysfunction.
+o Unconjugated + > hemolysis, Gilbert syndrome, impaired conjugation.
+5. Synthetic dysfunction pattern
+o Lowalbumin + prolonged PT/INR- impaired synthetic capacity (chronic or acute severe
+liver failure). PT/INR is the best short-term marker of synthetic failure. (Mayo Clinic)
+Practical diagnostic approach (short)
+
+1. Step 1— Pattern recognition: Are AST/ALT or ALP predominant? Check GGT and direct bilirubin to
+confirm hepatic source. (NCBI)
+
+2. Step 2— Severity: Use ULN multiples for AST/ALT and ALP to classify mild/moderate/severe. Very
+high aminotransferases (> 1,000 U/L) > ischemia or toxin. (dynamed.com)
+
+3. Step 3— Synthetic function: Check albumin and PTANR — if INR 21.5 or albumin low, consider
+acute liver failure or chronic decompensation. (PMC)
+
+4. Step 4— Targeted tests: Viral hepatitis serologies, ultrasound (for obstruction), autoimmune
+markers, iron studies, ceruloplasmin, drug/toxin history.
+
+5. Step 5— Manage/treat based on cause: e.g., ERCP for obstructive stone; N-acetylcysteine for
+acetaminophen; supportive/ICU care for ischemic hepatitis.
+
+Common pitfalls & caveats
+
++ Labranges vary by method, reagent, and lab. Always compare to the local tab’s reference range
+
+and express abnormalities as multiples of ULN when possible. (accp.com)
+
+--- Page 17 ---
+٠. ASTis 2701 liver-specific— muscle injury, hemolysis, myocardial infarction can raise AST. Check CK if
+in doubt. (NCBI)
+٠ GGTis inducible by alcohol & drugs — isolated GGT elevation may reflect alcohol use or enzyme
+induction. (Cleveland Clinic)
+٠ Albumin changes slowly; it reflects chronic status more than acute injury.
+« Ammonia levels are lab-sensitive and not always diagnostic alone for encephalopathy — use
+clinical correlation. (AASLD)
+One-page numeric summary (For quick printing)
+(Units = U/L unless stated)
+٠ ALTnormal: 7-58 + mild: 55-110, moderate 110-275, severe >275 (very severe often >1000). (Mayo
+Clinic)
+٠ AST normal: 8-48 mild 48-96, moderate 96-240, severe >240 (very severe >1000). (Mayo Clinic)
+e ALP normal: 30-120 > mild <240, moderate 240-480, severe >480 (24* ULN common in cholestasis).
+(acep.com)
+٠ GGT normal: 8-61 mild <3x ULN, moderate 3-10, severe >10x (useful to confirm hepatic origin of
+ALP). (Cleveland Clinic)
+٠ Total bilirubin normal: 0.1-1.2 mg/dL > mild 1.3-2.5, jaundice often 22.5-3 mg/dL, severe >10
+mg/dL. (Medscape)
+٠ Albumin normal: 3.5-5.0 g/dl > mild hypoalbuminemia 3.0-3.5, moderate 2.0-3.0, severe <2.0.
+(Mayo Clinic)
+٠. —PTANR normal INR: 0.9-1.2> clinically significant prolongation INR 21.5; severe >2-3. (Mayo Clinic)
+« Ammonia normal: ~10-50 umol/L > >100 pmol/L concerning for encephalopathy; >200 mol/L high
+risk for cerebral edema. (Cleveland Clinic)
+If you'd like, | can now:
+1. Export this as a single-page printable PDF with the numeric tables and the quick-reference
+summary; or
+2. Create an editable spreadsheet (XLSX/CSV) listing each test, normal range, mild/moderate/severe
+numeric bins, and top differential diagnoses for each bin; or
+3. Make a diagnostic flowchart image (hepatocellutar vs cholestatic > next steps) for teaching.
+Which format do you prefer?
+Here’s a complete, in-depth, and clinically practical guide on Renal Function Tests (RFTs)— written in
+the same structured, diagnostic, and interpretive format as for cardiac biomarkers.
+& Comprehensive Guide: Renal Function Tests (RFTs)
+
+--- Page 18 ---
+Renal function tests assess the kidney’s ability to filter waste, maintain fluid/electrolyte balance, and
+regulate acid-base status. The major components include serum creatinine, blood urea nitrogen (BUN),
+estimated GFR, uric acid, electrolytes, urine analysis, and specific tubular function tests.
+17 1. Serum Creatinine
+Normal Moderately 8 Clinical
+Parameter Range Elevated Highly Elevated Interpretation
+- Moderate rise: Pre-renal azotemia
+Men: 0.7-1.3 >2.0 mg/dL (dehydration, shock), mild renal impairment -
+"an 1.4-2.0 (often <5 mg/dL Marked elevation: Acute kidney injury (AKI),
+mg/dl Women: 3 0000 1
+0.6-1.1 mg/dl mg/dL insevere chronic kidney disease (CKD),
+failure) glomerutonephritis, rhabdomyolysis,
+obstructive uropathy
+
+‎Interpretation tip:‏ لآ
+‎Creatinine rises only after >50% nephron loss not an early indicator of kidney disease.‏
+‎Blood Urea Nitrogen (BUN)‏ .2 @
+
+‎Ne 1 ‏للع‎
+‎Parameter jormal Moderately Elevated Highly Elevated Clinical 5
+
+‎Range interpretation
+
+‎- Moderate elevation: Pre-renal causes
+250 mg/dL (may : 8
+7-20 21-50 reach 200-300 (dehydration, CHF, GI bleed) High 1
+1 elevation: Acute renal failure, chronic renal
+mg/dL mg/dL mg/dl in severe 7 ١ : 8
+8 failure, high protein catabolism, steroid
+renal failure)
+therapy
+& BUN: Creatinine Ratio
+Ratio Interpretation
+>20:1 — Pre-renal azotemia
+10-20:1 Normal or intrinsic renal disease
+<10:1 Liver disease or low protein intake
+44 3. Estimated Glomerular Filtration Rate (eGFR)
+Normal Mildly Moderate 1 :
+Parameter Value Reduced Decline Severe Decline / Failure
+290 -eGFR >60 for <3 months > CKD -eGFR >15 > End-
+mL/min/1.73 m? 60-89 30-59 <30 stage renal disease (ESRD) requiring dialysis
+& Formulas:
+٠ CKD-EP! or MDRD are commonly used; based on creatinine, age, sex, and race.
+
+--- Page 19 ---
+4. Serum Uric Acid
+Normal Moderate ,,, 1 Clinical
+Parameter Range Elevation High Elevation interpretation
+Men:3.4-7.0 1 Mild- moderate rise: CKD, dehydration, gout,
+7-9 increased nucleic acid turnover - High rise:
+mg/dl Women: <9 mg/dL , 8
+24-60 mg/al mg/dL Tumor lysis syndrome, severe renal failure,
+diuretics, Lesch-Nyhan syndrome
+#5. Serum Electrolytes
+Normal 5000 8 8 595
+Electrolyte Range Abnormalities in Renal Dysfunction _ Associated Conditions
+8 135-145 ‏مأ‎ renal failure (hyponatremia), + in 5
+Sodium (Na*) mEq. dehydration AKI, CHF, nephrotic syndrome
+5 a 355.0 8 7 2010 conte fe
+Potassium (K*) mEq/. + in renal failure, v in diuretic use AKI, CKD, Addison’s disease
+7 5 8 100000 5 ae
+Chloride (CI) mEq/. + in metabolic acidosis, Vin vomiting Renal tubular acidosis
+8 8.5-10.5 vin CKD (due tov vitamin D), vin
+2 F)
+Calcium (Ca?) mg/dl hyperparathyroidism CKD, renal osteodystrophy
+Phosphorus 25-5 pin CKD Hyperphosphatemia > bone-
+(P07) mg/d. mineral disorders
+Magnesium 17-2 5 5 5
+00 mg/al + in renal failure Neuromuscular depression
+‏لآ‎ 6. Urinalysis Parameters
+Test Normal Result Abnormal Findings and Their Indications
+Protein Negative or <150 mg/day Proteinuria > CKD, glomerulonephritis, diabetic nephropathy
+Glucose Negative Glycosuria > diabetes, renal tubular dysfunction
+Blood Negative Hematuria ‏ج‎ stones, infection, tumors, glomerulonephritis
+Specific Gravity 1.005- 1.030 vin CKD (loss of concentrating ability)
+pH 4.5-8.0 Alkaline > infection; Acidic > metabolic acidosis
+Casts / Crystals None RBC casts (GN), WBC casts (pyelonephritis), waxy casts (CKD)
+Q 7. Cystatin C (Newer Marker)
+
+--- Page 20 ---
+Parameter Normal Elevated Value Clinical
+Range Use
+0.6-1.0 >1.0ma/L Early detection of renal dysfunction before creatinine rises. Excellent
+mg/L Omg for early CKD detection, diabetes, hypertension, and elderly patients.
+‏لآ‎ 8. Tubular Function Tests
+Test Normal Range / Response Interpretation When Abnormal
+Concentration teste “UNESP ecific gravity after water vin tubular dysfunction or CKD
+deprivation
+Acidification test Urine pH >5.5 after acid load Higher pH > Distal renal tubular acidosis
+Phosphate excretion 10-20% exoreted 4 > Proximal tubular defect (Fanconi
+test syndrome)
+8 Integrated Diagnostic Pattern Recognition
+Pattern Findings Likely Diagnosis
+‏بيده‎ + High Creatinine + BUN:Cr Dehydration, shock Pre-renal AKI
+High BUN + High Creatinine + BUN:Cr Glomerular/tubular damage Intrinsic renal disease (ATN,
+<10:1 GN)
+Normal BUN + High Creatinine Muscle injury, 7 Post-renal or muscular origin
+rhabdomyolysis
+High Uric Acid + High Creatinine CKD, gout, tumor lysis Renal failure with
+hyperuricemia
+/flSummary Table: Sampling Schedule
+Test Initial Repeat Samplin Clinical Use
+Sampling 7 ping
+Creatinine, BUN, Baseline Every 24-48 hrs in AKI/every 3 months Monitoring renal function
+eGFR inCkKD
+Electrolytes Baseline Daily (acute) / weekly (chronic) Electrolyte balance
+Urinalysis Baseline Monthly or as indicated Proteinuria, infection
+CystatinC Baseline 1-3 months Early CKD progression
+Uric Acid Baseline As indicated Hyperuricemia
+management
+
+--- Page 21 ---
+& Comprehensive Guide to important and Common Clinical Terms
+
+‎General Clinical Terms‏ .1 7ه
+
+‎Term Definition Clinical Meaning / Use
+
+‎Diagnosis Identification of a disease or condition imaging after assessment, labs, and
+Prognosis Expected outcome or course ofa disease Can be good, guarded, or poor
+Etiology Cause or origin of a disease e¢.g., bacterial, viral, genetic, idiopathic
+Pathogenesis Mechanism of disease development Explains how the disease progresses
+Symptom Subjective complaint by patient @.g., pain, nausea, fatigue
+
+‎Sign Objective finding observed by clinician _e.g., rash, fever, edema
+
+‎Syndrome ‏د‎ mptoms and signs 009 e.g., Down syndrome, nephrotic syndrome
+Acute Sudden onset and short duration @.g., acute appendicitis
+
+‎Chronic Long-lasting or recurrent condition ©.9., chronic kidney disease
+
+‎Subacute Between acute and chronic ©.9., subacute bacterial endocarditis
+idiopathic Of unknown cause e.g., idiopathic pulmonary fibrosis
+fatrogenic paused by medal tion @.g., drug-induced nephropathy
+Nosocomial Hospital-acquired infection @.g., MRSA infection in ICU
+
+‎Remission Period of reduced or no symptoms fommen incancers or autoimmune
+Relapse / : 5 8
+Recurrence Return of disease after improvement ©.9., relapse of tuberculosis
+Exacerbation Worsening of chronic symptoms @.g., COPD exacerbation
+
+‎® 2. Clinical Severity Terms
+
+‎Term Definition Use /Example
+
+‎Mild Slight abnormality without major dysfunction Mild anemia
+
+‎Moderate Noticeable changes, some functional limitation Moderate renal impairment
+
+‎Severe Marked abnormality, significant dysfunction Severe heart failure
+
+--- Page 22 ---
+Term Definition Use /Example
+Critical Life-threatening condition Critical sepsis, shock
+Stable Vital signs within safe range, not worsening _— Stable angina
+Unstable Rapidly changing, may deteriorate Unstable angina, shock
+Compensated Body adjusts to dysfunction Compensated liver cirrhosis
+Decompensated Compensatory mechanisms fail Decompensated heart failure
+® 3. Diagnostic & Laboratory Terms
+Term Definition Example / Interpretation
+Reference Range Normal range for a lab test @.g., creatinine 0.6-1.2 mg/dL
+Baseline Value Initial test result before treatment Used to monitor progress
+Titer Concentration of antibodies in blood High titer = strong immune response
+Positive Predictive Value Likelihood that a positive test 7
+(PPV) indicates disease Higher PPV = more accurate test
+Negative Predictive Value Likelihood that a negative test rules High NPV = reliable exclusion
+(NPV) out disease
+Sensitivity Test’s ability to detect disease High sensitivity > fewer false negatives
+Specificity Test’s ability to rule out disease High specificity > fewer false positives
+Cut-off Value Threshold separating normal from @.g., Troponin >0.04 ng/mL = MI
+abnormal
+.g., CRP high in infecti
+False Positive Test shows disease when absent 8 9 » CRP high in infection but no
+disease
+False Negative Test misses disease presence e.g., early MI with normal troponin
+Trend Monitoring Following serial test results 99. 9 creatinine = worsening
+renal function
+@ 4. Hemodynamic and Vital Terms
+Term Definition Normal Range / Meaning
+Blood Pressure (BP) Pressure of circulating blood on vessel walls Normal: 120/80 mmHg
+Tachycardia Heart rate >100 bpm Seen in fever, shock, anxiety
+Bradycardia Heart rate <60 bom Seen in athletes, heart block
+Tachypnea Respiratory rate >20/min Seen in acidosis, pneumonia
+
+--- Page 23 ---
+Term Definition Normal Range / Meaning
+Bradypnea Respiratory rate <12/min CNS depression, drug overdose
+Hypoxia Low oxygen in tissues Causes cyanosis
+
+Hypotension Low BP <90/60 mmHg Seen in shock, dehydration
+Hypertension High BP >140/90 mmHg Chronic heart/renal disease
+Pyrexia Fever >38°C Infection or inflammation
+
+Afebrile Normal temperature Indicates recovery or absence of fever
+‏لآ‎ 5. Fluid, Electrolyte, and Metabolic Terms
+
+Term Definition Clinical Relevance
+
+Dehydration Loss of body fluids + BUN, + sodium
+
+Overhydration Excess fluid retention v sodium, edema
+
+Hyponatremia Na*<135 mEq/L Dilutional (SIADH), renal loss
+
+Hypernatremia Na*>145 mEq/. Dehydration, diabetes insipidus
+
+Hypokalemia K*<3.5 mEg/. Diuretics, vomiting
+
+Hyperkalemia K*>5.0 mEg/. Renal failure, acidosis
+
+Acidosis Blood pH <7.35 Respiratory or metabolic
+
+Alkalosis Blood pH >7.45 Hyperventilation, vomiting
+
+Azotemia + BUN and creatinine Renal dysfunction
+
+Uremia Clinical symptoms of azotemia Fatigue, nausea, confusion
+
+‎Infection and Inflammation Terms‏ .6 للا
+
+‎Term Definition Example /interpretation
+Sepsis ‏يسمه‎ organ dysfunction due to CRP, » procalcitonin
+Bacteremia Bacteria in the blood Positive blood cultures
+Viremia Virus in the blood Seen in hepatitis, HIV
+Leukocytosis + WBC count Infection, inflammation
+Leukopenia WBC count chemotherapy
+Neutrophilia + neutrophils Bacterial infection
+
+--- Page 24 ---
+Term Definition Example /interpretation
+
+Lymphocytosis + lymphocytes Viral infection
+
+CRP (C-reactive protein) Acute phase reactant + in infection/inflammation
+
+ESR (Erythrocyte Sedimentation Rate of RBC settling + in inflammation, anemia
+
+Rate)
+
+7. Pharmacological and Therapeutic Terms
+
+Term Definition Example / Clinical Use
+
+Loading Dose Initial higher dose for rapid effect e.g., IV digoxin
+
+Maintenance Dose Regular dose to maintain steady levels e.g., daily warfarin
+
+Half-life (1%) ae for drug concentration to reduce by Affects dosing frequency
+
+6
+
+Therapeutic Index (TI) Margin between safe and toxic dose Narrow TI = needs monitoring
+
+Toxicity Harmtul effect of a drug @.g., hep atotoxicity,
+nephrotoxicity
+
+Contraindication Condition where drug should not be used @.g., NSAIDs in CKD
+
+Adverse Reaction Unintended harmtul effect ©8.9., rash, anaphylaxis
+
+Compliance / Following prescribed treatment Key for chronic diseases
+
+Adherence 60 4
+
+‎Disease Progression and Response Terms‏ .8 لآ
+
+‎Term Definition Example
+
+‎Incubation Period Time between exposure and symptom onset Viral infections
+
+‎Latency Period Time before disease becomes detectable  انأال,‎ cancer
+
+‎Refractory Disease not responding to treatment Refractory hypertension
+
+‎Metastasis Spread of cancer from primary site Breast > bone
+
+‎Regression Decrease in tumor size Response to therapy
+
+‎Palliative Treatment to relieve symptoms only Advanced cancer care
+
+‎7179. Epidemiological Terms
+
+‎Term Definition Example /Use
+
+‎Incidence New cases in a population over time e.g., new diabetes cases per year
+
+--- Page 25 ---
+Term Definition Example /Use
+Prevalence Total cases at a given time e.g., total diabetic population
+Morbidity _ Rate of disease in a population
+Mortality Death rate Disease severity measure
+Endemic Constant presence of disease Malaria in tropics
+Epidemic —_ Sudden rise in cases COVID-19 outbreak
+Pandemic Global epidemic COVID-19 worldwide
+Transmission Mode of disease spread Airborne, vector-borne
+Would you like me to turn this into a comprehensive, categorized PDF (Clinical Terms Reference Guide) —
+including visual flowcharts and examples for lab interpretations (like “azotemia > renal failure” and
+“hyponatremia ‏ج‎ SIADH”)?
+Sure — here’s a comprehensive and in-depth discussion of the most important and commonly used
+clinical terms used in healthcare and diagnostics, organized systematically.
+These are the core concepts every medical or pharmacy professional must understand in detail, with their
+meaning, clinical significance, interpretation, and examples.
+‏هآ‎ 1. Vital Signs (Basic Clinical Indicators)
+Term Definition & Explanation Clinical Significance Normal Range /
+Interpretation
+Measurement of body Indicates infection, inflammation, 36.5-37.5°C (oral). Fever
+Temperature heat produced by orendocrine dysfunction >38°C, hypothermia
+metabolic activity. vs 1 2680.
+Number of heartbeats per Tachycardia (+PR): fever, anxiety,
+Pulse Rate (PR) minute. Reflects heart anemia. Bradycardia (vPR): 60-100 bom.
+rate and rhythm. hypothyroidism, heart block.
+8 Tachypnea (RR): respiratory
+Respiratory Number of breaths ‏م‎ er distress, acidosis. Bradypnea (VRR): 12-20 breaths/min.
+Rate (RR) minute. 7
+drug overdose, CNS depression.
+Blood Pressure Force exerted by Indicates cardiovascular and renal Normal: > 120/80 minkig;
+circulating blood on . Hypertension >140/90
+(BP) function.
+vessel walls, mmHg.
+Oxygen Percentage of 7 1 7
+8 ١ Reflects pulmonary and circulatory Normal: 95- 100%;
+Saturation hemoglobin saturated efficienc Hypoxia <90%
+{Spo,) with oxygen. 4 ‏م0‎ 5
+
+--- Page 26 ---
+‎Hematological Terms‏ .2 قلآ
+‎Term Definition Clinical Significance‏
+‎fron-containing protein that 520000 8‏ 8
+‎He 1 Hi : 8‏
+‎lemoglobin (Hb) carries oxygen in RBCs. Low Hb > anemia; High Hb > polycythemia.‏
+أ ‎of RBCs i‏ %
+‎Hematocrit (Hcet/PCV) xovns intotal blood Indicates hydration status and RBC mass.‏
+‎macrocytic‏ = لاعائل؟ ‎Mean Corpuscular 7 VMCV = microcytic anemia;‏
+‎Volume (MCV) Average size of RBCs. anemia.‏
+‎Mean Corpuscular _ 7‏
+‎Hemoglobin (MCH) Average Hb amount perRBC. /MCH=hypochromia.‏
+‎White Blood Cell Count 4WBC = infection/inflammation; \WBC = bone‏
+‎Total number of leukocytes. 8‏
+‎(WBC) marrow suppression.‏
+‎Number of thrombocytes per ul 1 = thrombocytopenia > bleeding; =‏
+‎Platelet Count of blood. thrombocytosis > thrombosis risk.‏
+‎Differential Count % distribution of various WBC identities type of infection (bacterial, viral,‏
+‎types. parasitic).‏
+‎Renal Function Terms‏ .3 @
+‎Term Definition Clinical Meaning‏
+‎product of protein metabolism 4+BUN = renal failure, dehydration;‏ 0م ‎Blood Urea Nitrogen‏
+‎(BUN) excreted by kidneys. BUN = liver disease.‏
+‎We fr 1 /‏
+‎Serum Creatinine (SCr) aste product rom muscle metabolism, 4SCr= impaired kidney function.‏
+‎cleared by kidneys.‏
+‎Creatinine Clearance _ Rate of creatinine excretion (indicatorof _ _. 7 50 59‏
+‎GFR). Estimates kidney filtration ability.‏ [العيف)
+‎Glomerular Filtration Volume of filtrate formed by kidneys per >60 ml/min = chronic kidney disease.‏
+‎Rate (GFR) minute.‏
+‎Urinalysis (UA) Physical, chemical, microscopic exam of Detects proteinuria, hematuria,‏
+‎urine. infection, diabetes.‏
+‎Cardiac-Related Terms‏ .4
+‎Term Definition Clinical Importance‏
+‎Troponin UT Regulatory proteins in heart muscle Most specific marker of myocardial‏
+‎released after injury. infarction (Ml).‏
+
+--- Page 27 ---
+Term Definition Clinical Importance
+
+Creatine Kinase-MB (CK- Cardiac enzyme released during muscle Rises in Mi within 4-6 hours.
+
+MB) damage.
+
+Myoglobin Oxygen-binding protein in muscle. Early but nonspecific marker of MI.
+BNP /NT-proBNP Peptides released due ‏ا‎ 07 in heart failure.
+
+stretch.
+
+Electrocardiogram 5 7 53 Diagnoses arrhythmias, ischemia,
+(ECG/EKG) Record of heart’s electrical activity. MI.
+& 5. Liver Function Terms
+
+Term Definition Clinical Role
+
+ALT (Alanine Transaminase) Enzyme mainly in liver cells. + = hepatocellular damage (hepatitis).
+AST (Aspartate Transaminase) Found in liver, heart, muscle. + = liver or muscle injury.
+
+ALP (Alkaline Phosphatase) Enzyme in bile ducts. += cholestasis or bone disease.
+Bilirubin (Total, Direct, Indirect) Product of RBC breakdown. += jaundice, liver/biliary obstruction.
+Albumin Protein synthesized in liver. 1 = chronic liver disease or malnutrition.
+& 6. Metabolic & Endocrine Terms
+
+Term Definition Clinical Role
+
+Glucose (FBS, RBS, HbAtc) Blood sugar measurement. Used for diabetes diagnosis and
+
+monitoring.
+8 Hormone regulating glucose Deficiency/resistance = diabetes
+Insulin 8
+uptake. mellitus.
+
+Thyroid-Stimulating Pituitary hormone controlling 4TSH = hypothyroidism; VTSH =
+Hormone (TSH) thyroid. hyperthyroidism.
+
+T3, T4 Thyroid hormones. Indicate metabolic rate abnormalities.
+Calcium, Phosphate, Electrolytes regulated by PTHand Altered in bone and renal disorders.
+Magnesium Vitamin D.
+7. Electrolytes & Acid-Base Balance
+
+Term Definition Significance
+
+7 8 . Na *= dehydration; WNa*=
+Sodium (Na*) Major extracellular cation. overhydration/SIADH.
+
+--- Page 28 ---
+Term Definition Significance
+500 7 K *= renal failure; ‏“كايا‎ - vomiting,
+Potassium (K*) —_ Major intracellular cation. * 500 6
+diuretics.
+
+Chloride (CI) Maintains acid-base balance. Follows Na* changes.
+
+Bicarbonate 7 8 HCO; “= metabolic acidosis; sHCO; ~=
+(HC0,") Buffer in blood pH regulation. alkalosis.
+
+Diff 1 520 10100
+Anion Gap , erence between measured cations Helps identify metabolic acidosis causes.
+and anions.
+® 8. Infection & Inflammation Terms
+Term Definition Clinical Importance
+C-Reactive Protein (CRP) Acute-phase protein rising in ts bacterial infection, autoimmune
+inflammation. disease.
+here (Es) Sedimentation Speed of RBC sedimentation. 4 = chronic inflammation.
+Procalcitonin (PCT) Marker specific for bacterial sepsis. += bacterial infection severity.
+WBC Differential Neutrop! ils, Lymphooytes, Pattern indicates infection type.
+Eosinophils, etc.
+
+‎Neurological & Other Key Terms‏ .9 لآ
+
+‎Term Definition Clinical Use
+
+‎Glasgow Coma Scale (GCS) Measures level of consciousness. Used! in trauma, 8
+
+‎assessment.
+‎Cerebrospinal Fluid (CSF) Analysis PX27ines CSF forinfectionor oe meningitis, SAH, MS.
+hemorrhage.
+8 Life-threatening organ dysfunction Diagnosed by SIRS criteria +
+Sepsis . 8 8 8 8
+due to infection. confirmed infection.
+
+‎Systemic Inflammatory Response Inflammatory reaction to infection <2 of: fever, tachycardia,
+Syndrome (SIRS) or injury. tachypnea, WBC change.
+8 10. General Clinical Abbreviations & Indicators
+
+‎Abbreviation Meaning Clinical Use
+
+‎BP Blood Pressure Cardiovascular status
+
+‎HR Heart Rate Pulse rate
+
+--- Page 29 ---
+Abbreviation Meaning Clinical Use
+
+RR Respiratory Rate Breathing efficiency
+
+Spo, Oxygen saturation Hypoxia detection
+
+BUN Blood Urea Nitrogen Renal function
+
+SCr Serum Creatinine Kidney filtration
+
+HbAtc Glycated Hemoglobin Long-term glucose control
+
+GFR Glomerular Filtration Rate Chronic kidney disease assessment
+
+MI Myocardial Infarction Heart attack
+
+CHF Congestive Heart Failure Cardiac output failure
+
+Would you like me to create a PDF version of this complete detailed guide (formatted cleanly for study or
+reference use)?
+
+! can also expand it with example lab reports and clinical interpretation charts for each system (renal,
+cardiae, liver, etc.).
+
+Got it ‏سي‎ you're asking for simple yet technical clinical terms — the kind of words doctors, nurses, or
+pharmacists use in daily hospital or lab settings that sound technical but are easy to understand once
+explained.
+
+Here’s a list of commonly used simple but technical clinical terms with clear meanings &
+
+‎General Clinical Terms‏ لآ
+
+‎Term Simple Meaning
+
+‎Acute Sudden or short-term condition (e.g., acute pain).
+
+‎Chronic Long-lasting or ongoing condition (e.g., chronic diabetes).
+
+‎Lesion Damaged area of tissue or organ.
+
+‎Edema Swelling caused by fluid buildup.
+
+‎inflammation Redness, heat, pain, and swelling due to tissue injury.
+
+‎Benign Not cancerous or not harmful.
+
+‎Malignant — Cancerous or harmful growth.
+
+‎Idiopathic — Cause is unknown.
+
+‎fatrogenic Caused by medical treatment or a doctor’s action.
+
+‎Nosocomial Infection acquired in a hospital.
+
+‎Prognosis —_ Expected outcome of a disease.
+
+--- Page 30 ---
+Term Simple Meaning
+
+Diagnosis _ identification of a disease or condition.
+
+Symptom What a patient feels (e.g., headache, nausea).
+
+Sign What a doctor can observe or measure (e.g., fever, rash).
+
+Syndrome —_ Group of symptoms that occur together.
+
+Remission _ Disease symptoms have reduced or disappeared.
+
+Relapse Disease returns after improvement.
+
+Sequelae Long-term effects left after a disease (e.g., paralysis after stroke).
+‏لآ‎ Lab & Diagnostic Terms
+
+Term Simple Meaning
+
+CBC (Complete Blood Count) Blood test that checks red cells, white cells, and platelets.
+Electrolytes wie in blood that help with nerve and muscle function (Na* K*,
+LFT (Liver Function Test) Blood test to check liver health.
+
+RFT (Renal Function Test) Blood test to check kidney health.
+
+ECG (Electrocardiogram) Measures heart’s electrical activity.
+
+tmawingy Resonance Imaging test showing soft tissues and organs.
+
+CT Scan X-ray based imaging that shows body structures in detail.
+Ultrasound (USG) Imaging using sound waves (e.g., pregnancy scan).
+Biopsy Removal of tissue for microscopic examination.
+
+Culture Test Lab test to find bacteria or fungi causing infection.
+Sensitivity Test Checks which antibiotic can kill a specific germ.
+
+@ Cardiac Terms
+
+Term Simple Meaning
+
+Arrhythmia _ Irregular heartbeat.
+
+Tachycardia Fast heart rate.
+
+Bradycardia Slow heart rate.
+
+ischemia Reduced blood supply to tissues.
+
+--- Page 31 ---
+Term Simple Meaning
+
+Infarction Death of tissue due to lack of blood (e.g., heart attack).
+Angina Chest pain due to reduced blood flow to heart.
+Cardiomegaly Enlarged heart.
+
+Heart Failure Heart cannot pump blood effectively.
+
+Palpitation Feeling of rapid or irregular heartbeats.
+
+@ Renal (Kidney) Terms
+
+Term Simple Meaning
+
+Oliguria Very lowurine output.
+
+Anuria No urine output.
+
+Polyuria Excessive urination.
+
+Hematuria Blood in urine.
+
+Proteinuria Protein in urine.
+
+Azotemia increased nitrogen waste (urea/creatinine) in blood.
+Uremia Severe buildup of waste products in blood causing symptoms.
+Dialysis _ Artificial filtering of blood when kidneys fail.
+& Hematology Terms
+
+Term Simple Meaning
+
+Anemia Low hemoglobin or RBC count.
+
+Leukocytosis increased white blood cells.
+
+Leukopenia Decreased white blood cells.
+Thrombocytopenia Low platelet count.
+
+Polycythemia Increased RBC count.
+
+Coagulation Blood clotting process.
+
+Hemorrhage Bleeding or blood /055.
+
+Hematoma Localized collection of blood under skin/tissue.
+® Respiratory Terms
+
+--- Page 32 ---
+Term Simple Meaning
+
+Dyspnea Difficulty breathing or shortness of breath.
+
+Apnea Temporary stop in breathing.
+
+Hypoxia Low oxygen in tissues.
+
+Hypercapnia High carbon dioxide in blood.
+
+Cyanosis _Bluish skin due to lack of oxygen.
+
+Pneumonia Lung infection.
+
+Bronchitis inflammation of airways.
+
+Asthma Narrowing of airways causing wheezing and breathlessness.
+‏لآ‎ Neurological Terms
+
+Term Simple Meaning
+
+Syncope Fainting due to temporary drop in blood flow to brain.
+Seizure Sudden uncontrolled brain activity (fits).
+
+Stroke (CVA) Brain damage due to blocked or burst blood vessel.
+Paresthesia Tingling or “pins and needles” feeling.
+
+Hemiplegia Paralysis of one side of the body.
+
+Ataxia Loss of coordination or balance.
+
+Coma Deep unconsciousness.
+
+Neuropathy Nerve damage causing numbness or weakness.
+
+‎Infection & Immunity Terms‏ لا
+
+‎Term Simple Meaning
+
+‎Pathogen Germ that causes disease.
+
+‎Sepsis Severe body-wide infection causing organ damage.
+Bacteremia _ Bacteria in blood.
+
+‎Viremia Virus in blood.
+
+‎Fever (Pyrexia) Raised body temperature due to infection.
+
+‎Abscess Pus-filled pocket caused by infection.
+
+‎Antibiotic Drug that kills bacteria.
+
+--- Page 33 ---
+Term Simple Meaning
+
+Antiviral Drug that fights viruses.
+
+Antifungal Drug that fights fungi.
+
+‘a Metabolic & Nutritional Terms
+
+Term Simple Meaning
+
+Hyperglycemia High blood sugar.
+
+Hypoglycemia Low blood sugar.
+
+Dehydration Lack of body fluids.
+
+Electrolyte imbalance Abnormal salt/mineral levels in body.
+
+Obesity Excess body fat.
+
+Maitnutrition Poor nutrition (too little or wrong nutrients).
+Ketoacidosis Acid buildup in blood (common in uncontrolled diabetes).
+‏لآ‎ Miscellaneous Common Terms
+
+Term Simple Meaning
+
+Vital Signs Basic body measurements (BP, HR, Temp, RR).
+Baseline Initial measurement for comparison.
+
+Triage Sorting patients by urgency of care.
+
+Monitoring Continuous observation of patient condition.
+
+Dose Amount of medicine given at one time.
+
+Toxicity Harmful effect of a drug.
+
+Compliance (Adherence) How weil a patient follows prescribed treatment.
+Contraindication Reason not to use a particular drug/treatment.
+Adverse Effect Unwanted or harmful drug reaction.
+
+Would you like me to make this list into aprintable “Clinical Terms Quick Reference Guide” (PDF) —
+divided by body system (cardiac, renal, neuro, etc.) and written in this same simple + technical format for
+easy memorization?

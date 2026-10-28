@@ -1,0 +1,2816 @@
+
+--- Page 1 ---
+PHARM-D FIVE-YEAR COURSE
+SCHEME OF STUDIES FOR ANNUAL SYSTEM
+First Professional
+(Theory)
+Paper 1 Pharmaceutical Chemistry-I (Organic) 100
+Paper 2 Pharmaceutical Biochemistry 100
+Paper 3 Pharmaceutics-I (Physical Pharmacy) 100
+Paper 4 Physiology & Histology 100
+Paper 5 Anatomy 50
+Paper 6 Pharmaceutical Mathematics & Biostatistics 100
+(Practicals)
+Paper 7 Pharmaceutical Chemistry-I (organic) 100
+Paper 8 Pharmaceutical Biochemistry 100
+Paper 9 Pharmaceutics-I (Physical Pharmacy) 100
+Paper 10 Physiology & Histology 100
+Total Marks: 950
+Second Professional
+(Theory)
+Paper 1 Pharmaceutics-II (Pharmacetical Preparations) 100
+Paper 2 Pharmacology and Therapeutics-I 100
+Paper 3 Pharmacognosy-I 100
+Paper 4 Pharmaceutical Microbiology 100
+Paper 5 Pakistan Studies and Islamiyat (Comp.) 100
+(Practicals)
+Paper 6 Pharmaceutics-II (Pharmaceutical Preparations) 100
+Paper 7 Pharmacology & Therapeutics-I 100
+Paper 8 Pharmacognosy-I 100
+Paper 9 Pharmaceutical Microbiology 100
+Total Marks: 900
+12
+
+--- Page 2 ---
+Third Professional
+
+(Theory)
+Paper 1 Pathology 50
+Paper 2 Pharmacology and Therapeutics-II 100
+Paper 3 Pharmacognosy-II 100
+Paper 4 Pharmaceutics-III (Dispensing and
+
+Community Pharmacy) 100
+Paper 5 Pharamceutical Chemistry-II (Instrumentation) 100
+(Practicals)
+Paper 6 Pathology 50
+Paper 7 Pharmacology & Therapeutics-II 100
+Paper 8 Pharmacognosy-II 100
+Paper 9 Pharmaceutics-III (Dispensing and
+
+Community Pharmacy) 100
+Paper 10 = Pharamceutical Chemistry-II (Instrumentation) 100
+
+Total Marks: 900
+Fourth Professional
+
+(Theory)
+Paper 1 Pharmaceutics-IV (Hospital Pharmacy) 100
+Paper 2 Pharmaceutics-V (Clinical Pharmacy-I) 100
+Paper 3 Pharmaceutics-VI (Industrial Pharmacy) 100
+Paper 4 Pharmaceutics-VII (Biopharamceutics) 100
+Paper 5 Pharmaceutics-VIII (Pharmaceutical
+
+Quality Management) 100
+(Practical)
+Paper 6 Pharmaceutics-V (Clinical Pharmacy-I) 100
+Paper 7 Pharmaceutics-VI (Industrial Pharmacy) 100
+Paper 8 Pharmaceutics-VII (Biopharamceutics) 100
+Paper 9 Pharmaceutics-VIII (Pharmaceutical
+
+Quality Management) 100
+
+Total Marks: 900
+13
+
+--- Page 3 ---
+Final Professional
+
+(Theory)
+Paper 1 Pharmaceutical Chemistry-III (Medicinal
+
+Chemistry) 100
+Paper 2 Pharmaceutics-IX (Clinical Pharmacy-II) 100
+Paper 3 Pharmaceutical Technology 100
+Paper 4 Forensic Pharmacy 100
+Paper 5 Pharmaceutical Management & Marketing 100
+Paper 6 Computer and its Applications in Pharmacy 50
+(Practical)
+Paper 7 Pharmaceutical Chemistry-III (Medicinal
+
+Chemistry) 100
+Paper 8 Pharmaceutics-IX (Clinical Pharmacy-II) 100
+Paper 9 Pharamceutical Technology 100
+Paper 10 Computer and its Applications in Pharmacy 50
+
+Total Marks: 900
+14
+
+--- Page 4 ---
+DETAILS OF COURSES (ANNUAL SYSTEM)
+FIRST PROFESSIONAL
+PHARMACEUTICAL CHEMISTRY-I (ORGANIC) WRITTEN
+Paper 1 100 Marks
+Note: The topics will be taught with special reference to their
+Pharmaceutical Applications.
+
+1, BASIC CONCEPTS: Conjugation, hyperconjugation, steric effect,
+inductive effect, mesomeric effect, hydrogen bonding, Theory of
+resonance. Effect of structure on reactivity of compounds.
+Tautamerism of carbonyl compounds.
+
+2. NUCLEOPHILIC AND ELECTROPHILIC _ SUBSTITUTION
+REACTION IN ALIPHATIC AND AROMATIC SYSTEMS.
+
+3. ORIENTATION IN ELECTROPHILIC SUBSTITUTION
+REACTIONS ON BENZENE RING.
+
+4, ORGANIC REACTIONS: Baeyer-Villiger oxidation; Diels Alder
+reaction; Grignard's reaction, Metal hydride reduction and Wolf
+Krishner reduction, Friedel Craft’s reaction, Perkin reaction,
+Cannizzaro reaction.
+
+5, CARBONIUM_ ION REARRANGEMENTS: Pinacol-pinacolone,
+Wagner-Meerwein, Wolf, Hofmann and Beckmann rearrangements.
+
+6. CARBANIONS: Condensation reaction (Aldol condensation;
+Favorskii rearrangement; Witting reaction).
+
+7, STEREOCHEMISTRY:  Stereoisomerism, optical isomerism;
+Molecules with more than one chiral centre. Geometrical isomerism,
+Resolution of racemic mixture. Conformational analysis.
+
+8. FREE RADICALS: Introduction, structure and stability, preparation
+and properties.
+
+9. GENERAL METHODS OF PREPARATIONS, PROPERTIES,
+IDENTIFICATION TEST AND PHARMACEUTICAL APPLICA-
+TIONS OF THE FOLLOWING CLASSES AND THEIR
+ANALOGUES:
+
+15
+
+--- Page 5 ---
+Alcohols, Phenols, Ethers, Aldehydes, Ketones, Acids, esters, Amines
+and Aniline.
+
+10.PREPARATION AND PROPERTIES OF | MEDICINALLY
+IMPORTANT HETEROCYCLIC COMPOUNDS such as: Pyrrol,
+Furan, Thiophene, Pyridine, Pyrimidine and Pyrazine.
+
+11.PREPARATION AND PROPERTIES OF _ HETEROCYCLIC
+COMPOUNDS in which benzo-ring is fused with five and six
+membered ring containing one heteroatom; Indole, Quinoline and
+Isoquinoline.
+
+PHARMACEUTICAL CHEMISTRY-I (ORGANIC) PRACTICAL
+Paper 7 100 Marks
+NOTE: - Practicals of the subject shall be designed from time to time on the
+
+basis of the above mentioned theoretical topics and availability of
+the facilities, e.g.
+
+1, Organic analysis: Identification of unknown simple organic
+compounds.
+
+2. Organic Preparations: Benzoic acid, Aspirin, Acetanilide, Iodoform,
+Nitrophenol, 3-nitrophthalic acid, Benzhydrol and 2,4-Dinitro-
+chlorobenzene.
+
+Recommended Books
+
+1. Peter Sykes, A guide Book to Mechanism in Organic Chemistry,
+
+Longman, New York, 1* Ed, 1991.
+
+2. EL Eliel, Stereochemistry of Carbon Compounds, Tata McGraw- Hill,
+
+New Delhi, 1992.
+
+3, Rehman and M Younis, Organic Chemistry for B.Sc. students, [mi
+
+Kitab Khana, Lahore, 1997,
+
+4. L Finar, Organic Chemistry Vol I, Person Education Asia, 6 Ed., New
+
+Delhi, 2001.
+
+5. Raj K Bansel, Organic Reaction Mechanism, Tata McGraw-Hill, New
+
+Delhi, 1992.
+
+6. Furaiss Brian, Practical Organic Chemistry, 5" Ed., ELBS, London.
+7. Sykes A P, Guide Book to Mechanism in Organic Chemistry, 5" Ed.,
+
+Lonsmen Co, UK, 1970.
+
+8. Roberts J D and Caserio M C, Basic Principles of organic Chemistry,
+
+1990.
+
+16
+
+--- Page 6 ---
+9. Naser-ud-Din, Introduction to Stereochemistry, Ghafoor Stationery
+
+Mart, Peshawar, 1994,
+
+10.Bhal B S, Text Book of Organic Chemistry, S Chand & Co, New Delhi,
+14" Ed., 1995.
+PHARMACEUTICAL BIOCHEMISTRY (WRITTEN)
+Paper 2 100 Marks
+1, GENERAL _ INTRODUCTION AND BASIC | BIOCHEMICAL
+
+PRINCIPLES
+
+Role of pharmaceutical Biochemistry in the health Profession.
+
+Nature of Biochemical reactions
+
+2. BASIC CHEMISTRY OF BIOMOLECULES (Nature, Classification
+ete.)
+
+(a) Carbohydrates: Chemistry, Classification, Reactions of
+Carbohydrates, Optical activity, Biological and pharmaceutical
+importance of carbohydrates.
+
+(b) Lipids: Chemistry of Fatty acids and Lipids, Classification
+(Saponifiable and non-saponifiable lipids, Simple, Complex and
+derived lipids), Reactions of Fatty acids and other Lipids, Essential
+fatty acids, Biological and pharmaceutical importance of lipids.
+
+(c) Proteins and Amino acids: Chemistry, Classification of proteins
+and amino acids, Reactions of proteins and amino acids,
+Organizational levels, Macromolecular nature of proteins,
+Biological and pharmaceutical importance of proteins and amino
+acids.
+
+(d) Nucleic acids: Chemistry, Types (DNA, RNA, mRNA, tRNA,
+rRNA), Purine and Pyrimidine bases, Nucelosides, Nucelotides,
+Structures of nucleic acids, Biological and pharmaceutical
+importance of nucleic acids.
+
+(e) Vitamins: Chemistry, Classification (Fat-soluble and water-soluble
+vitamins), Biological and pharmaceutical importance of vitamins.
+
+(f) Hormones: Chemistry, Classification (Proteinous and non-
+proteinous hormones, amino acid derivatives, steroids), Biological
+and pharmaceutical importance of hormones.
+
+17
+
+--- Page 7 ---
+(g) Enzymes: Chemistry, Classification, Mode of action, Kinetics
+(Michaelis Menten Equation and some modifications), Inhibition,
+Activation, Specificity, Allosteric enzymes, Factors affecting the
+rate of an enzyme-catalyzed reaction, Biological and
+pharmaceutical importance, Mechanism of action of some
+important enzymes (Chymotrypsin, Ribonuclease).
+
+3. METABOLIC FATE OF BIOMOLECULES __(Anabolism and
+
+Catabolism)
+
+(a) Carbohydrates: Introduction to metabolism, Brief introduction to
+the digestion and absorption of carbohydrates, Aerobic and
+anaerobic breakdown of Glucose, Glycolysis, Pentose Phosphate
+Pathway, Glycogenolysis, Glycogenesis, Gluconeogenesis, Citric
+acid cycle, Energetics of various metabolic processes.
+
+(b) Lipids: Brief introduction to the digestion and absorption of lipids,
+Oxidation of fatty acids through b-oxidation, Biosynthesis of fatty
+acids, neutral lipids and cholesterol.
+
+(c) Proteins and Amino acids: Brief introduction to the digestion and
+absorption of proteins and amino acids, Metabolism of essential
+and non-essential amino acids, Biosynthesis and catabolism of
+Haemins and porphyrin compounds.
+
+(d) Bioenergetics: Principles of bioenergetics. Electron transport chain
+and oxidative phosphorylation.
+
+4, REGULATION OF METABOLIC PROCESSES
+
+(a) Role of Vitamins: Physiological role of Fat-soluble (A, D, E and
+K) and Water-soluble (Thiamin, Riboflavin, Pantothenic acid,
+Niacin, Pyridoxal phosphate, Biotin, Folic acid, Cyanocobalamin
+— members of B-complex family — and Ascorbic acid),
+Coenzymes and their role in the regulation of metabolic processes.
+
+(b) Receptor mediated regulation (Hormones): Mechanism of action of
+hormones, Physiological roles of various hormones, Site of
+synthesis and target sites of hormones.
+
+(c) Secondary Messengers: Role of cAMP, Calcium ions and
+phosphoinositol in the regulation of metabolic processes.
+
+18
+
+--- Page 8 ---
+(d) Gene Expression: Replication, Transcription and Translation
+(Gene expression) Introduction to Biotechnology and Genetic
+Engineering, Basic principles of Recombinant DNA technology,
+Pharmaceutical applications, Balance of Catabolic, Anabolic and
+Amphibolic processes in human metabolism, Acid-Base and
+Electrolyte Balance in Human body.
+
+PHARMACEUTICAL BIOCHEMISTRY (PRACTICAL)
+Paper 8 100 Marks
+
+1. Qualitative analysis of: Carbohydrates, Amino acids, Peptides and
+Proteins, Lipids and Sterols (Cholesterol)
+
+Bile salts and billirubin, Blood analysis — Sugar, Uric acid, Billirubin,
+
+Cholesterol and Creatinine.
+
+2. Quantitative analysis of: Carbohydrates — Glucose (reducing sugar)
+and any other carbohydrate using Benedict and Anthrone method, Amino
+acids, Peptides and Proteins using Biuret and Ninhydrin
+(Spectrophotometric) method. Analysis of normal and abnormal
+components of Urine — Sugar, Uric acid, Billirubin, Cholesterol and
+Creatinine.
+
+Recommended Books
+
+1. MN Chaterjea, Medical Biochemistry, Jaypee Brothers Medical Publishers,
+New Delhi, 2003.
+
+2. Roberk Murray, Daryl K, Granner, Peter A Mayes, Victor W Rodwell
+Harper’s Biochemistry, Appleton and Lange, Lange Medical Publications,
+New York, 2000.
+
+3. Albert L Lehninger Principles of Biochemistry, CBS Publisher, Delhi, 1993.
+
+4, Lubert Stryer, Biochemistry, W H Freeman and Company, 2002.
+
+5. Pamela © Champe, Richard A Harvey, Illustrated Biochemistry, J Lippincot
+Company, 1994,
+
+6. Harper’s Biochemistry, Print-Hall, New Jersey, 1996.
+
+7. M Rafiq, Biochemistry, The Carvan Book House, Lahore, 1* Ed.
+
+8. Montogomary, Clinical Chemistry, The © V Mosby Company, 5" Ed.
+
+9. Conn and Stumpf, Outlines of Biochemistry, John Willey & Sons, New
+York, 5" Ed., 1999,
+
+10.Lehninger, Biochemistry, Worth Publishers Co, New York.
+
+11.Ahmed M Essentials of Medical Biochemistry, Merit Pub Fasilabad,
+1991,
+
+12.West E S, Todd R W and Van Bruggen T J, Text Book of Biochemistry,
+The MacMillan Co, 1996.
+
+19
+
+--- Page 9 ---
+PHARMACEUTICS-I (PHYSICAL PHARMACY) (WRITTEN)
+Paper 3 100 Marks
+1, PHARMACY ORIENTATION:
+
+Introduction and orientation to the Professional of Pharmacy in relation to
+
+Hospital Pharmacy, Retail Pharmacy, Industrial Pharmacy, Forensic
+
+Pharmacy, Pharmaceutical education and research etc.
+
+2, HISTORY AND LITERATURE OF PHARMACY:
+
+(a) Acsurvey of the history of pharmacy through ancient, Greek and
+Arab periods with special reference to contribution of Muslim
+scientists to pharmacy and allied sciences.
+
+(b) An introduction of various official books.
+
+3. PHYSICO-CHEMICAL PRINCIPLES:
+
+(a) Solutions: Introduction, types, concentration expressions, ideal and
+real solution, colligative properties, their mathematical derivations
+and applications in pharmacy, molecular weight determinations,
+distribution co-efficient and its applications in pharmacy.
+
+(b) Solubilization: Solubility, factors affecting solubility, surfactants,
+their properties and types. Micelles, their formulation and types.
+
+(c) Ionization, pH, pH indicators, pka, buffers, buffer’s equation,
+Isotonic solutions and their applications in pharmacy.
+
+(d) Hydrolysis, types and protection of drugs against hydrolysis.
+
+(e) Micromeritics: Particle size and shapes, distribution of particles
+methods of determination of particle size and importance of
+particle size in Pharmacy.
+
+4, DISPERSIONS:
+
+(a) Colloids: Types, methods of preparation, properties (optional,
+kinetic, electrical) Dialysis and artificial kidney, stability of
+colloids, protection and sensitization phenomenon and application
+of colloids in Pharmacy.
+
+20
+
+--- Page 10 ---
+(b) Emulsions: Types, theories of emulsification, Emulsifying agents
+their classification and stability of emulsion.
+
+(c) Suspensions: Type, Methods of Preparation, Properties,
+Suspending agents, their classification and stability.
+
+(d) Adsorption: Techniques and processes of adsorption in detail.
+
+5. RHEOLOGY:
+
+(a) Definition and Fundamental concept.
+
+(b) Properties contributing to Rheological behaviour.
+
+(c) Graphic presentation of Rheological data.
+
+6. PHYSICOCHEMICAL PROCESSES:
+
+(a) Precipitation: Process of precipitation and its applications in
+Pharmacy.
+
+(b) Crystallization: Types of crystals, Mechanism and methods of
+crystallization and its applications in Pharmacy.
+
+(c) Distillation, Simple, fractional, steam distillation, vacuum
+distillation, destructive distillation and their applications in
+Pharmacy.
+
+(d) Miscellaneous Processes: Efflorescence,  deliquescence,
+lyophillization, elutrition, exiccation, ignition, sublimation, fusion,
+calcination, adsorption, decantation, evaporation, vaporization,
+centrifugation, dessication, levigation and trituration.
+
+7. RATE and ORDER OF REACTIONS.
+8. KINETIC PRINCIPLES AND STABILITY TESTING: THEORETIC
+
+CONSIDERATIONS: Degradation:
+
+(a) Physical Factors: Influence of pH, temperature, ionic strength, acid-
+base catalysis, U.V. light.
+
+(b) Chemical Factors: Complex chemical reactions. Oxidation-
+reduction, hydrolysis
+
+21
+
+--- Page 11 ---
+PHARMACEUTICS-I (PHYSICAL PHARMACY) PRACTICAL
+Paper 9 100 Marks
+NOTE:- Practicals of the subject shall be designed from time to time on the
+
+basis of the above mentioned theoretical topics and availability of the
+facilities, e.g.
+1, Experiments to demonstrate some of physico-chemical processes like
+simple distillation, steam distillation, crystallization, Dialysis.
+2. Determination of Emulsion systems.
+3. Determination of particle size.
+4, Preparation of Buffer solutions and isotonic solution.
+5. Determination of %age composition of solutions by specific gravity
+method.
+6. Partition-coefficient, surface tension, viscosity.
+Recommended Books
+1. Martin, Physical Pharmacy, B I Waverly PVT, Delhi, 4" Ed., 1994,
+2. Cooper and Gunns Tutorial Pharmacy, CBS Publishers & Distributors,
+New Delhi, 1986.
+3. Bentley’s Pharmaceutics, All India Traveler Book Seller, New Delhi,
+1996.
+4, Martin P, Bustamante P and Chun, Physical & Chemical Principles of
+Pharmaceutical Science, AHC, 4h Ed., (1999), New York.
+5. Martin AMN, Banker G 5 and Chun AHC Advances in Pharmaceutical
+Sciences. Academic Press, London, 1985.
+6. Mill © © Casson,N. Rehology of dispress systems. Pergamon Press,
+New York, 1975,
+7. Rienger M and Scott-Blair. G W, Rehology. Academic Press, London,
+1990.
+8. Barry B W Advances in Pharmaceutical Sciences, Academic Press,
+London, 1990.
+9. Sherman P Emulsion Science, Academic Press, London, 1972.
+10.Martin A, Swarbrick J and Cammatra A Physical Pharmacy, 3 Ed., Lee
+& Febiger, Philadelphia. 1983.
+11.Attwood D and Flocence A T Surfactant Systems.Chapman and Hall
+Ltd, London, 1982.
+22
+
+--- Page 12 ---
+PHYSIOLOGY & HISTOLOGY (WRITTEN)
+Paper 4 100 Marks
+PHYSIOLOGY
+
+1, BLOOD: Composition of blood (RBC, WBC and Platelets), Functions
+and Genesis of the formed elements, Fate of Red Blood cells, Jaundice,
+Reaction of Blood, Blood groups, Rh factors, ESR Blood volume,
+Functions of Spleen, Blood coagulation, Hemophilia. Anaemias-
+classification.
+
+2, CIRCULATORY SYSTEM: Properties of the cardiac muscle. Origin and
+conduction of the heart beat. Cardiac cycle. ECG. Heart sounds. Cardiac
+output. Stroke volume and heart rate. Nerve supply of the Heart.
+Coronary, Pulmonary, and skin circulation. Blood pressure, vasomoter
+system. Arterial pulse. Venoas pulse, capillary circulation. Axon reflex,
+Triple response. Haemorhage. Circulatory changes in exercise.
+composition and circulate of lymph. Haemorrhage & Shock.
+
+3, RESPIRATORY SYSTEM: Mechanics of respiration. Intrathoracic,
+Intrapulmonary pressure, Pulmonary ventilation, Lungs volume and
+capacities. Composition of Inspired Air, Expired Air dand Alveolar Air,
+Carriage of 02 and 002 by the blood. Regulation of breathing-(Nervous
+& Chemical control). Respiratory changes in exercise, Pneumonias, eh.
+Emphysema, Bronchil Asthma.
+
+4, SKIN: Structure, Functions of skin, Temperature regulation by Skin.
+
+5. DIGESTIVE SYSTEM: Mastication, Deglutation, Digestive juices-
+saliva, Gastric juice, pencreatic juice. Bile and intestinal juices; their
+composition, Functions and mechanism of secreation, Movements of the
+stomach and intestines. Functions of large intestine. Defecation.
+Functions of liver and gall bladder.
+
+6. URINARY SYSTEM: Urine formation-composition of urine-GFR Urea
+clearance. Formation of concentrated and diluted urine.
+
+7, PHYSIOLOGY OF NERVE AND MUSCLE: Chemical change in
+Muscle on contraction. Action Potential.
+
+8. NERVOUS SYSTEM: Spinal reflexes. Reflex regulation of movement
+and posture. Cerbral cortex functions. Voluntary movements.
+
+23
+
+--- Page 13 ---
+Descending tracts of spinal cord. Basal ganglia, Cerbellum. Autonomic
+
+Nervous system. Thalamus. CSF.
+
+9. SPECIAL SENSE: Elementary knowledge of structure and function of
+the special senses.
+
+10.ENDOCRINOLOGY: Definition of Hormone, Nature of different types
+of hormones and Mechanism of action of hormones.
+
+(a) Pituitary Hormones: Growth Hormone, Prolactin, ACTH, TSH, ADH,
+Oxytocin, Acromegaly, Giantism, PanHypopituitrism.
+
+(b) Thyriod Gland: Thyroxin, Tri-iodothyronin, Format and functions of
+thyriod hormones. Hyperthroidism, Myxocdene.
+
+(c) Para thyriod Hormone.
+
+(d) Pancreatic Hormone: Insulin, Glucagon, Diabetes mellitis.
+
+(e) Adrenal Glands: Mineralocorticoids, Glucocorticoids, Anabolic
+Steroids, Adrenalin, Nor-adrenalin, Cushing syndrome, Addison
+disease.
+
+(f) Sex Hormones: Male Sex Hormone, structure and function.
+
+Female Sex Hormone: Structure and function.
+Male Development of secondary sex characteristics, spermatogenesis.
+Composition of semen, Development of secondary characters in
+females. Menstruation, (Ovarian cycle). Oogenesis. (Dysmanorrhea,
+ete.)
+
+HISTOLOGY:
+
+(a) Underlying principles of histological techniques and staining specific
+tissues should be explained.
+
+(b) Staining of paraffin and frozen sections will be given to the students.
+
+(c) Most of the teaching should be done on stained and mounted sections
+and every type of normal tissue will be covered.
+
+PHYSIOLOGY& HISTOLOGY (PRACTICAL)
+Paper 10 100 Marks
+NOTE: - Practicals of the subject shall be designed from time to time on the
+basis of the above mentioned theoretical topics and availability of the
+facilities, e.g. Experimental Physiology includes:
+24
+
+--- Page 14 ---
+1, BLOOD: Determination of Haemoglobin (Hb), Determination of ESR,
+RBC Count, WBC Count, DLC (Differential Leucocyte Count), Bleeding
+Time, Coagulation Time and Blood groups.
+
+2, RESPIRATION: Estimation of vital capacity and its relation to posture
+and standard vital capacity, Determination of Tidal volume and
+Demonstration of Artificial Respiration.
+
+3. CARDIOVASCULAR SYSTEM: Recording of Arterial Pulse,
+Recording of Arterial Blood Pressure and Electro-cardiogram.
+
+4, EYE: Visual activity, far vision, near vision and Field of vision
+(Perimetry).
+
+5. CENTRAL NERVOUS SYSTEM: Nerve Muscle Preparation in frog,
+Effect of Temperature on muscle and Demonstration of spinal reflexes.
+
+Histology includes:
+
+1, Demonstration of the Preparation and staining of slides.
+
+2. Histological examination of slides: Epithelium, Connective tissue and
+Muscle Tissue.
+
+3. Organ system — Lung, Kidney, Appendix, Skin, Gall bladder, Stomach,
+Intestine.
+
+Recommended Books
+Physiology
+
+1. Arthur C Guyton, M D, Text Books of Medical Physiology, W 8
+Saunders Company, Ninth Ed., 1996.
+
+2. William F Ganong, Review of Medical Physiology, Prentice Hgall
+International Inc, seventeenth edition, 1995.
+
+3, Chandi Charan Chatterjee, Human Physiology, Medical allied agency,
+1994,
+
+4, Samson Wright’s Applied Physiology. Revised by Cyril A Keele and
+Eric Neil.
+
+5. Spence A P and Mason E B, Human Anatomy and Physiology,
+Beajamin/Cumming Publishing Inc. Clifornia, 3" Ed.
+
+6. Snell R 5, Clinical Anatomy for Medical Students, Litle Brown & Co
+Inc, USA. 1992.
+
+Histology
+
+1, Bradbury S, Hewer’s TextBook of Histology, ELBS, London, 1984.
+
+2. Reference Book: Tissues of the body by Legros Clerks. Publisher
+Oxford at the Clarendon Press, London.
+
+25
+
+--- Page 15 ---
+3. Cormack H D, Essential Histology, J 8 Lippincott Co, Philadelphia,
+1993,
+4, Hammersen F, Histology; color atlas of microscopic anatomy, Lee &
+Febijer Co, Pennsylvania, 1985.
+ANATOMY (WRITTEN)
+Paper 5 50 Marks
+1. INTRODUCTION: ANATOMICAL _TERMINOLOGY. _ Definition.
+Cell, tissue, organ system.
+2, STRUCTURE OF CELL: Cell Membrane. Cytoplasm. Organcelles.
+Nucleus. Cell cycle.
+3. TISSUE OF BODY: Types of tissues with examples
+(a) Epithelial Tissue: General characters, classification.
+(b) Connective Tissue: Structure, types (Connective tissue proper,
+Cartilage. Bones structure and types of bones and joints).
+(c) Muscle: Structure of — Skeletal muscle, Smooth muscle, Cardiac
+muscle.
+4, INTEGUMENTARY SYSTEM:
+(a) Skin — Structure (Epidermis, dermis).
+(b) Glands of Skin, (Sweat, Sebaceous).
+(c) Hair — Structure, function.
+(d) Nail.
+5. CARDIOVASCULAR SYSTEM:
+(a) Heart — Structure of Heart. Location of Heart. Blood Supply to
+Heart.
+(b) Blood Vessels — Main blood vessels arising & entering the
+heart.Types of blood vessels with examples.
+6, ELEMENTARY SYSTEM: Name and structure of different parts of
+elementary system and their inter relationship.
+7. URINARY SYSTEM: Name and structure of organs of urinary system
+and their inter-relationship.
+26
+
+--- Page 16 ---
+8. REPRODUCTIVE SYSTEM: Male ande Female reproductive systems.
+
+Name, structure and association of the organs.
+
+9, ENDOCRINE SYSTEM:
+
+(a) Pituitary gland — structure and relation to hypothalemus.
+
+(b) Thyroid gland — structure.
+
+(c) Adrenal gland — structure.
+
+10.NERVOUS_ SYSTEM: Introduction: Cells of Nervous System (Neuron),
+
+Accessory cells of N.S. and Organisation of N.S.
+
+(a) Brain — Meninges (Cerebrum — cerebral Lobes. Ventricals,
+Cerebellum—Anatomy of Cerebellum, Brain Stem — MidBrain.
+Pons. Medulla Oblongata, Diencephalon. Thalamus Hypothelamus
+and Cranial Nerves).
+
+(b) Spinal Cord — Meninges (C.S.F. Internal Structure, Sensory and
+Motor Pathway, Spinal Reflexes, Peripheral spinal Nerves,
+Autonomic Nervous System includes Sympathetic N.S. and
+Parasympathetic Nervous System).
+
+Recommended Books
+1. Romanes G J, Cunningham’s Manual of Practical Anatomy.
+
+Humphary Kalfom, Oxford, Oxford University Press, London, 3
+
+volumes, 1996,
+
+2, Gray’s Anatomy, Descriptive and Applied. Longman’s Green and Co,
+
+London, 1996,
+
+3. J G Romanes, London. Cunningham’s Textbook of Anatomy. Oxford
+
+University Press, 1996.
+
+4. Snell R 5, Clinical Anatomy, Boston, Little, Brown and Company,
+
+1996,
+
+5. Keith L More and TVN Persaud, Philadelphia, Clinically Oriented
+
+Human Anatomy. W B Saunders, 1996,
+
+6. B Grant, A Method of Anatomy, Bailliere Tinal and Co, Ltd, London.
+7. WJ Hamilton, A textbook of Anatomy, Macmillan and Co, London.
+8. R J Last, Anatomy, Regional and Applied, J and A Churchill Ltd,
+
+London.
+
+PHARMACEUTICAL MATHEMATICS AND BIOSTATISTICS
+(WRITTEN)
+Paper 6 100 Marks
+Part A Pharmaceutical Mathematics (40 marks)
+27
+
+--- Page 17 ---
+1, ALGEBRA;
+
+(a) Sets and Functions: Elementary concepts of sets. Concept of
+Functions, Domain and Range of a Function. Different types of
+Functions. Graphical representation of a function. Some
+applications of functions.
+
+(b) Solution of Linear and Quadratic Equations. Equations reducible to
+Quadratic Form. Solution of simultaneous Equations.
+
+(c) Arithmetic, Geometric _and Harmonic Progressions, Arithmetic,
+Geometric and Harmonic Means.
+
+(d) Permutations and Combinations
+
+(e) Binomial Theorem: Simple application.
+
+2, TRIGONOMETRY: Measurement of Angles in Radian and degrees.
+Definitions of circular functions. Derivation of circular function for
+simple cases.
+
+3, ANALYTICAL GEOMETRY: Coordinates of point in a plane. Distance
+between two points in a plane. Locus, Equations of straight line, Equation
+of Parabola, Circle and Ellips.
+
+4, DIFFERENTIAL CALCULUS: Concept of Derivations. Rules of
+Differentiation. Examples on the evaluation of Derivations. Derivatives
+of Exponential and Logarithmic Functions, Partial Derivations. Higher
+Order Derivatives. Maxima & Minima points of Inflections.
+
+5. INTEGRAL CALCULUS: Concept of Integration. Rules of Integrations.
+Integrations of Algebric and Trignomatric functions by using different
+techniques.
+
+Part B BIOSTATISTICS (60 MARKS)
+
+1, DESCRIPTION OF STATISTICS: Descriptive Statistics: What is
+Statistics? Importance of Statistics. What is Biostatistics? Application of
+Statistics in Biological and Pharmaceutical Sciences. How samples are
+selected?
+
+2 ORGANIZING and DISPLAYING DATA: Vriables, Quantitative and
+Qualitative Variables, Univariate Data, Bivariate Data, Random
+Variables, Frequency Table, Diagrams, Pictograms, Simple Bar Charts,
+Multiple Bar Charts, Histograms.
+
+28
+
+--- Page 18 ---
+3. SUNNARIZING DATA and VARIATION: The Mean, The Median, The
+Mode, The Mean Deviatiobn, The Variance and Standard Deviation,
+Coefficient of Variation.
+
+4, CURVE FITTING: Fitting a Straight Line. Fitting of Parabolic or High
+Degree Curve.
+
+5. PROBABILITY: Definitions, Probability Rules, Probability Distributions
+(Binomial & Normal Distributions).
+
+6. SIMPLE REGRESSION AND CORRELATION: Introduction. Simple
+Linear Regression Model. Correlation co-efficient.
+
+7. TEST OF HYPOTHESIS AND SIGNIFICANCE: Statistical Hypothesis.
+Level of Significance. Test of Significance. Confidence Intervals, Test
+involving Binomial and Normal Distributions.
+
+8. STUDENT “t”, “F” and Chi-Square Distributions: Test of Significance
+based on “t” , “F” and Chi-Square Distributions.
+
+9. ANALYSIS OF VARIANCE: One-way Classification, Two-way
+Classification, Partitioning of Sum of Squares and Degrees of Freedom,
+Multiple Compression Tests such as LSD, The analysis of Variance
+Models.
+
+Recommended Books
+Pharmaceutical Mathematics & Biostatistics
+
+1, © H Edvards. Jr. and David E Penney, Calculus and Analytic
+Geometry, Prentice-Hall, Inc, A division of Sinon & Schustor
+Englewood Gliffs, New Jersey 07632, USA. 1995.
+
+2. Daniel W W Bio-Statistics, Foundation for Analysis in Health Science.
+3rd Ed., 1983.
+
+3. Zar J H, Bio-Statistical analysis, Francis Hall, NJ, U.S.A.
+
+4, Nilton, J S and Tsokos, J D, Statistical Methods in Biological and
+health Sciences, McGrew-Hill. 1983.
+
+5. Chaudhry 5 A and Kmal ‏رذ‎ Introduction to Statistical Theory, Part-I
+and Part-II, Ilmi Kitab Khana, Urdu Bazar, Lahore. 1996.
+
+6. Samuels M, Statistics for the life sceinces, Dellen Pub Co SF, USA.
+1991,
+
+7. Walpole R ‏رط‎ Inrodution to Statistics, Macmillam Pub Co, NY. 1982.
+
+8. Ahmed B and Khan M, Mathmactics for Pharmacists, Arsalan Paper
+Mart, Multan, 1993,
+
+29
+
+--- Page 19 ---
+SECOND PROFESSIONAL
+PHARMACEUTICS-II (PHARMACEUTICAL PREPARATIONS)
+WRITTEN
+Paper 1 100 Marks
+
+1, Introduction: Dosage form, Ingredients.
+
+2. Pharmaceutical Calculations: Some Fundamentals of Measurements
+and Calculations. The Metric System. The Common Systems.
+Conversions. Calculation of Doses. Reducing and Enlarging Formulas.
+Density, Specific Gravity & Specific Volume, Weights and Volumes of
+Liquids. Percentage Preparations. Isotonic Solutions. HLB Values.
+Industrial Calculations. Some calculations involving Hydrogen-ion
+concentration.
+
+3. Galenical Preparations: Infusions. Decoctions, Extracts. Fluid extracts.
+Tinctures. Aromatic Waters.
+
+4, Extraction Processes: Maceration: Purpose and process. Percolation:
+Purpose and Process. Liquid-Liquid extraction. Large scale extraction.
+
+5. Solvents used in Pharmaceutical Preparations.
+
+6. Oral Solutions, Syrups, Elixirs and Spirits: Solutions and their
+preparation, dry mixtures for solution, oral rehydrate solutions, oral
+colonic leverage solution. Syrup: components and preparation of Syrups.
+Elixirs: Preparation of elixirs, medicated and non-medicated elixirs.
+
+7. Oral Suspensions, Emulsions, Magma and Gels: Preparations, Examples,
+and Importance.
+
+8. TRANSDERMAL DRUG DELIVERY SYSTEMS: Introduction of
+Ointments, Creams, Pastes, Poultice, Plasters, Lotions, Liniments,
+Topical gels, Topical Tinctures, Collodions, Topical solutions, Topical
+Powders, Percutaneous absorption, Transdermal systems in use.
+
+9. OPHTHALMIC, NASAL _ AND OTIC PREPARATIONS: Ophthalmic
+solutions, suspensions, ointment, inserts, contact lens solutions. Nasal
+decongestant solutions, Decongestant inhalers. Ear preparations: Anti-
+infective, anti-inflammatory and analgesic.
+
+30
+
+--- Page 20 ---
+10.SUPPOSITORIES AND VAGINAL SUPPOSITORIES: Semi-solid
+Preparations, Suppositories bases, preparation, packaging and storage,
+Solutions/Enemas.
+11.AEROSOLS, INHALATIONS AND SPRAYS: Aerosol: Principle,
+container and valve assembly, Propellants, filling, testing, packaging,
+labeling and storage.
+12.POWDERS, CAPSULES, TABLET DOSAGE FORMS: Preparation of
+Powders, mixing of powders, uses and packaging of powders, granules,
+effervescent, granulated salts. Hard gelatin capsules, capsule sizes,
+preparation of filled hard gelatin capsules, soft gelatin capsules,
+preparation and its application. Tablets, their types, characteristics and
+methods of preparation.
+13.INTRODUCTION TO PARENTERALS: Official types of injections,
+solvents and vehicles for injections, added substances.
+14.A brief introduction to oral hygiene products.
+PHARMACEUTICS-I (PREPARATIONS) PRACTICALS
+Paper 6 100 Marks
+NOTE:- Practicals of the subject shall be designed from time to time on the
+basis of the above mentioned theoretical topics and availability of the
+facilities, e.g. Prepartion of simple syrup, Orange syrup, Ferrous
+sulphate syrup, Cod Liver oil Emulsion, Liquid paraffin Emulsion,
+Throat paint (Mandle’s paint), Boroglycerine glycerite, Tannic acid
+glycerin, Spirit ammonia aromatic, Spirit of Ethyl Nitrite. Preparation
+of Methyl salicylate ointment, Sulphur ointment, Calamine lotion,
+Jodine tincture, Preparations of oral hygiene products, Poultice of
+Kaolin, Effervescent granules, Distilled Water for injections.
+(A minimum of twenty practical will be conducted)
+Recommended Books
+1, Michel E Aulton, Pharmaceutics, ELBS/Churchill Livingstone, London,
+1998,
+2. Bentley’s Book of Pharmaceutics, CBS Publishers & Distributors, New
+Delhi, 1986.
+3. Pharmaceutics, The Science of Dosage Form Design. 2 Ed., HawCourt
+Publisher, 2002.
+31
+
+--- Page 21 ---
+4. E A Rawlins, Berdley’s Textbook of Pharmaceutics, edited by 8" (or
+recent edition) 1977. Macmillan Publishing Co Inc, New York.
+5, Sprowl’s (Dittert LW; Edt), American Pharmacy,7" Ed, J B Lippincott
+
+Co, 1990.
+
+PHARMACOLOGY AND THERAPEUTICS-I_ (WRITTEN)
+Paper 2 100 Marks
+1, GENERAL PHARMACOLOGY
+
+(a)  Intdroduction: History, Pharmacology and its classification and
+Drugs and their sources.
+
+(b) Routes of drugs administration: Advantages and disadvantages of
+Enteral Routes, Advantages and disadvantages of Parentral Routes
+and Advantages and disadvantages of Topical Routes.
+
+(c) Pharmacokinetics: Drug solubility and passage of drugs across the
+body membranes, Plasma concentration of drugs and various
+factors affecting it (Absorption and factors influencing the rate of
+absorption (GIT and other routes) of drugs, Distribution and
+factors influencing the rate of distribution of drugs,
+Biotransformation and factors influencing the rate of
+biotransformation of drugs, Excretion, channels of excretion and
+factors influencing the rate of excretion of drugs), Definition of
+(Bioabvailability & Bioequivalence, Therapeutic Index, Plasma
+Half Life (t,), Dose-Response Curve, Area Under Curve, Volume
+of Distribution
+
+(d) Pharmacodynamics: Drug receptors and theories, Mechanisms of
+drug action, Specificity of drug action and Factors modifying the
+action & dosage of drugs.
+
+2. DRUGS ACTING ON AUTONOMIC NERVOUS SYSTEM (ANS
+
+(a) | Organization of ANS its subdivisions and innervations.
+
+(b) Neurotransmitters in ANS, their synthesis, release and fate.
+
+(c) Sympathetic agonist drugs: Catecholamines and Non-
+catecholamines.
+
+(d) Sympathetic antagonist drugs: Adrenergics Nerve Blockers,
+Adrenoceptor antagonists (Alpha-adrenergic blockers and Beta-
+adrenergic blockers).
+
+32
+
+--- Page 22 ---
+(e)  Parasympathetic (Cholinergic) agonists and Anticholinestrase
+inhibitors.
+
+(f)  Parasympathetic antagonists.
+
+(g) Drugs acting on Ganglia (Ganglian stimulants and Ganglion
+blockers).
+
+(h) Neuromuscular blocking drugs
+
+3. DRUGS ACTING ON GASTROINTESTINAL TRACT;
+
+(a) Emetic.
+
+(b) Anti-emetics.
+
+(c) Purgatives: Bulk forming purgatives, Lubricant purgatives, Irritant
+purgatives and Saline Purgatives.
+
+(d)  Anti-diarrheal Agents.
+
+(e) Treatment of Peptic & Dudenal Ulcers: Antiacids, H2-Receptor
+Antagonists, Antimuscarinic Agents, Proton Pump Inhibitors,
+Gastrin Receptor Antagonist and Cytoprotective agents.
+
+(f) Drug treatment of chronic inflammatory diseases of bowel.
+
+(g) Drugs affecting bile flow and Cholelithiasis.
+
+4 AUTACOIDS AND THEIR ANTAGONISTS:
+
+Histamine and Anti-histamines, Serotonin and Serotonin Antagonists and
+
+other Autocoids.
+
+5. DRUGS ACTING ON RESPIRATORY SYSTEM:
+
+(a) Drugs used for cough (Anti-tussives, Expectorants and Mucolytic
+Agents).
+
+(b) Drug treatment of Bronchial Asthma (Bronchodilators,
+Cromoglycate, Nedocromil, Cortecosteroids & other Anti-
+inflammatory drugs and Muscarinic receptor antagonists)
+
+6. DRUGS ACTING ON CARDIO-VESCULAR SYSTEM:
+
+(a) Angina pectorus and its drug treatment
+
+(b) Congestive heart failure & its treatment
+
+(c)  Anti-arrhythmic drugs
+
+(d) Agents used in Hyperlipidemia
+
+(e) Coagulants and Anti-coagulants
+
+(f) — Anti-hypertensives
+
+(g) Diuretics
+
+7. DRUGS ACTING ON GENITOURINARY SYSTEM:
+Oxytoxic drugs, Ergot alkaloids and uterine relaxants
+33
+
+--- Page 23 ---
+8. ANTI-ANAEMIC DRUGS:
+Note:
+
+1, Only an introduction will be given of the banned and obsolete drug
+products.
+
+2. While dealing with Pharmacology stress should be laid to the group
+actions of related drugs and only important differences should be
+discussed of the individual drugs placed in same group.
+
+3. Newly introduced drugs should be included in the syllabus while drugs
+with no clinical and therapeutic values ought to be excluded from
+syllabus at any time.
+
+4. The prototype drugs in each group from the latest edition of the
+recommended books.
+
+PHARMACOLOGY & THERAPEUTICS-I (PRACTICALS)
+Paper 7 100 Marks
+NOTE:- Practical of the subject shall be designed from time to time on the basis
+of the above mentioned theoretical topics and availability of the
+facilities, ¢.g. Preparation of standard solution. Ringer solution.
+Tyrode solution. Kreb solution. Normal saline solution. To
+demonstrate the effects of sympathomimetic (Adrenaline) &
+sympatholytic drugs (Propranolol) on Frog’s heart. To demonstrate the
+effects of parasympathomimetic (Acetylcholine) and
+parasympatholytic (Atropine) drugs on Frog’s heart. To demonstrate
+the effects of an unknown drug on Frog’s heart. Routes of
+Administration of drugs. To demonstate the effects of vasconstrictor
+drugs on Frog’s blood vessels. To demonstrate the effects of stimulant
+drugs on Rabbit’s intestine (Acetyl choline, Barium chloride), To
+demonstrate the effects of depressant drugs on Rabbit’s intestine
+(Atropine). To differentiate the effects of an unknown drug on
+Rabbit’s intestine and identify the (unknown) drug. To study the
+effects of Adrenaline on Rabbit’s Eyes. To study the effects of
+Homatropine on Rabbit’s Eyes. To study the effects of Pilocarpine on
+Rabbit’s Eyes. To study the effects of Local Anaesthetic drug (e.g
+Cocaine) on Rabbit’s Eyes. To identify the unknown drug &
+differentiate its effects on Rabbit’s Eyes.
+(Note: A minimum of 20 practicals will be conducted)
+34
+
+--- Page 24 ---
+Recommended Books
+1, Goodman Gillman, Pharmacological basis of Therapeutics. McGraw-
+Hill Book Company, New York, 1996.
+2. Winguard and Brody, Human Pharmacology, Mosby Year Book,
+Boston, 1991.
+3. James M Ritter and Lionel De Levis, A Text book of Clinical
+Pharmacology, Oxford University Press, New York, 1995.
+4.1 5 Satorkar and S D_ Bhandarkar, Pharmacology and
+Pharmacotherapeutics, Popular Prakashan, Bomby, 1993.
+5. JD Tripathy, Essential of Medical Pharmacology, Japees Brother, New
+Delhi, 4" Ed., 2000.
+6. D R Laurance, Clinical Pharmacology, ELBS, London, 6m Ed., 1987.
+7. Katzung 8 ‏رن‎ Basic and Clinical Pharmacology, McGraw-Hill Medical
+Publishers, New York, 8" Ed., 2001.
+8. Lipponcott, Pharmacology, Lippincot William & Willkin, USA, 2001.
+9. Manuchair Edabi, Pharmacology, Little Brown & Company, London,
+1993,
+10.Prof Dr A Qayum, Fundamentals of Experimental Pharmacology.
+11.Bertram G K, Basie and Clinical Pharmacology, Paramount Publishing
+Business & Professional Group, USA, 6" Ed., 1995.
+12,William F Ganong, W F, Review of Medical physiology, Prentice Hall
+International Inc, New Jersey.
+13.Qayum A, Fundamentals of Experimental Pharmacology. Ghandhara
+University, Peshawar, 2004.
+PHARMACOGNOSY-I_ (WRITTEN)
+Paper 3 100 Marks
+1, GENERAL INTRODUCTION: Historical Development and Scope of
+Pharmacognosy. Traditional system of Medicine/medicinal plants.
+Evolution of Modern system of Medicine (History of Modern System
+of Medicine). Classification of Crude Drugs with Special Emphasis to
+Chemical and Therapeutical System of Classification, Terminology
+Used in Pharmacognosy. Preparation of Crude Drugs for Commercial
+Market, Methods of Cultivation, Drying, Storage. Preservation,
+Packing, Deterioration and Adulteration of Crude Drugs. Evaluation
+of Crude Drugs I E Organoleptic, Microscopic, Physical, Chemical
+and Biological.
+2, THE STUDY OF THE CRUDE DRUGS BELONGING TO
+VARIOUS FAMILIES OF MEDICINAL IMPORTANCE
+Families Crude Drugs
+a. Ranunculanceae Aconitum, Larkspur, Pulsatilla, Hydrastis.
+35
+
+--- Page 25 ---
+5.  Papaveraaceae Papaver somniferum, Sanguinaria, Canadensis.
+
+3 Leguminosae Acacia, Glycyrrhiza, Senna, Cassia, Tamarind.
+
+0. 2 Umbelliferae Fennel, Carum, Coriander, Conium, Asafoetida.
+
+e.  Apocynaceae Rauwolfia, Catharanthus.
+
+f. Solanaceae Belladonna, Hycscyamus, Stramonium Capsicum.
+
+g. Scrophulariaceae Digitalis, Verbascum (Mullien).
+
+‎__Labiatae Peppermint, Thyme, Spearmint, Salvia, Ocimum.‏ بط
+
+‎i, Liliaceae Garlic, Colchicum, Aloe.
+
+‎j. Zingiberaceae Ginger, Curcuma.
+
+‎3. GROWTH REGULATORS: General account with special reference
+to Auxins, Gibberellins Abscisic acid, Cytokinins and Ethylene.
+
+‎4, ALLERGENS AND ALLERGENIC PREPARATION: Introduction,
+case history, skin test, treatment off allergy, inhalant, ingestant,
+injectant, contactant, infectant and infestant allergens. Mechanism of
+allergy.
+
+‎5. ENZYMES: Enzymes obtained from plant source. (Phytoenzymes).
+Papain Bromelain and Malt Extract. Enzymes obtained from Animal
+source. Rennin pepsin, Pancreatin and Pancrealipase.
+
+‎6. POISONOUS PLANTS: General introduction of poisonous plants
+with special reference to Pakistan.
+
+‎7, PESTICIDES: Introduction. Methods of controlling pests with special
+reference to natural methods.
+
+‎PHARMACOGNOSY-I (PRACTICALS)
+Paper 8 100 Marks
+NOTE:- Practicals of the subject shall be designed from time to time on the
+basis of the above mentioned theoretical topics and availability of the
+facilities, e.g. Introduction of the entire and broken parts of the plant
+drugs (Macro and organoleptic characters). Microscopic examination
+of powders and sections of plant drugs.
+(Note: A minimum of 20 practicals will be conducted)
+A Study Tour will be an integral part of the syllabus and will be arranged at the
+end of the session for collection of medicinal plants from Norhtern Areas of the
+country.
+Recommended Books
+36
+
+--- Page 26 ---
+1. VE Tyler, L R Brady and J E Robbers, Pharmacognosy, 9th Ed., Lea
+and Febiger, Philadelphia, 1988.
+
+2. G E Trease and W C Evans, Pharmacognosy, W B_ Saunders,
+Philadelphia, Toronto, 2002.
+
+3. K Usmanghani, Topics in Pharmacognosy, University Grants
+Commission Monograph Series, Islamabad, pp74, 1985.
+
+4. T.E. Wellis, Text book of Pharmacognosy, CBS Publishers &
+Distributors, New Delhi, 1986.
+
+5. Varro E Taylor, Pharmacognosy, Lee Febiger Philadelphia, 9" Ed.
+
+6. Mohammad Ali, Introduction to Pharmacognosy, CBS Publishers &
+Distributors, New Delhi, 1986.
+
+7. K Usmanghani, Chemical Pharmacognosy, University Grants
+Commission, Islamabad, 1985.
+
+8. Youngkin H W, Text Book of Pharmacognosy, The Blakiston Co
+Toronto, 6” Ed, 1948.
+
+PHARMACEUTICAL MICROBIOLOGY (WRITTEN)
+Paper 4 100 Marks
+Note: The topics will be taught with special reference to their
+Pharmaceutical Applications.
+
+1, GENERAL MICROBIOLOGY: Historical Introduction, Scope of
+Microbiology with special reference to Pharmaceutical Sciences.
+Nomenclature and classification of Micro-organisms.
+
+2, ORGANISMS:
+
+The Bacteria: General and cellular Morphology, structure and function.
+Classification of Bacteria. Growth curve, growth factors and growth
+characteristics. Nutrition, Requirements and Nutrition factors affecting
+growth, Culture Media, Bacterial cultures and staining Methods.
+
+The Viruses: Introduction, Classification (and detail of at least one
+species from every group), cultivation, and replication.
+
+3, THE FUNGI/YEAST/MOLDS.
+
+4, THE PROTOZOA.
+
+5. The NORMAL FLORA: Microbiology of air, water and soil (general
+introduction and normal inhibitants of air, water, and soil).
+
+6. INDUSTRIAL _MICROBIOLOGY: Introduction to  Sterilization/
+Disinfection. Fermentation, Pharmaceutical products produced by
+
+37
+
+--- Page 27 ---
+fermentation process (Penicillins, Cepalosporins, Gentamycin,
+Erythromycin, Tetracyclines, Rifamycin, Griseofulvin).
+
+7. IMMUNOLOGY: Introduction, Types of Immunity: Specific and non-
+specific (Cellular basis of Immune response. Immunity, autoimmunity,
+tolerance. Antigen. Anti-bodies). Antigen — Anti-body reactions and
+their clinical and diagnostic applications. Hypersensitivity and allergy.
+Drug allergy mechanism, Vaccination: Introduction and aims. Types of
+Vaccines. Current vaccine practices.
+
+8. FACTORY AND HOSPITAL | HYGIENE _ AND GOOD
+MANUFACTURING PRACTICE:
+
+Introduction, Control of Microbial contamination during manufacture,
+Mnaufacture of Sterile products, A Guide to Current Good
+Pharmaceutical Manufacturing Practices.
+PHARMACEUTICAL MICROBIOLOGY (PRACTICALS)
+Paper 9 100 Marks
+NOTE:- Practical of the subject shall be designed from time to time on the basis
+of the above mentioned theoretical topics and availability of the
+facilities, e.g. Sterilization of Glassware and pharmaceutical products
+by various methods. Microbiological assays of: Anti-biotics and
+vitamins. Preparation of general and selective media and culturing of
+microorganisms. Total and viable counts of micro-organism.
+Morphological and selective biochemical characterization of some
+specimen, Staining of Bacteria: Gram method, Acid fast, Giemasas
+staining, Capsule staining, Flagella staining and Spore staining.
+Microbiological analysis of air, water and soil.
+(Note: A minimum of 20 practicals will be conducted)
+Recommended Books
+
+1. Jawetiz, Medical Microbiology and Immunology, st edition, Churchill
+Livingstone, London, 1998.
+
+2. W B Hugo & A D Russell, Pharmaceutical Microbiology, Black Well
+Science Ltd, London, 6” Bd, 1998.
+
+3. Lippincot, Microbiology by lipponcott, William & Willkin, USA, 2001
+
+4, Alcamo, Introduction to Microbiology, John Bartlett Publishers, ‏ام‎ Ed.,
+2003.
+
+5. Collin and Lynes, Microbiological Methods, Vutterworth Heineman,
+Oxford, 1995,
+
+38
+
+--- Page 28 ---
+6. M Mekallee, Microbiology: Essentials and Application, McGraw-Hill
+Inc, 2" Ed.
+7. Singleton and Sainsbury, Dictionary of Microbiology and Molecular
+Biology, John Willey & Sons, New York, 2000.
+8. Pelezar, Microbiology, McGraw-Hill Inc, 1996.
+9. Prescott, Harley, Microbiology, 2" ed., Klein Wm, © Brown Publishers,
+2001.
+PAKISTAN STUDIES AND ISLAMIYAT (Comp.) WRITTEN
+Paper 5 100 Marks
+As per syllabi of B.A/B.Sc. Classes, approved by the respective
+University.
+39
+
+--- Page 29 ---
+THIRD PROFESSIONAL
+PATHOLOGY (WRITTEN)
+Paper 1 50 Marks
+
+1. SCOPE OF PATHOLOGY & CONCEPT OF DISEASES.
+
+2, DEFINITION AND TERMINOLOGY: Ischemia, Hypoxia, Necrosis,
+Infarction, Atrophy, Hypertrophy, Hyperplasia, Metaplasia, Aplasia,
+Anaplasia.
+
+3. RESPONSE OF BODY TO INJURY AND INFECTION: Acuate
+inflammation, Chronic inflammation, Immunity, Allergy, Hyper
+Sensitivity.
+
+4, SPECIFIC: Ulcer (Peptic, Doudenal), Hypertension, Leukemia or Blood
+Cancer (Malignant Carcinoma, Sarcoma & Lymphomas), Diagnosis and
+treatment of Cancer in general, fate, survival and prognosis with tumours.
+
+PATHOLOGY (Laboratory)
+Paper 6 50 Marks
+Study of Pathological Slides of various Pathological Conditions
+Acute inflammation, Chronic inflammation, Chronic specific inflammation,
+Different types of Degeneration, Thrombosis, Embolism, Infarction, Necrosis,
+Gangrene, Hyperplasia, Metaplasia, Pigmentation, Calcification, CVC,
+Papilloma, Adenoma, Chondroma, Fibroma, Leomyoma, Neofibroma, Sq. Cell
+Carcinoma, Basal Cell Carcinoma, Transitional Cell Carcinoma,
+Adenocarcinoma, Fibrocarcinoma, Rhadomyosarcoma, Leomyosarcoma,
+Lymphosarcoma, Liposarcoma, Reticular Cell Sarcoma, Hodgkins disease,
+Breast Carcinoma, Osteogenic Sarcoma, Osteoclastoma.
+Examiantion of different body fluids in various Pathological Conditions
+Urine complete Examination, stool Examination, Blood Complete Examination,
+Semen Examination, Cerebrospinal Fluid Examination, Pericardial fluid
+examination, Pleural Fluid Examination, Ascitic Fluid Examination, Blood
+Sugar, Blood Urea, Blood Cholesterol etc.
+Tests for various Specimens of Clinical Importance
+
+40
+
+--- Page 30 ---
+Techniques of Clinical Blood Examination for various disases, Gastric
+Analysis, Tests for liver function, Renal function test, Tests for endocrine
+abnormalities, Biopsies and cytologic techniques.
+Recommended Books
+
+1, Kumar Cotran Robins, Basie Pathology, 6" edition, W B Saunders
+
+Company, Philadelphia, (1992).
+
+2. Walters and Israel, General Pathology, Churchill Livingstone, London,
+
+(1998).
+
+3. Peter S Macfarlane, Robin Reid, Robin Collander, Pathology Illustrated,
+
+Churchill Livingstone, London (1998).
+
+4, Robbins Pathology, W B Saunders Co, London, 2” Ed., 1962.
+5. Walter G B, General Pathology, Churchill Livingstone, New York,
+
+1996,
+
+PHARMACOLOGY AND THERAPEUTICS-II (WRITTEN)
+
+Paper 2 100 Marks
+1. DRUGS ACTING ON CENTRAL NERVOUS SYSTEM
+
+(a) CNS — Depressants; Hypnotic & Sedatives and Analgesics
+(Narcotic Analgesics and opioid antagonists, Analgesic,
+Antipyretic and Anti-inflammatory drugs [NSAID] including
+Disease-modifying anti-rheumatic drugs and Drug treatment of
+Gout).
+
+(b) CNS - Stimulants: Cerebral Stimulants, Medullary stimulants,
+Spinal Cord Stimulants, Anti-depressants, Psychotomimetic or
+Hallucinogenics, Psychotherapeutic Agents (Anxiolytics and Anti-
+psychotics), Drug treatment of Epilepsy and Drug treatment of
+Parkinsonism and other movement disorders.
+
+2. ANAESTHETICS
+
+(a) Anesthesia and its clinical importance.
+
+(b) General Anaesthesia, Mechanism of action and its application.
+
+(c) General Anaesthetics
+
+(d) Local Anaesthetics
+
+(e) Spinal Anaesthesia and drug used
+
+(f) — Techniques of Local Anaesthesia
+
+3. CHEMOTHERAPY
+
+(a) Classification of drugs.
+
+(b) Anti-microbials: Sulphonamides, Anti-virals, Anti-protozoals
+(Treatment of Malaria and Treatment of Amebiasis), Anti-fungals,
+
+41
+
+--- Page 31 ---
+Anthelmintics, Anti-neoplastic and Immunosuppressive drugs,
+Drug treatment of Leprosy and Anti-biotics (Penicillins, Cephalo-
+sporins, Aminoglycosides, Tetracyclines, Chloramphenicol,
+Macrolides, Quinolones and Miscellaneous Anti-biotics).
+
+(c) | Anti-hypertensive Drugs.
+
+(d) Steroids and Anti-steroid drugs.
+
+4. | HORMONES, ANTAGONISTS AND OTHER AGENTS AFFECTING
+
+ENDOCRINE FUNCTION
+
+(a) Endocrine function and dysfunctions.
+
+(b) Drug used for therapy of Diabetes Mellitus: Insulin and Oral
+Hypoglycemic agents.
+
+(c) Corticosteroids
+
+(d) Thyroid hormone and anti-thyroid drugs
+
+5. TOXICOLOGY
+
+(a) Pollution and its typers (water, air, food)
+
+(b) Poison and principle of treatment of poisoning.
+
+(c) Poisoning (Sign & symptom and treatment); Ethanol, Barbiturates,
+Digitalis, Salicylides, Strychnine, Narcotics, Nicotine, Paracetamol,
+Benzodiazepines and Organophosphorous compounds.
+
+(d) Chelating agents and their role in poisoning: Dimercaprol, Calcium
+disodium edentate, Pencillamine and Defroxamine.
+
+Note:
+
+1, Only an introduction will be given of the banned and obsolete drug
+products.
+
+2. While dealing with Pharmacology stress should be laid to the group
+actions of related drugs and only important differences should be
+discussed of the individual drugs placed in same group.
+
+3. Newly introduced drugs should be included in the syllabus while drugs
+with no clinical and therapeutic values ought to be excluded from
+syllabus at any time.
+
+4. The prototype drugs in each group from the latest edition of the
+recommended books.
+
+42
+
+--- Page 32 ---
+PHARMACOLOGY AND THERAPEUTICS-II (PRACTICAL)
+Paper 7 100 Marks
+NOTE:- Practical of the subject shall be designed from time to time on the basis
+
+of the above mentioned theoretical topics and availability of the
+facilities, e.g. To study the convulsant effects of strychnine and
+picrotoxin in frogs and to determine the site of action. To identify the
+unknown (convulsant) drug and determine its site of action. To study
+the effects of Adrenaline on Human Eyes. To study the effects of
+Pilocarpine on Human Eyes. To study the effect of Homatropine on
+Human Eyes. To identify and observe the effects of unknown drugs on
+Human Eyes. To study the effects of local anaesthetic drugs on human
+and the nerve plexus of frog. To identify and differentiate the effects
+of unknown drug on human and the nerve plexus of frog. To
+demonstrate the effects of Acetylcholine on the Rectus abdominus
+muscle of frog and competitive pharmacological antagonism by
+Neuromuscular blocking agent e.g. Gallamine. To identify the
+unknown drug by performing pharmacological competitive
+antagonism on Rectus abdominus muscle of Frog. To study the anti-
+coagulant effects of Heparin and oral anti-coagulants on Rabbits. To
+identify the unknown anticoagulant drug using Rabbits. To
+demonstrate the graded Dose-Response curve of Acetylcholine on
+Rabbit intestine. To identify unknown concentration of Acetycholine
+from graded Dose-Response curves.
+(Note: A minimum of 20 practicals should be conducted)
+Recommended Books
+
+1, Goodman Gillman, Pharmacological basis of therapeutics, McGraw-
+
+Hill Book Company, New York, 1996,
+
+2. Winguard and Brody, Human Pharmacology, Mosby Year Book,
+
+Boston, 1991.
+
+3. James M Ritter and Lionel De Levis, A Text book of Clinical
+
+Pharmacology, Oxford University Press, New York, 1995.
+
+4. R 5 Satorkar and 5 D Bhandarkar, Pharmacology and Pharmaco-
+
+therapeutics, Popular Prakashan, Bomby, 1993.
+
+5. JD Tripathy, Essential of Medical Pharmacology, Japees Brother, New
+
+Delhi, 4° Ed, 2000.
+
+6. D R Laurance, Clinical Pharmacology, ELBS, London, 6m Ed., 1987.
+7, Katzung 8 G, Basic and Clinical Pharmacology, McGraw-Hill Medical
+
+Publishers, New York, 8" Ed., 2001.
+
+8. Lipponcott, Pharmacology, Lippincot William & Willkin, USA, 2001.
+9. Manuchair Edabi, Pharmacology, Little Brown & Company, London,
+
+1993,
+
+43
+
+--- Page 33 ---
+10.Prof Dr A Qayum, Fundamentals of Experimental Pharmacology.
+
+11.Bertram G K, Basic and Clinical Pharmacology, Paramount Publishing
+
+Business & Professional Group, USA, 6” Ed., 1995.
+
+12. William F Ganong, W F, Review of Medical physiology, Prentice Hall
+International Inc, New Jersey.
+
+13.Qayum A, Fundamentals of Experimental Pharmacology. Ghandhara
+University, Peshawar.
+
+PHARMACOGNOSY-II (WRITTEN)
+Paper 3 100 Marks
+
+1, SEPARATION AND ISOLATION OF PLANT CONSTITUTIONS:
+
+An introduction to chromatography and chromatographic techniques e.g.
+
+Adsorption Chromatography and Partition Chromatography.
+
+2, CARBOHYDRATES: Introduction of carbohydrate.
+
+(a) Sucrose and Sucrose containing drugs: Sucrose, Dextrose, Liquid
+glucose, Fructose, Lactose, Xylose, Caramel, Honey, Starch,
+Inulin, Dextrine etc.
+
+(b) Cellulose and Cellulose Derivatives: Purified cotton, Powdered
+cellulose, Microcrystalline cellulose, Methyl cellulose, Sodium
+Carboxy-methy] cellulose.
+
+(c) Gums and Mucilages: Tragacenth, Acacia, Sodium Alginate, Agar,
+Pectin.
+
+3. GLYCOSIDES: Introduction, classification, chemistry and medicinal
+uses of:
+
+(a) Cardioactive glycosides: Digitalis, Strophanthus and white squill.
+
+(b) Anthroquinone glycosides: Cascara, Aloe, Rhubarb, Cochineal and
+Senna.
+
+(c) Saponin glycosides: Glycyrrhiza, Sarsaparilla.
+
+(d) Cyanophore glycosides: Wild cherry.
+
+(e) Isothiocyanate glycosides: Black Mustard.
+
+(f) Lactone glycosides: Cantharide.
+
+(g) Aldehyde glycosides: Vanilla.
+
+(h) Miscellaneous glycosides: Gentian, Quassia, Dioscorea.
+
+4, TANNINS: Introduction, classification, properties and chemical identity
+tests of Tannins and Tannin containing compounds. Detailed study of
+Hammamelis, Catechu and Nut Galls.
+
+جه
+
+--- Page 34 ---
+5. VOLATILE OILS (ESSENTIAL OILS): Introduction, significance,
+methods of obtaining volatile oils, chemistry and classification of:
+
+(a) Hydrocarbon volatile oils: Cubeb and Terpentine oil.
+
+(b) Alcoholic volatile oils: Peppermint, Coriander and Cardamom.
+
+(c) Aldehydic volatile oils: Bitter orange peel, sweet orange peel,
+lemon, cinnamon and bitter almond oil.
+
+(d) Ketonic volatile oils: Camphor, spearmint, caraway, Buchu
+
+(e) Phenolic volatile oils: Clove, Thyme.
+
+(f) Phenolic ether volatile oils: Fennel, Anise, Myristica.
+
+(g) Oxide volatile oils: Eucalyptus, chenopodium.
+
+(h) _ Ester volatile oils: Rosemary.
+
+(i) — Miscellaneous volatile oils: Allium, Anethum.
+
+6. RESINS AND RESIN COMBINATION: Introduction, properties and
+difference between glycoresins, oleoresins, oleo-gum resins and balsams.
+(a) Resins: Rosin, Cannabis.
+
+(b) Glycoresins: Podophyllum, Jalap, Ipomoea, Colocynth.
+
+) Oleoresins: Terpentine, Capsicum, Ginger.
+
+(d) Oleo-gum resins: Asafoetida, Myrrh.
+
+(e) Balsams: Storax, Peruvian balsam, Tolu balsam, Benzoin.
+
+7. ALKALOIDS: Introduction, Properties, Cassification, Function of
+alkaloids in plants, Methods of extraction and identification tests.
+
+(a) Pyridine — Piperidine Alkaloids: Areca nut, Lobelia, Tobacco.
+
+(b) Tropane Alkaloids: Belladonna, Hyoscyamus, Stramonium.
+
+(c) Quinoline Alkaloids: Cinchona.
+
+(d) Isoquinoline Alkaloids: Ipecacuanha, Opium.
+
+(e) Indole alkaloids: Rauwolfia, catharanthus, nux vomica,
+physostigma, ergot.
+
+(f) — Imidazole alkaloids: Pilocarpus.
+
+(g)  Steroidal alkaloids: Veratrum.
+
+(h)  Alkaloidal amines: Ephedra, colchicum.
+
+(i) Purine Bases: Tea, Coffee.
+
+8. LIPIDS: Introduction. Detailed study of:
+
+(a) Fixed Oils: Castor oil, cotton seed oil, olive oil, peanut oil, sun
+flower oil, corn oil, coconut oil, Almond oil, Linseed oil, Mustard
+oil, Sesame oil and soybean oil.
+
+(b) Fats and Related Compounds: Theobroma oil and Lanolin.
+
+(c) Waxes: Bees wax, carnauba wax, spermaceti and Jojoba oil.
+
+9, TUMOUR INHIBITORS FROM PLANT: Detailed study of various anti-
+tumour agents isolated from plants.
+
+45
+
+--- Page 35 ---
+PHARMACOGNOSY-I_ (PRACTICALS)
+Paper 8 100 Marks
+NOTE:- Practical of the subject shall be designed from time to time on the basis
+of the above mentioned theoretical topics and availability of the
+facilities, e.g. Extraction of the active constituents of crude drugs and
+chemical tests for their identification. Isolation and separation of
+active constituents of crude drugs by paper and thin layer
+chromatography.
+(ote: A minimum of 20 practicals will be conducted)
+Recommended Books
+
+1. VE Tyler, L R Brady and J E Robbers, Pharmacognosy, 9th Ed., Lea
+and Febiger, Philadelphia, 1988.
+
+2. G E Trease and W C Evans, Pharmacognosy, W B_ Saunders,
+Philadelphia, Toronto, 2002.
+
+3. K Usmanghani, Topics in Pharmacognosy, University Grants
+Commission Monograph Series, Islamabad, pp74, 1985.
+
+4. T E Wellis, Text book of Pharmacognosy, CBS Publishers &
+Distributors, New Delhi, 1986.
+
+5. Varro E Taylor, Pharmacognosy, Lee Febiger Philadelphia, 9" Ed.
+
+6. Mohammad Ali, Introduction to Pharmacognosy, CBS Publishers &
+Distributors, New Delhi, 1986.
+
+7. K Usmanghani, Chemical Pharmacognosy, University Grants
+Commission, Islamabad, 1985.
+
+8. Youngkin H W, Text Book of Pharmacognosy, The Blakiston Co,
+Toronto, 6" Ed., 1948,
+
+PHARMACEUTICS-III (DISPENSING AND COMMUNITY
+PHARMACY) WRITTEN
+Paper 4 100 Marks (40+60)
+PART ‘A’ DISPENSING (40 Marks)
+
+1, Basic Principles _of Compounding and Dispensing Including: Weights
+and Measures, Calculations for compounding and Dispensing,
+Fundamental operations in Compounding, Containers and closures for
+Dispensed Products, Prescription-Handling (Parts of Prescription, Filling,
+Interpretation, Pricing) and Labelling of Dispensed Medication.
+
+46
+
+--- Page 36 ---
+2. Extemporaneous Dispensing of: Solutions, Suspensions, Emulsions,
+Creams, Ointments, Pastes and gels, Suppositories and _pessaries,
+Powders and granules and Oral unit dosage form.
+
+3. Pharmaceutical _Incompatibilities: Types of Incompatibilities,
+Manifestations, Correction and Prevention with reference to typical
+examples.
+
+4, Classical dosage Forms,
+
+5. LV. Admixtures,
+
+6. Radio-Pharmacy — Techniques and Applications.
+
+PART ‘B’ COMMUNITY PHARMACY (60 Marks)
+
+1. DEFINITIONS AND BACKGROUND
+
+2. PUBLIC HEALTH AND COMMUNITY PHARMACY: Epidemeology
+& its Control, Preventive Health (EPI & CDC), Family Planning and
+Health Policy & National Drug Policy.
+
+3. PATIENT ASSESSMENT
+
+4. MEDICAL COMPLICATION OF DRUG TAKING: General and Socio-
+economic Aspects.
+
+5. PATIENT PHARMACIST COMMUNICATION.
+
+6. PATIENT EDUCATION AND COUNSELLING.
+
+7. CONTROL OF DRUG ABUSE AND MISUSE.
+
+8. ROLE OF PHARMACIST: As Public Health Educator in the Community
+for Drug Monitoring and Drug Information.
+
+PHARMACEUTICS-III (DISPENSING AND COMMUNITY
+PHARMACY) PRACTICALS
+Paper 9 100 Marks
+NOTE:- Practical of the subject shall be designed from time to time on the basis
+of the above mentioned theoretical topics and availability of the
+47
+
+--- Page 37 ---
+facilities, e.g. Practical introduction to  prescription-handling,
+interpretation, filling and Labeling.
+Mixtures: Dispensing of simple mixtures containing soluble
+substances only, mixtures containing diffusible substances, in-
+diffusible substances and mixtures forming precipitate.
+Powders: Dispensing of simple powders, compound powders and
+effervescent powders for external use.
+Incompatibility: Practical Importance of Incompatibilities
+Ointments And Creams: Dispensing of iodine and Methyl salicylate
+ointment. Dispensing of cold cream and vanishing creams.
+Cosmetics: Lipstick, talcum powder, after shave lotion, shaving
+cream,
+(Note: A minimum of 20 practicals will be conducted)
+Recommended Books
+1, Cooper and Guns, Dispensing, CBS Publishers & Distributors, New
+Delhi, 1986.
+2. Hussa’s Dispensing.
+3. Roy Robertson, Management of Drug Users in the Community: A
+practical Handbook.
+4, Remington’s Pharmaceutical Sciences, Mack Publishing Company,
+USA, 2001
+5. Martindale's Extra Pharmacopia.
+PHARMACEUTICAL CHEMISTRY-II (INSTRUMENTATION)
+(WRITTEN)
+Paper 5 100 Marks
+Note:- The topics will be taught with special reference 10 their
+Pharmaceutical Applications.
+Theory, Instrumentation and Pharmaceutical Applications of the following
+Spectroscopic Methods:
+1, SPECTROSCOPIC METHODS
+(a) Atomic Absorption and Emission Spectroscopy
+(b) Molecular fluorescence spectroscopy
+(c) Flame Photometry
+(d) LR. Spectroscopy
+(e) Mass Spectroscopy
+(f) NMR Spectroscopy
+(g) U.V//Visible Spectroscopy
+48
+
+--- Page 38 ---
+2. CHROMATOGRAPHIC METHODS: Column Chromatography, Thin
+Layer Chromatography, Gas Liquid Chromatography, HPLC and GC-
+MS.
+
+3, ELECTRO CHEMICAL METHODS: Potentiometry, Polarography and
+Radiochemical Techniques.
+
+4, DIFFERENTIAL SCANNING CALORIMETRY
+
+PHARMACEUTICAL CHEMISTRY-II (INSTRUMENTATION)
+(PRACTICAL)
+Paper 10 100 Marks
+NOTE:- Practical of the subject shall be designed from time to time on the basis
+of the above mentioned theoretical topics and availability of the
+requirements, e.g. Determination of the Purity and Composition of the
+unknown drugs by using at least each of the above techniques.
+Determination of the Purity and Composition of the unknown drugs
+by using at least each of the above techniques.
+(Note: A minimum of 20 practicals will be conducted)
+Recommended Books
+
+1, Lough W J, High Performance Liquid Chromatography, Blacki
+Academic Press, New York, 1996.
+
+2. William Kemp, Organic Spectroscopy, Ellsi Horwood, London, 1990.
+
+3. M Aminuddin & Javed Iqbal, Theory and Practice of
+Chromatography, University Grants Commission, Islamabad-Pakistan
+(2000).
+
+4. AH Beckett and J B Stennlake, Practical Pharmaceutical Chemistry,
+Part I and II, the Aulton Press, London.
+
+‎A M Knevel and F E Digangi, Jenkins’s quantitative Pharmaceutical‏ .د
+‎Chemistry, McGraw-Hill Book company, New York.‏
+
+‎6. A Braithwaite and F J Smith, Chromatographic Methods, Chapman and
+Hall, London.
+
+‎7. E Hefimann, Chromatography, Von Nostrond Reinheld Co, New York,
+1975,
+
+‎8. A Pryde and M J Gilbert, Applications of High Performance Liquid
+Chromatography, Chapman & Hall, London, 1979.
+
+‎9, E Stahl, Thin Layer Chromatography, Springer-Verlag, Berlin, 1969.
+
+‎10.R Hamilton, Introduction to HPLC, P A Sewell, Chapman & Hall,
+London, 1982.
+
+‎49
+
+--- Page 39 ---
+FOURTH PROFESSIONAL
+PHARMACETICS-IV HOSPITAL PHARMACY (WRITTEN)
+Paper 1 100 Marks
+1, INTRODUCTION
+(a) Role of Pharmacist in Hospital
+(b) Minimum standards for pharmacies in Institutions/Hospitals
+(c) Research in Hospital Pharmacy
+2, HOSPITAL AND ITS ORGANIZATION
+(a) Classification of Hospitals
+(b) Organizational Pattern
+(c) Administration
+(d) Clinical Departments
+(e) Nursing, Dietectic, Pathology, Blood Bank, Radiology and other
+supportive services etc.
+(f) 2 Role of Pharmacy in Hospital
+(g) Hospital Finances
+3. PHARMACY, ITS ORGANIZATION AND PERSONNEL
+(a) Pharmacy specialist
+(b) Drug information Centre
+(c) Poison Control Centre and Antidote Bank
+(d) Pharmacy Education
+(e) Determining the need of Professional and other departmental staff
+(f) Professional services rendered
+4, PHARMACY AND THERAPEUTIC COMMITTEE.
+5. THE HOSPITAL FORMULARY
+(a) General Principles and guidelines to develop Formulary
+(b) Format
+(c) Preparation of the Formulary & Role of Pharmacist
+(d) Benefits and problems
+(e) Keeping up to date Formulary
+(f) Contraceptives
+6. DISPENSING TO INPATIENTS
+(a) Methods of Dispensing & SOP’s
+(b) Unit dose dispensing
+(c) Other concepts of dispensing, Satellite Pharmacy etc.
+7, DISPENSING TO AMBULATORY PATIENTS.
+50
+
+--- Page 40 ---
+8. DISTRIBUTION OF CONTROL SUBSTANCES.
+
+9. DISPENSING DURING OFF-HOURS.
+
+10.SAFE USE OF MEDICATION IN THE HOSPITAL:
+(a) Medication error
+(b) Evaluation & Precautions of Medication Error
+(c) Role of Pharmacist in Controlling Medication Error
+
+11. MANUFACTURING BULK AND STERILE.
+
+12.THE PHARMACY — CENTRAL STERILE SUPPLY ROOM
+
+13.ASEPTIC DISPENSING
+TPN, I/V Admixtures, Cytotoxic Dispensing, Semi-sterile Dispensing
+(Eye drops, Ear drops) and Hyperailimentation.
+
+14.ROLE OF PHARMACISTS IN SMALL HOSPITALS, NURSING
+HOMES ETC.
+
+15.PURCHASING, DISTRIBUTION AND CONTROL OF HOSPITAL
+MEDICINES, MEDICAL & SURGICAL SUPPLIES:
+Purchasing, Stocking, Stock Control, Inventory Management, Drug
+Distribution, Relationship between purchasing, Distribution and Clinical
+Pharmacy Services.
+
+16. NUCLEAR PHARMACY,
+
+17. THE PHYSICAL PLANT AND ITS EQUIPMENT.
+
+18. INVESTIGATIONAL USE OF DRUGS.
+
+19. HEALTH ACCESSORIES.
+
+20.SURGICAL SUPPLIES.
+
+21. INSPECTION OF WARDS WITH REFERENCE TO DRUG STORAGE
+AND ADMINISTRATION.
+
+22. MANAGEMENT OF ACCIDENT & EMERGENCY PHARMACY (A
+&E).
+
+51
+
+--- Page 41 ---
+23.COMMON KNOWLEDGE OF ABOUT 100 DRUGS REGISTERED
+BY MINISTRY OF HEALTH, GOVERNMENT OF PAKISTAN
+Recommended Books
+1, William Hassan, Hospital Pharmacy, Lee & Febiger, Washington, 5"
+Ed., 1986.
+2. N I Bukhari, Hospital Pharmacy, Aziz Book Depot, Lahore-Pakistan
+(2000).
+3, Martin Stephen, Hospital Pharmacy, Pharmaceutical Press, London,
+2003.
+PHARMACEUTICS-V CLINICAL PHARMACY-I (WRITTEN)
+Paper 2 100 Marks
+1, GENERAL INTRODUCTION TO CLINICAL PHARMACY:
+Terminologies, Basic Components and Scope.
+2, PATIENT PROFILE:
+(a) Patient disease profile
+(b) Taking case History
+(c) Drug Profile of 25 Drugs (Adrenaline, Aminoglycosides, Anti TB
+Drugs, Antiepileptics, Atropine, Benzodiazepines, Cepahlosporins,
+Chlorpheniramine, Cimetidine, Digoxin, Dobutamine, Dopamine,
+Fluroquinolone, Frusemide, Lactulose, Macrolides,
+Metoclopramide, Morphine/Pethedine, Nifedipine, NSAIDS, ORS,
+Penicillins, Prednisolone, Salbutamol, Vancomycin)
+3. CLINICAL TRIALS OF DRUG SUBSTANCES:
+Designing of clinical trials, Types of trials, Choice of patients,
+Exclusion of patients and Monitoring a clinical trial.
+4. EMERGENCY TREATMENT.
+5. DRUG INTERACTIONS:
+Mechanism, Physiological factors affecting interaction, Types and
+level of drug interactions, Role of pharmacist in evaluating drug
+interactions & its management.
+6. ADVERSE DRUG REACTIONS:
+Adverse Drug Reactions and Side Effects: Classification, Excessive
+pharmacological response, Idiosyncrasy, Secondary pharmacological
+effects, Allergic drug reactions, General toxicity, Toxicity following
+drug withdrawal, Detection, reporting & Management of ADR.
+52
+
+--- Page 42 ---
+7, DRUG INDUCED DISEASES.
+
+8. COMPUTERS IN CLINICAL PHARMACY.
+
+9, UTILIZATION OF CLINICAL DRUG LITERATURE: Introduction,
+Drug literature selection, Drug literature evaluation and Drug
+literature communication.
+
+PHARMACEUTICS-V CLINICAL PHARMACY-I (PRACTICAL)
+Paper 6 100 Marks
+Clerkship in the Clinical Setting. A project related to Clinical Pharmacy
+Practices will be completed by the students and will be evaluated by the external
+examiner.
+
+Recommended Books
+
+1, Roger Walker, Clinical Pharmacy & Therapeutics, Churchill
+Levingstone, London, 3“ Ed., 2003.
+
+2. Guard Paul, A Behavioral Approach to Pharmacy Practice, Black
+Well, USA, 2000.
+
+3. Herfindal Gourley, Clinical Pharmacy & Therapeutics, William &
+Willkins, London, 1992.
+
+4, AJ Winfield, Pharmaceutical Practice, Churchill Levingstone, London,
+2" Ed., 1998.
+
+5, Kavin Taylor, Pharmacy Practice, Taylor & Francis, New York, 1998.
+
+6. Deborah Rosenbaun, Clinical Research Coordinator Hand Book, 2°
+Ed., Sarrison, Inc, North Carolina, USA.
+
+7. Simon Cook, Clinical Studies Management, a Practical Guide to
+Success, Sue Horwood Publishing limited, West Sussex UK.
+
+8. Joseph T Dipiro, Encyclopedia of Clinical Pharmacy. Marcel Dekker
+Publishing, 2003.
+
+9. Joseph T Dipiro, Encyclopedia of Pharmacy. Marcel Dekker Publishing
+2002.
+
+10.Mellainie J Rantucci, Pharmacist Talking with Patients, 1997
+
+11.Smith GDG and Aronson J K, Oxford Text Book of Clinical
+Pharmacology and Drug Therapy, Oxford University Press, UK, 1990
+
+12.Hansten P and Horn J, Drug interactions. Lee & Febiger, Philadelphia,
+USA, 1989.
+
+53
+
+--- Page 43 ---
+PHARMACEUTICS-VI (INDUSTRIAL PHARMACY) WRITTEN
+Paper 3 100 Marks
+
+1. MASS TRANSFER,
+
+2, HEAT TRANSFER.
+
+3. DRYING: Theories of drying, Drying of Solids, Classification of dryers,
+General Methods, Fluidized Bed systems, Pneumatic systems, Spray
+dryer, Freeze dying.
+
+4, MIXING: Fundamentals, Mechanisms, Mixing Equipment used in
+Liquid/Liquid, Liquid/Solid and solid/solid mixing, Communition (size
+reduction), Reasons for size reduction, Factors affecting size reduction,
+size analysis, Sieving, Energy Mills (Ball Mill. Endrumer, Edge Rumer,
+Disintegrant, Colloid Mill, Hammer Mill, Cutter Mill, and Fluid Energy
+Mill etc.).
+
+5. CLARIFICATION AND FILTRATION: Theory, Filter media, Filter
+aids, Filter selection and Equipment (Leaf filter, Filter press, Melta filters
+and Rotary filters).
+
+6. EVAPORATION: General principles of Evaporation, Evaporators and
+Evaporation under reduced pressure.
+
+7, COMPRESSION AND COMPACTION: The solid-air Interface, Angle
+of Repose, Flow rates, Mass volume relationship, Density, Heckel Plots,
+Consolidation, Granulation, Friability, Compression (dry method, wet
+method, slugging), Physics of Tabletting, tabletting machines and other
+equipment required, problems involved in tabletting, tablet coating,
+Capsulation (Hard and Soft gelatin capsules).
+
+8. SAFETY METHODS IN PHARMACEUTICAL INDUSTRY:
+
+(a) Mechanical, chemical and fire hazards problems.
+(b) Inflammable gases and dusts.
+
+9, EMULSIONS:
+
+Mechanical Equipments, Specific formulation Considerations and
+Emulsion stability.
+
+10.SUSPENSIONS:
+
+Formulation of suspensions, Equipment used in preparation and test
+methods for pharmaceutical suspensions.
+54
+
+--- Page 44 ---
+11.SEMISOLIDS:
+Equipment used for Ointments, Pastes, Gels and Jellies. Packaging of
+ointments,
+
+12.STERILE PRODUCTS:
+Sterile area and its Classification, Ophthalmic ointments, Preparation of
+praenterals (Building, Equipment), Complete Sterility (Aseptic area), air
+control, (Laminar flow etc.), air locks, Environmental monitoring
+methods, Sterilization, Filling/Packaging (Plastic and glass containers),
+Added substances (Preservatives, anti-oxidants, solubilizer, suspending
+agents, buffers, stabilizers etc.), Inprocess Quality Control of Parenterals
+(Sterility, leakage, pyrogens, clarity etc.).
+
+13.STANDARDIZATION OF PHARMACEUTICALS:
+An understanding of quality assurance system adopted in pharmaceutical
+industry. Good Manufacturing Practices and Current Good
+Manufacturing Practices.
+
+14.PACKING & PACKAGING:
+Influence of Packaging materials, Stability, Packaging Lines, Packaging
+Area, Packaging Equipment.
+
+15.EQUIPMENTS USED FOR:
+Patches, Sprays, Implants, Sutures, Plasters and Sachet packing.
+
+16.STUDY TOUR:
+A visit to the pharmaceutical industries will be an integral part of the
+syllabi.
+
+PHARMACEUTICS-VI (INDUSTRIAL PHARMACY) (PRACTICAL)
+Paper 7 100 Marks
+NOTE:- Practical of the subject shall be designed from time to time on the basis
+
+of the above mentioned theoretical topics and availability of the
+facilities, e.g. Manufacture of Tablets by Wet Granulation Method, by
+Slugging and by Direct Compression. Coating of Tablets (Sugar
+Coating, Film coatingand Enteric Coating). Clarification of liquids by
+various processes. Size Reduction. Homogenization. Ampoule filling,
+sealing and sterilization clarity and leakage tests in injectables.
+Capsule filling by semi automatic machines. Manufacture of sustained
+action drugs. Tablets Tests like Disintegration. Dissolution. Friability.
+Hardness and thickness tests. Determination of weight variation in
+tablets. Density of powder. Particle size analysis.
+(Note: A minimum of 20 practicals will be conducted)
+
+55
+
+--- Page 45 ---
+A Study Tour will be an integral part of the syllabus and will be arranged at the
+end of the session for collection of medicinal plants from Norhtern Areas of the
+country,
+Recommended Books
+1, Lackman, Theory and Practice of Industrial Pharmacy, Verghese
+Publishing House, Bombay, 1987.
+2. Cooper and Gunn’s, Tutorial Pharmacy, CBS Publishers & Distributors,
+New Delhi, 1986.
+3, Bentley’s Pharmaceutical Text Book, CBS Publishers & Distributors,
+New Delhi, 1986.
+4, Remington’s Pharmaceutical Sciences, Mack Publishing Company,
+USA, 2001.
+5. John Sharp, Good Pharmaceutical Manufacturing Practice, Rational
+and Compliance.
+PHARMACEUTICS —VII (BIOPHARMACEUTICS) (WRITTEN)
+Paper 4 100 Marks
+1 DEFINITIONS AND TERMINOLOGY:
+Biopharmaceutics, Generic Equivalence, Bioavailability, Bioequiva-
+lence, Drug Disposition, Therapeutics, Pharmacokinetics, Biotransfor-
+mation and Therapeutic Equivalents.
+2, GASTRO-INTESTINAL ABSORPTION AND PHYSICO-CHEMICAL
+CONSIDERATIONS:
+Forces which help in transmembrane movements, pH Partition Theory,
+Lipid Solubility and Factors affecting Bioavailability.
+3. BIOAVAILABILITY STUDIES:
+Purpose, Relative and Absolute Bioavailability, and Determination of
+Bioavailability.
+4, FACTORS AFFECTING DISSOLUTION IN RESPECT OF
+BIOAVAILABILITY:
+Methods of in-vitro and in-vivo determination of rate of dissolution.
+5. MULTIPLE DOSAGE REGEMIN.
+6. INTRAVENOUS INFUSIONS.
+56
+
+--- Page 46 ---
+7, BIOPHARMACEUTICAL AND PHARMACOKINETIC ASPECTS IN
+
+DEVELOPING A DOSAGE FORM.
+
+8. INTRODUCTION TO PHARMACOKINETICS:
+
+Determination through plasma drug level studies. Application of
+
+pharmacokinetics in clinical situations.
+
+9, CONCEPT OF COMPARTMENT(S) MODELS:
+
+One compartment open model. Two compartment open model. Three
+
+compartment open model and Non-compartmental method of analysis.
+
+10. BIOLOGICAL HALF-LIFE AND VOLUME OF DISTRIBUTION:
+Concept and Methods of Determination.
+11. DRUG CLEARANCE:
+Mechanism, determination and relationship of clearance with half-life.
+12. ELIMINATION OF DRUGS:
+
+a) Hepatic Elimination, Percent of Drug Méetabolized, Drug
+Biotransformation reactions, (Phase-I reactions and phase-II
+reactions), First pass effect, Hepatic clearance of protein bound drugs
+and Biliary excretion of drugs.
+
+b) Renal Excretion of Drugs: Renal clearance, Tubular Secretion and
+Tubular Reabsorption.
+
+c) Elimination of Drugs through other organs: Pulmonary excretion,
+Salivary excretion, Mammary excretion, Skin excretion and Genital
+excretion,
+
+13.PROTEIN BINDING:
+
+Determination of plasma protein binding and Clinical significance of
+
+drug-protein binding.
+
+14.APPLICATIONS OF PHARMACOKINETICS AND _BIOAVAIL-
+
+ABILITY IN CLINICAL SITUATIONS.
+
+15.APPLICATIONS OF PHARMACOKIENTICS IN DISEASE STATES.
+57
+
+--- Page 47 ---
+PHARMACEUTICS —VII (BIOPHARMACEUTICS) (PRACTICAL)
+Paper 8 100 Marks
+NOTE:- Practical of the subject shall be designed from time to time on the
+
+basis of the above mentioned theoretical topics and availability of the
+facilities, e.g. Blood Sampling Techniques (In Laboratory Animals
+like dog, rabbits, mice etc. in human beings), In-vitro dissolution
+studies, Optional dose determination, Measurement of rate of
+Bioavailability, Determination of relative and absolute bioavailability.
+Plasma level-time curve (Determination of Pharmacokinetic
+parameters). Determination of plasma protein binding. Urinary
+sampling techniques. In Laboratory animals. In humans. Renal
+excretion of drugs or drug disposition.
+Recommended Books
+1, Leon Shargel, Applied Pharmacokinetics and Biopharmaceutics,
+Appleton & Lange, New York, 4" Ed., 1999.
+2. Malcoln Rouland, Thomous N Tozer, Clinical Pharmacokinetics,
+William & Willkins, London, 1995.
+3. Milo Gibaldi, Biopharmaceutics and Clinical Pharmacokinetics,
+Marchel & Dakker Inc, New York, 1982.
+4. Gibbson and Skett, Introduction to Drug Metabolism, Champ & Hall,
+London, 1986.
+5. Robert E Notari, Biopharmaceutics and Clinical Pharmacokinetics,
+Marchel & Dakker Inc, New York, 1988.
+6. Stephen H Curry, Drug disposition and pharmacokinetics, Black Well
+Scientific Publishing, Oxford, 1977.
+7. Avraham Yacobi, Toxicokinetics and New Drug Development,
+Paramount Press, New York, 1989.
+8. Sarfraz Niazi, Text Book of Biopharmaceutics and Clinical
+Pharmacokinetics. Appleton-Century-Crofts, New York, 1985.
+9. P Macheras, C Reppas and J B Dressman, Biopharmaceutics of orally
+administered drugs, Ellis Horwood Limited, London (1995).
+10.Albert P Li, Invitro approaches for evaluation of drug efficacy and
+toxicity, CRC Press LLC USA, 2004.
+11.Ronald D Schoenwald, Pharmacokinetics in drug discovery and
+Development, CRC Press LLC, USA, 2002.
+58
+
+--- Page 48 ---
+PHARMACEUTICS-VII (PHARMACEUTICAL QUALITY CONTROL)
+(WRITTEN)
+Paper 5 100 Marks
+
+1. SCOPE:
+
+(a) An understanding of the testing, quality control program and methods
+adopted in a pharmaceutical industry, dosage form control, process
+control, testing programme and methods, physical, chemical and
+biological tests and specifications, statistical quality control.
+
+(b) General understanding of Total Quality Assurance and measures to
+
+adopt Quality Assurance.
+
+2. QUALITY CONTROL OF SOLID DOSAGE FORMS:
+
+(a) Physical tests: Hardness, Thickness and Diameter, Friability,
+
+Disintegration, Weight Variation.
+
+(b) Chemical tests: Content uniformity, Assay of active ingredients and
+
+dissolution tests of Powders, Granules, Tablets and Capsules.
+
+3. QUALITY CONTROL OF SYRUPS AND ELIXIRS:
+
+Viscosity, its determination and application in the Quality Control of
+
+Pharmaceuticals, Weight per ml and Assay of active ingredients.
+
+4, EVALUATION OF SUSTAINED ACTION PRODUCTS (TABLETS &
+CAPSULES):
+
+Stability of viability rate during storage and In-vitro & In-vivo evaluation
+
+of sustaining action.
+
+5, QUALITY CONTROL OF SUPPOSITORIES:
+
+Disintegration test, Uniformity of weight, Assay of active ingredients,
+
+Liquefaction time test and Breaking test.
+
+6. QUALITY CONTROL OF STERILE PRODUCTS (PARENTERALS):
+Leaker’s test, Clarity test, Pyrogen test for Parenteral and other sterile
+preparations and Assay for active ingredients.
+
+7, BIOLOGICAL ASSAYS: Biological methods, Standard preparations and
+units of activity, Bioassay of antibiotics, Bioassay of insulin injection,
+Assay of prepared digitalis and Assay of Vitamin D.
+
+59
+
+--- Page 49 ---
+8. ALCOHOL DETERMIANTION: Alcoholometric methods, Problem
+during distillation of alcohol, Method for liquids containing less than
+30% or more than 30% alcohol and special treatment before distillation.
+
+9. ALKALOIDAL DRUG ASSAY: Weighing for assay, Extraction of
+drugs, Maceration, Percolation, Continuous extraction, Purification of
+Alkaloids and determination of alkaloids.
+
+10. MISCELLANEOUS DETERMINATIONS AND TESTS: Determiantion
+of weight/ml, Water/Moisture content, Loss on Drying, Toxicity tests &
+Identification tests, Evaluation of Ointments, Ash contents and Alkalinity
+of Glass.
+
+11.GENERAL KNOWLEDGE OF APPENDICES ATTACHED TO B.P.,
+BPC, AND USP.
+
+12.STATISTICAL INTERPRETATION OF QUALITY CONTROL
+CHARTS DURING MANUFACTURING PROCESSES.
+
+PHARMACEUTICS-VII (PHARMACEUTICAL QUALITY CONTROL)
+
+(PRACTICAL)
+
+Paper 9 100 Marks
+
+NOTE:- Practical of the subject shall be designed from time to time on the basis
+of the above mentioned theoretical topics and availability of the
+facilities, e.g. Assay of various spirits, tinctures, extracts, syrups and
+elixirs, Assay of Ointments and suppositories, Assay of tablets and
+capsules, Test for alkalinity of glass, Determination of alcohol
+contents in the Pharmaceutical preparations and Pyrogen test. Sterility
+test, Determination of Ash contents, Determination of Moisture
+contents, Determination of total solids, Determination of viscosity of
+syrups, gels, etc., Determination of emulsion types.
+(Note: A minimum of 20 practicals will be performed)
+
+Recommended Books
+
+1. A H Beckett and J B Stennlake, Practical Pharmaceutical Chemistry,
+Part-I and II. The Alton Press, London.
+
+2. AM Knevel and F 8 Digangi, Jenkin’s Quantitative Pharmaceutical
+Chemistry, McGraw-Hill Book Company, New York.
+
+3. K A Connors, A Text Book of Pharmaceutical Analysis, John-Wiley
+and Sons, New York.
+
+60
+
+--- Page 50 ---
+4, A Braithwaite and F J Smith, Chromatographic Methods, Chapman and
+Hall, London.
+
+5. GD Christian, Analytical Chemistry, John Wiley and Sons, New York.
+
+6. Karamt A Javaid, Pharmaceutical Quality Assurance in Class,
+Industry and Market, Aziz Publishers, Lahore-Pakistan (1993).
+
+7. Gil Bismuth and Shosh Neumann, Cleaning Validation, A practical
+approach. CRC Press, LLC, USA, 2003.
+
+8. J T Carstersen and C T Rhodes, Drug Stability: Principles and
+Practices, 3 edition (revised and expanded) Mercel Dekker, New York.
+2000.
+
+9. Sydney H Willig, Good Manufacturing Practices for Pharma-
+ceuticals. Marcel Dekker Publishing.
+
+10.Bryant R, The pharmaceutical Quality Control Hand Book, Aster
+Publishing Corporation, Eugene, 1989.
+
+11.Braun R E, Introduction to Instrumental Analysis, McGraw-Hill Book
+Co, NY, 1987.
+
+61
+
+--- Page 51 ---
+FINAL PROFESSIONAL
+
+PHARAMCEUTICAL CHEMISTRY-III (MEDICINAL CHEMISTRY)
+
+(WRITTEN)
+Paper 1 100 Marks
+Note: The topics will be taught with special reference 10 their
+Pharmaceutical Applications.
+
+1, INTRODUCTION TO MEDICINAL CHEMISTRY:
+
+Chemical constitution and biological activity: (Receptor, Theory,
+
+Structure Activity Relationships (SAR) and Drug Metabolism).
+
+2, CLASSIFICATION OF SYNTHETIC DRUGS:
+
+Drug Design and recent approaches to the synthesis of drugs (a brief
+
+concept of methods and reactions of synthesis of various drugs).
+
+3. GENERAL PROPERTIES, CHEMISTRY BIOLOGICAL ACTION,
+STRUCTURE ACTIVITY RELATIONSHIP AND THERAPEUTIC
+APPLICATIONS OF THE FOLLOWING:
+
+(a) Alicyclic Compounds: Cyclopropane, Terpenes, Citral, Pinene,
+Camphor, Menthol, Carotenes.
+
+(b) Alkaloids: Atropine, Morphine and related compounds (Codeine,
+Thebaine), Ergotamine, Reserpine, Ephedrine.
+
+(c) Vitamins: Water Soluble Vitamins (Bi, By, Be, Biz, Folic acid,
+Nicotinic acid, Biotin, Pantothenic acid and Ascorbic acid) Fat
+Soluble Vitamins (A, D, E, and K).
+
+(d)Hormones: Steroidal Hormones (Testosterone, Progesterone,
+Estrogen, Aldosteron and Cortisol), Proteinous Hormones (Insulin,
+Glucagon, Oxytocin and Vassopressin).
+
+(e) Anti-neoplastic Agents: Tamoxifen, Fluorouracil, Mercapturine,
+Methotrexate and Vincristine.
+
+(f) Sedatives_and Hypnotics: Benzodiazepines, Barbiturates, Paralde-
+hyde, Glutethimide, Chloral hydrate, and alcohols.
+
+(g) Anaesthetics: Local anaesthetics (Procaine, Lignocaine, Eucaine,
+Cocaine and Benzocaine), General anaesthetics (Cyclopropane,
+Halothane, Nitrous oxide, Chloroform, Thiopental Sodium, Ketamine,
+Methohexital, Thioamylal Sodium, Fantanyl Citrate, Tribromo
+ethanol).
+
+(h) Analgesics and Antipyretics: Paracetamol, Salicylic acid analogues,
+Quinolines derivatives, Pyrazolone and Pyrazolodiones, N-
+arylanthranilic acids, Aryl and heteroaryl acetic acid derivatives.
+
+62
+
+--- Page 52 ---
+(i) Antiseptics: Phenols and related compounds, Halogens and Halogen
+compounds, Aromatic acid and esters, Dyes, Nitrofuran derivatives,
+Formaldehyde and its derivatives, Mercurochrome and Thiomersal.
+
+(j) Sulphonamides: Prontosil,  sulphanilamide, | Sulphapyridine,
+sulphadimidine, Sulfamethoxazole, Sulfadiazine and Sulfafurazole.
+
+(k) Antimalarials; 4-Aminoquinolines, 8-Aminoquinolines, 9-Amino
+acridines, Biguanides, Pyrimidine analogues, Mefloquine and
+Cinchoha alkaloids.
+
+(1) Anthelmintics; Phenols and related compounds, Piperazine
+derivatives, Thiabendazole, Mebendazole and Pyrantal.
+
+(m) Diuretics: Mercaptomerin, Meralluride, Thiazides, Sprironolac-tone,
+Theophylline, Furosemide, Acetazolamiode, Ethacrynic acid and
+Triameterene.
+
+(n) Antitubercular_Drugs: Ethambutol, Isonicotinic acid, Hydrazid,
+Rifampacin, Thioguanine, Pyrazinamide, cycloserine, Ethunamide,
+Cytarabine, 5-Flourouracil and Dacarbazine.
+
+(0) Antiviral Drugs: Acyclovir, Tromantadine Hydrochloride and
+Ribavirin.
+
+(p) Immunosuppressant Agents: Azathioprine and Cyclosporin.
+
+4. ANTIBIOTICS:
+
+Penicillins, Cephalosporins, Streptomycin, Chloramphenicol, Tetracyc-
+
+lines, Kanamycin and Erythromycin.
+
+5. OCCURANCE, PROPERTIES, PREPARATION AND APPLICATION
+
+OF OFFICIAL INORGANIC COMPOUNDS:
+
+Aluminium Hydroxide, Ammonium Chloride, Sodium Carbonate,
+
+Magnesium Carbonate, Lithium Carbonate, Sodium Nitrite, Calcium
+
+Gluconate, Antimony Gluconate, Ferrous Fumarate, Ferrous Sulfate and
+
+Silver Nitrate.
+
+PHARMACEUTICAL CHEMISTRY-III (MEDICINAL CHEMISTRY)
+(PRACTICAL)
+
+Paper 7 100 Marks
+NOTE:- Practical of the subject shall be designed from time to time on the
+basis of the above mentioned theoretical topics and availability of the
+facilities, e.g. Estimation of functional groups; Carboxylic, Hydroxy,
+Amino and Nitro groups; Determination of Molecular weights of
+Organic Compounds. Synthesis of Paracetamol, Salicylic Acid,
+Methyl salicylate, Azobenzene, Benzoic Acid, 5-Hydroxy-1, 3-
+benzoxazol-2-one, Aspirin, P-nitrosophenol, 3-nitrophthalic acid, o-
+63
+
+--- Page 53 ---
+Chloro-benzoic acid. Assay of the Drugs like Sulpha drugs, Aspirin,
+
+Paracetamol, Benzyl Penicillin. Inorganic Preparations.
+
+(Note: A minimum of 20 practicals will be conducted)
+Recommended Books
+
+1, Martin and Cook, Remington Practice of Pharmaceutical Science,
+Mack Publishing Company, USA, 2001
+
+2. Foye W O, Principles of Medicinal Chemistry, Verghese Publising
+House, Bomby, 1995.
+
+3. Tyagi, Text Book of Synthetic Drugs, Anmol Publications, Delhi, 1990.
+
+4, Alferd Burger, Medicinal Chemistry, Jhon Willey & Sons, New York,
+1996.
+
+5. Block, Roche, Soine and Wilson, Inorganic and Medicinal
+Pharmaceutical Chemistry, Verghese Publishing House, Bombay,
+1986.
+
+6. Block, Roche, Soine and Wilson. Inorganic and Medicinal
+Pharmaceutical Chemistry, Lee & Febiger, Philadelphia, USA, 1983.
+
+PHARMACEUTICS-IX (CLINICAL PHARMACY-ID (WRITTEN)
+
+Paper 2 100 Marks
+
+1, RATIONAL USE OF DRUGS: Rational Presribing, Rational Dispensing,
+Problems of Irrational Drug Use, Learning about drug use problem,
+Sampling to study drug use, Indicators of drug use.
+
+2. INTRODUCTION TO ESSENTIAL DRUGS: Criteria for selection,
+Usage and Advantages.
+
+3. DRUG UTILZATION EVALUATION & DRUG UTILIZATION
+REVIEW (DUE/DUR): Development of protocol of use of few very low
+therapeutic index drug groups like Steroids, Vancomycin and Cimetidine.
+
+4. DRUG ABUSE & MISUSE.
+
+5. PRACTICAL PHARMACOKINETICS: Therapeutic Drug Monitoring of
+Digoxin, Theophyline, Gentamycin, Lithium, Phenytoin, Cabamazepine,
+Phenobarbitone, Primidone, Walparic Acid, Cyclosporins and
+Vancomycin,
+
+6. PHARMACOECONOMIC STUDIES.
+
+7. PHARMACEUTICAL CARE, ITS SCOPE, MANAGEMENT AND
+APPLICATION OF CARE PLAN:
+
+64
+
+--- Page 54 ---
+8. ROLE OF CLINICAL PHARMACIST IN COMMUNITY PHARMACY
+9. CLINICAL THERAPEUTICS:
+
+(a)General Strategy: Terminology of Disease. Management and
+Treatment. Drug Selection.
+
+(b) Basic introduction of some clinical situations, their clinical features,
+etiology, pathophysiology and treatment of causes: Common Cold,
+Pharyngitis and Tonsillitis, Pneumonia, Tuberculosis, Diarrhea,
+Malaria, Meningitis, Tetanus, Typhoid Fever, Measles, Rabies, AIDS,
+Congestive cardiac failure, Conjunctivitis, Anemia, Gout, Asthma,
+Ulcer, Diabetes mellitus, Hypertension, Hepatitis, Dermatology
+(Scabies, Fungal diseases).
+
+10.CLINICAL TOXICOLOGY:
+
+(a) General information. Role of pharmacist in treatment of poisoning and
+general management of poisoning & over dosage. Role and Status of
+Poison Control Centre.
+
+(b) Antidotes and their mechanism of action.
+
+11.SAVE INTRAVENOUS THERAPY & HAZARDS OF INTRAVE-
+NOUS THERAPY.
+12. NON-COMPLIANCE;
+
+Definition, introduction and importance, Extent of non-compliance,
+
+Methods of assessment, Reasons for non-compliance, Strategies for
+
+improving compliance and Designing of compliance trials.
+
+PHARMACETICS-IX CLINICAL PHARMACY-II_ (PRACTICAL)
+Paper 8 100 Marks
+Clerkship in the Clinical Setting. A project related to Clinical Pharmacy
+Practices will be completed by the students and will be evaluated by the external
+examiner.
+Recommended Books
+
+1, Roger Walker, Clinical Pharmacy & Therapeutics, Churchill
+
+Levingstone, London, 3" Ed., 2003.
+
+2. Guard Paul, A Behavioral Approach to Pharmacy Practice, Black
+
+Well, USA, 2000.
+
+3. Herfindal Gourley, Clinical Pharmacy & Therapeutics, William &
+
+Willkins, London, 1992.
+
+65
+
+--- Page 55 ---
+4, AJ Winfield, Pharmaceutical Practice, Churchill Levingstone, London,
+2" Ed., 1998.
+
+5, Kavin Taylor, Pharmacy Practice, Taylor & Francis, New York, 1998.
+
+6. Deborah Rosenbaun, Clinical Research Coordinator Hand Book, 2"
+edition, Sarrison, Inc, North Carolina, USA.
+
+7. Simon Cook, Clinical Studies Management, a Practical Guide to
+Success, Sue Horwood Publishing limited, West Sussex, UK.
+
+8. Joseph T Dipiro, Encyclopedia of Clinical Pharmacy. Marcel Dekker
+Publishing, 2003.
+
+9. Joseph T Dipiro, Encyclopedia of Pharmacy. Marcel Dekker
+Publishing, 2002.
+
+10.Mellainie J Rantucci, Pharmacist Talking with Patients, 1997.
+
+11.Smith GDG and Aronson J K, Oxford Text Book of Clinical
+Pharmacology and Drug Therapy, Oxford University Press, UK, 1990.
+
+12.Hansten P and Horn J, Drug interactions. Lee & Febiger, Philadelphia,
+USA, 1989.
+
+PHARMACEUTICAL TECHNOLOGY (WRITTEN)
+Paper 3 100 Marks
+
+1, PRINCIPLES OF PHARMACEUTICAL FORMULATION _AND
+DOSAGE FORM DESIGN: Product Formulation, Need for Dosage Form
+and Preformulation Studies.
+
+2, FORMULATION DEVELOPMENT: Pharmaceutical Aerosols, Ophthal-
+mic Preparations, and Parenteral Preparations.
+
+3, ADVANCED FORMULATION TECHNIQUES: Development of a
+formulation methodology and flow plan for the new product. New
+technologies in drug delivery system.
+
+4, NOVEL DRUG DELIVERY SYSTEMS:
+
+a) Introduction to the Drug Carrier: Liposome, Noisome and
+Biodegradable polymers.
+
+b) Active & Passive Drug Delivery System.
+
+c) Other Novel GIT Systems.
+
+5. MODIFIED DRUG RELEASE DOSAGE FORM:
+
+The concept of sustained release, First order release approximation,
+Multiple dosing, Implementation of designing, Approaches based upon
+dosage form modification, Product evaluation and testing, Matrices
+tablets, Control release technology, Micro encapsulation, Method of
+particle coating and Instrumentation in granule manufacturing.
+
+66
+
+--- Page 56 ---
+6. PHARMACEUTICAL BIOTECHNOLOGY:
+Biotechnological aspects in the product development, Fundamentals of
+Genetic Engineering and its Application in Medicine, Principle,
+Synthesis and Application of Monoclonal, Antibodies, Introduction to
+Gene therapy, Immobilized Enzymes and their application in Medicine,
+General Principle and Methods of Microbial Assay.
+PHARMACEUTICAL TECHNOLOGY (PRACTICAL)
+Paper 9 100 Marks
+NOTE:- Practical of the subject shall be designed from time to time on the basis
+of the above mentioned theoretical topics and availability of the
+requirements, e.g. Various techniques to develop the formulation,
+Granulation technology, Study of drug delivery systems,
+Biotechnological aspect of product development, In-vitro Quality
+Control of various dosage forms. Microbial assay, Particle size
+analysis using various methods, Stability studies of Pharmaceuticals,
+Coating of particles and To prepare, examine and control
+specifications of packaging materials.
+Recommended Books
+1, Anya M. Hellery, Drug delivery and targeting, Taylor & Francis,
+London, 2001.
+2. Joseph R Robinson Controlled drug delivery, Marcel & Dakker Inc,
+New York, 2™ Ed., 1987.
+3. T V Ramabhadran, Pharmaceutical design and development, Ellis
+Horwood, New York, 1994.
+4. M E Aulton, Pharmaceutics: Science of Dosage Forms Design,
+ELBS/Churchill Livingstone, London, 1998.
+5. Banker, Modern pharmaceutics, Marchell Dakker Inc, New York, 1990.
+6. John A Bontempo, Development of biopharmaceutical parenteral
+dosage forms, Marchell Dakker Inc, New York, 1997.
+7. N K Jain, Controlled and Novel drug delivery, CBS Publishers &
+Distributers, New Delhi, 1997.
+8. Ansel, Pharmaceutical Dosage Form in Drug Delivery System, Lee &
+Febiger, London, 1990.
+9. Attaurahman and M I Chaudry, Bioassay techniques for drug
+development, CRC Press, LLC, USA, 2001.
+10.Pramod K Gupta, Inject able drug development, CRC Press, LLC,
+USA, 1999.
+67
+
+--- Page 57 ---
+11.H John Smith, Introduction to the principals of drug design and
+action, CRC Press, LLC, USA, 1998.
+12.Rong Liu, Water Insoluble Drug Formulations, CRC Press, LLC,
+USA, 2000.
+13.Peter Blaisdell, Twenty First Century Pharmaceutical Development.
+CRC Press, LLC, USA, 2000.
+14,Lachman L, Theory and Practice of Industrial Pharmacy, Lee & Febiger,
+Philadelphia, 3 Ed., 1986.
+FORENSIC PHARMACY TTEN
+Paper 4 100 Marks
+1, STUDY OF DRUG LAWS:
+(a) The Drugs Act 1976 and rules framed there under.
+(b) Provincial Drug Rules (Respective Drug Rules will be taught in the
+relevant province).
+(c) Advertisement rules.
+(d) Other related rules and Legal aspects.
+2, THE PHARMACY ACT, 1967.
+3. THE DANGEROUS DRUGS ACT, 1930.
+4, THE FACTORY LAW 1934.
+5. SHOPS AND ESTABLISHMENT ORDINANCE, 1969 WITH RULES.
+6. THE POISONS ACT, 1919.
+7, CONTROL OF NARCOTICS SUBSTANCES ACT 1997,
+Recommended Books
+1, RZ Hussain, The Manual of Drug Laws in Pakistan, Irfan Law Book
+House, Lahore-Pakistan (2003).
+2, The Pharmacy Act 1967.
+3. The Poisons Act 1919.
+4. The Dangerous Drugs Act 1930.
+5. The Factory Law 1934.
+6. Shop and Establishment Ordinance 1969.
+7. Control of Narcotics Substances Act 1997,
+PHARMACEUTICAL MANAGEMENT & MARKETING (WRITTEN)
+Paper 5 100 Marks
+68
+
+--- Page 58 ---
+1, MANAGEMENT:
+a) Nature and Principles of Management
+b) Types and Functions of Managers
+c) Planning: Purpose and types of Planning, Steps in Planning
+d) Organizing
+e) Management Control Systems. Purpose: Steps in the Control
+
+Process, Forms of Operations control. Requirements for adequate
+control, Critical control points and standards
+
+f) Motivation
+g) Innovation and creativity
+h) Communication
+
+2, PRODUCTION MANAGEMENT:
+(a) Material Management.
+
+3. MARKETING MANAGEMENT:
+Marketing channels, Promotion and Advertising and Salesmanship.
+
+4 SALES MANAGEMENT:
+Personnel, Buying, Receiving, Pricing, Sales promotion and Customer
+Services.
+
+5. PHARMACY LAYOUT DESIGN:
+Objectives of Layout Design, Types of Community Pharmacies
+(Pharmaceutical Centre, Prescription-oriented Pharmacies, Traditional
+Pharmacies and The Super Drug Store), Consumer goods and
+purchases, Classes of Layout designs, Principles and characteristics of
+Layout Design and Traffic Flow analysis.
+
+Recommended Books
+
+1,M Ahmad & N I Bukhari, Pharmaceutical Management and
+Marketing, Tariq Academy, Faslabad-Pakistan, (2002).
+
+2. C Patrick Tharp & Pedro J Lecca, Pharmacy Management for students
+and practitioners, The C V Mosby Company, St. Louis, Toronto, London,
+(1979).
+
+3. Harry A Smith, Principles & Methods of Pharmacy Management, Lea
+& Febiger, Philadelphia, 1986.
+
+COMPUTER AND ITS APPLICATION IN PHARMACY (WRITTEN)
+Paper 6 50 marks
+69
+
+--- Page 59 ---
+1, Fundamentals basic concept of computers: History of Data Processing,
+Types of Computers, Components of a Computer, Computer System and
+Business Computer System, Backing Storage Devices, Unit of Memory,
+Viruses and Anti-viruses Issues.
+
+2. System Analysis and Design: What is a System?, Steps in system life
+cycle, Data Gathering and Data Analysis, Designing a New System,
+Development and Implementation of New System, Documentation.
+
+3, Data Processing: Data Processing, The Data Processing Cycle, The
+Collection and Computing of data, Manual collection of data, The main
+methods of data input, Devices used to collect data, Data Verification,
+Data Validation, Output and Recording of data, Types of data processing
+systems, Types of Computer Operation, Batch Processing and Real-time
+Processing.
+
+4, Data__Communication: Applications of Data Communication,
+Components of a data communication system, Rate of data Transmission,
+Computer Networks, Network Topology, Gateway, E-mail/Internet
+concepts.
+
+COMPUTER AND ITS APPLICATION IN PHARMACY (PRACTICAL)
+Paper 10 50 marks
+
+1. Internet_and E-mail: Internet and Microsoft Internet Explorer 5,
+Addresses, Links and Downloading, Searching the Internet, E-mail
+and Newsgroups, Favorites, security and Customizing Explorer.
+
+2. Web Page Development: Introduction to Front-page, Creating a First
+Web site, Basic Formatting Techniques, Manipulating Tables within
+Front-page, Front-page, Picture and Multimedia, Hyper linking,
+Bookmarks and Image Maps, Introducing Front-page “components”,
+Front-page and Frames, Managing your Web, Good site design,
+Publishing and publicizing.
+
+3. Complete Statistical Package like SPSS.
+
+4, Languages: At least two prevailing languages will be taught.
+
+Recommended Books
+
+1, Elias M System Analysis. Award Galgotia Publications, New Delhi,
+1989,
+
+2. Peter Norton, Inside IBM PC. Brady Computer Books, New York, 1988.
+
+70
+
+--- Page 60 ---
+3. Dennis N, MS-DOS. Jump Practice Hall Press, New York, 7
+4, Peter Norton, PC-DOS. Brady Computer Books, New York, 1985.
+NOTE: The candidates are required to work for a minimum of 300 hours in
+Pharmaceutical Manufacturing unit, Retail/Community Pharmacy/
+Hospital setting after the final year examination. They must maintain a
+diary of work signed daily by the Manager.
+71

@@ -1,0 +1,32 @@
+/* index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-surface text-on-surface antialiased;
+    font-family: 'Hanken Grotesk', sans-serif;
+  }
+  
+  .material-symbols-outlined {
+    font-family: 'Material Symbols Outlined';
+    font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+  }
+}
+
+@layer utilities {
+  .clinical-table th {
+    @apply text-left p-3 text-on-surface-variant border-b border-white/10 font-label-caps text-label-caps uppercase;
+  }
+  .clinical-table td {
+    @apply p-3 border-b border-white/10 align-top;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+}

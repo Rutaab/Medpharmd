@@ -1,0 +1,1279 @@
+
+============================================================
+PAGE 1
+============================================================
+Glycosides 
+I. Overview of Glycosides 
+ 
+Glycosides are chemical compounds that, upon hydrolysis, yield one or more sugar molecules. The 
+most common sugar component is β-D-glucose, though rhamnose, digitoxose, and other sugars 
+can also be present.  
+ 
+Chemically, glycosides are acetals where the hydroxyl group of the sugar condenses with a hydroxyl 
+group of a non-sugar component to form an "oxide ring." The non-sugar part is known as the 
+"aglycone," and the sugar part is called the "glycone." 
+II. Properties of Glycosides 
+ 
+Physical State: Colorless, solid, amorphous, nonvolatile. Some may be colored (e.g., flavonoid-
+yellow, anthraquinone-red or orange). 
+ 
+Chemical Reactions: Give a positive reaction with Molisch's and Fehling's solution tests after 
+hydrolysis. 
+ 
+Solubility: Water soluble compounds, insoluble in organic solvents. 
+ 
+Taste: Most have a bitter taste, except populin, glycyrrhizin, and stevioside. 
+ 
+Odor: Odorless, except saponins (glycyrrhizin). 
+ 
+Hydrolysis: Can be hydrolyzed by mineral acids, temperature, or enzymes. 
+ 
+Solubility of Components: Glycone part is soluble in water and insoluble in organic solvents. 
+Aglycone part is insoluble in water and soluble in organic solvents. 
+ 
+Effect of Sugar Residues: A glycoside with more sugar residues has greater solubility in water. 
+ 
+Occurrence: Many glycosides occur in plants, often as flower and fruit pigments (e.g., 
+anthocyanins). 
+III. Types of Glycosides (Based on Linking Atom) 
+ 
+O-Glycosides: Sugar and non-sugar moieties linked through an oxygen atom. 
+o Examples: Digtoxin, digoxin, rhein-8-glucoside, sennosides A, B, C & D, salicin, arbutin, rutin, 
+hesperidin, glycyrrhizin, dioscin, ginsenosides, prunasin, amygdalin. 
+ 
+S-Glycosides: Sugar and non-sugar moieties linked through a sulfur atom. 
+o Examples: Sinigrin, sinalbin, gluconapin. 
+ 
+C-Glycosides: Sugar and non-sugar moieties linked without any heteroatom (directly carbon-to-
+carbon). 
+o Examples: Barbaloin, chrysaloin, cascarosides A, B, C & D. 
+ 
+N-Glycosides: Sugar and non-sugar moieties linked through a nitrogen atom. 
+o Examples: Nucleotides of adenine, guanine, cytosine, thiamine, and uracil (components of 
+DNA & RNA). 
+IV. Classification of Glycosides (Based on Aglycone Structure/Effect) 
+1. Cardiotonic Glycosides
+
+--- OCR TEXT ---
+Glycosides
+
+I. Overview of Glycosides
+
+Glycosides are chemical compounds that, upon hydrolysis, yield one or more sugar molecules. The
+most common sugar component is 6-D-glucose, though rhamnose, digitoxose, and other sugars
+can also be present.
+
+Chemically, glycosides are acetals where the hydroxyl group of the sugar condenses with a hydroxyl
+group of anon-sugar component to form an "oxide ring.” The non-sugar part is known as the
+"aglycone," and the sugar part is called the "glycone.”
+
+Il. Properties of Glycosides
+
+Physical State: Colorless, solid, amorphous, nonvolatile. Some may be colored (e.g., flavonoid-
+yellow, anthraquinone-red or orange).
+
+Chemical Reactions: Give a positive reaction with Molisch's and Fehling's solution tests after
+hydrolysis.
+
+Solubility: Water soluble compounds, insoluble in organic solvents.
+
+Taste: Most have a bitter taste, except populin, glycyrrhizin, and stevioside.
+Odor: Odorless, except saponins (glycyrrhizin).
+
+Hydrolysis: Can be hydrolyzed by mineral acids, temperature, or enzymes.
+
+Solubility of Components: Glycone part is soluble in water and insoluble in organic solvents.
+Aglycone part is insoluble in water and soluble in organic solvents.
+
+Effect of Sugar Residues: A glycoside with more sugar residues has greater solubility in water.
+
+Occurrence: Many glycosides occur in plants, often as flower and fruit pigments (e.g.,
+anthocyanins).
+
+Ill. Types of Glycosides (Based on Linking Atom)
+
+O-Glycosides: Sugar and non-sugar moieties linked through an oxygen atom.
+
+o Examples: Digtoxin, digoxin, rhein-8-glucoside, sennosides A, B, C & D, salicin, arbutin, rutin,
+hesperidin, glycyrrhizin, dioscin, ginsenosides, prunasin, amygdalin.
+
+S-Glycosides: Sugar and non-sugar moieties linked through a sulfur atom.
+o Examples: Sinigrin, sinalbin, gluconapin.
+
+C-Glycosides: Sugar and non-sugar moieties linked without any heteroatom (directly carbon-to-
+carbon).
+
+o Examples: Barbaloin, chrysaloin, cascarosides A, B, C & D.
+N-Glycosides: Sugar and non-sugar moieties linked through a nitrogen atom.
+
+o Examples: Nucleotides of adenine, guanine, cytosine, thiamine, and uracil (components of
+DNA & RNA).
+
+IV. Classification of Glycosides (Based on Aglycone Structure/Effect)
+
+1.
+
+Cardiotonic Glycosides
+
+============================================================
+PAGE 2
+============================================================
+Cardiotonic glycosides are a class of glycosides that exert a positive inotropic effect on cardiac muscles, 
+meaning they increase the force of heart contractions. Crude drugs containing these glycosides include 
+Digitalis (digitoxin), Digitalis lanata (digoxin), Strophanthus (K-strophanthin-β), Nerium oleander 
+(Oleandrin), and white squill (scillaren-A). 
+Classification of Cardiotonic Glycosides On the basis of their steroidal aglycone moiety, cardiotonic 
+glycosides are divided into two main groups: 
+ 
+Cardenolides: These have α, β-unsaturated five-membered lactone ring attached at the 17th 
+position of the steroidal nucleus. Crude drugs containing cardenolides include Digitalis (digitoxin, 
+digoxin), Digitalis lanata (digoxin), Strophanthus (K-strophanthin-β), and Nerium oleander 
+(Oleandrin). 
+ 
+Bufadienolides: These possess a doubly unsaturated six-membered lactone ring attached at the 
+17th position of the steroidal nucleus. The crude drug containing bufadienolides is White squill 
+(scillaren-A). 
+Crude Drugs Containing Cardiotonic Glycosides and Their Specific Glycosides 
+Several crude drugs are sources of cardiotonic glycosides: 
+ 
+Digitalis (Foxglove) 
+o Origin: Digitalis is the dried leaf of Digitalis purpurea. It is indigenous to central and 
+southern Europe and naturalized in various parts of Europe and the northern and western 
+United States and Canada. 
+o Commercial Production: Digitalis purpurea seeds are sown in greenhouses in March, and 
+the young plants are planted outside in small plots (1-10 acres) from the middle of May until 
+the beginning of June. The leaves are harvested rapidly and gently dried at 50-60 °C. 
+o Chemical Constituents: Digitalis contains a large number of glycosides. The most important 
+from a medicinal viewpoint are digitoxin, gitoxin, and gitaloxin. 
+ 
+The total concentration of these three glycosides varies appreciably with the plant 
+source and growth conditions. 
+ 
+All are secondary glycosides, derived by hydrolysis of some of the sugars from the 
+primary or parent glycosides occurring in the leaf. 
+ 
+The secondary glycoside content in the leaf is about 10-20% of the primary glycoside 
+concentration. 
+ 
+Major glycosides in terms of concentration include purpurea glycoside A, purpurea 
+glycoside B, and glucogitaloxin. 
+o Uses: Digitalis is used as a tablet or capsule to treat congestive heart failure, paroxysmal 
+atrial tachycardia, atrial flutter, and atrial fibrillation. 
+o Digitoxin: 
+ 
+A cardiotonic glycoside obtained from Digitalis purpurea, D. lanata, and other 
+Digitalis species.
+
+--- OCR TEXT ---
+Cardiotonic glycosides are a class of glycosides that exert a positive inotropic effect on cardiac muscles,
+meaning they increase the force of heart contractions. Crude drugs containing these glycosides include
+Digitalis (digitoxin), Digitalis lanata (digoxin), Strophanthus (K-strophanthin-6), Nerium oleander
+(Oleandrin), and white squill (scillaren-A).
+
+Classification of Cardiotonic Glycosides On the basis of their steroidal aglycone moiety, cardiotonic
+glycosides are divided into two main groups:
+
+e Cardenolides: These have a, 6-unsaturated five-membered lactone ring attached at the 17th
+position of the steroidal nucleus. Crude drugs containing cardenolides include Digitalis (digitoxin,
+digoxin), Digitalis lanata (digoxin), Strophanthus (K-strophanthin-6), and Nerium oleander
+(Oleandrin).
+
+e Bufadienolides: These possess a doubly unsaturated six-membered lactone ring attached at the
+17th position of the steroidal nucleus. The crude drug containing bufadienolides is White squill
+(scillaren-A).
+
+Crude Drugs Containing Cardiotonic Glycosides and Their Specific Glycosides
+Several crude drugs are sources of cardiotonic glycosides:
+e Digitalis (Foxglove)
+
+© Origin: Digitalis is the dried leaf of Digitalis purpurea. It is indigenous to central and
+southern Europe and naturalized in various parts of Europe and the northern and western
+United States and Canada.
+
+o Commercial Production: Digitalis purpurea seeds are sown in greenhouses in March, and
+the young plants are planted outside in small plots (1-10 acres) from the middle of May until
+the beginning of June. The leaves are harvested rapidly and gently dried at 50-60 °C.
+
+o Chemical Constituents: Digitalis contains a large number of glycosides. The most important
+from a medicinal viewpoint are digitoxin, gitoxin, and gitaloxin.
+
+= The total concentration of these three glycosides varies appreciably with the plant
+source and growth conditions.
+
+» Allare secondary glycosides, derived by hydrolysis of some of the sugars from the
+primary or parent glycosides occurring in the leaf.
+
+= The secondary glycoside content in the leaf is about 10-20% of the primary glycoside
+concentration.
+
+= Major glycosides in terms of concentration include purpurea glycoside A, purpurea
+glycoside B, and glucogitaloxin.
+
+o Uses: Digitalis is used as a tablet or capsule to treat congestive heart failure, paroxysmal
+atrial tachycardia, atrial flutter, and atrial fibrillation.
+
+o  Digitoxin:
+
+= Acardiotonic glycoside obtained from Digitalis purpurea, D. lanata, and other
+Digitalis species.
+
+============================================================
+PAGE 3
+============================================================
+ 
+Upon hydrolysis, it yields one molecule of digitoxigenin and three molecules of 
+digitoxose. 
+ 
+It is a highly potent drug with complete oral absorption. The onset of action is 1-4 
+hours, with peak plasma level at 8-14 hours. 
+ 
+50-70% of the glycoside is converted into inactive genins by the liver and excreted by 
+the kidney. 
+ 
+It has a long plasma half-life (168-192 hours), and it may take 3-5 weeks for complete 
+dissipation from the body following discontinuation of therapy. 
+ 
+Estimated therapeutic range is 14-26 ng/ml; levels exceeding 35 ng/ml may produce 
+symptoms of toxicity. 
+ 
+Digitalis Lanata (Grecian Foxglove) 
+o Composition: Consists of the dried leaves of Digitalis lanata. 
+o Importance: It is the source of the most important and most potent cardiotonic glycosides, 
+namely digoxin, digitoxin, and deacetyl lanatoside C. 
+o Parent Glycosides: The parent glycosides present in Digitalis lanata are named lanatoside 
+A, B, C, D, and E. 
+o Digoxin: 
+ The most widely used cardiotonic glycoside obtained from Digitalis lanata. 
+ On hydrolysis, it yields one molecule of digoxigenin and three molecules of 
+digitoxose. 
+ Digoxin tablets are 60-80% absorbed, and a solution filled capsule provides 100% 
+bioavailability. 
+ Onset of action is 30 minutes to 2 hours with a peak at 2-6 hours. 
+ Major route of elimination is kidney with a plasma half-life of 30-40 hours. 
+ Estimated therapeutic range is 0.5-2 ng/ml; levels exceeding 2.5 ng/ml may produce 
+symptoms of toxicity. 
+ 
+Strophanthus 
+o Origin: The dried ripe seeds of Strophanthus kombe or S. hispidus (deprived of awns) belong 
+to the family Apocynaceae. 
+o Primary Glycoside: The primary glycoside is strophoside (strophanthoside). 
+o Secondary Glycosides: These include K-strophanthin-β (strophanthidin + cymarose + β-D-
+glucopyranose) and cymarin (strophanthidin + cymarose). 
+ 
+Nerium Oleander 
+o Origin: Consists of the dried leaves of Nerium oleander that belong to the family 
+Apocynaceae.
+
+--- OCR TEXT ---
+= Upon hydrolysis, it yields one molecule of digitoxigenin and three molecules of
+digitoxose.
+
+= Itis ahighly potent drug with complete oral absorption. The onset of action is 1-4
+hours, with peak plasma level at 8-14 hours.
+
+= 50-70% of the glycoside is converted into inactive genins by the liver and excreted by
+the kidney.
+
+«= Ithas along plasma half-life (168-192 hours), and it may take 3-5 weeks for complete
+dissipation from the body following discontinuation of therapy.
+
+= Estimated therapeutic range is 14-26 ng/ml; levels exceeding 35 ng/ml may produce
+symptoms of toxicity.
+
+¢ Digitalis Lanata (Grecian Foxglove)
+
+fe)
+
+fe)
+
+Composition: Consists of the dried leaves of Digitalis lanata.
+
+Importance: It is the source of the most important and most potent cardiotonic glycosides,
+namely digoxin, digitoxin, and deacetyl lanatoside C.
+
+Parent Glycosides: The parent glycosides present in Digitalis lanata are named lanatoside
+A,B,C, D, and E.
+
+Digoxin:
+= The most widely used cardiotonic glycoside obtained from Digitalis lanata.
+
+« Onhydrolysis, it yields one molecule of digoxigenin and three molecules of
+digitoxose.
+
+= Digoxin tablets are 60-80% absorbed, and a solution filled capsule provides 100%
+bioavailability.
+
+= Onset of action is 30 minutes to 2 hours with a peak at 2-6 hours.
+= Major route of elimination is kidney with a plasma half-life of 30-40 hours.
+
+= Estimated therapeutic range is 0.5-2 ng/ml; levels exceeding 2.5 ng/ml may produce
+symptoms of toxicity.
+
+e Strophanthus
+
+fe)
+
+Origin: The dried ripe seeds of Strophanthus kombe or S. hispidus (deprived of awns) belong
+to the family Apocynaceae.
+
+Primary Glycoside: The primary glycoside is strophoside (strophanthoside).
+
+Secondary Glycosides: These include K-strophanthin-6 (strophanthidin + cymarose + 6-D-
+glucopyranose) and cymarin (strophanthidin + cymarose).
+
+e Nerium Oleander
+
+fe)
+
+Origin: Consists of the dried leaves of Nerium oleander that belong to the family
+Apocynaceae.
+
+============================================================
+PAGE 4
+============================================================
+o Major Cardiotonic Glycoside: The major cardiotonic glycoside is oleandrin, which on 
+hydrolysis yields 16-acetyl gitoxigenin and α-L-oleandrose. 
+ 
+White Squill 
+o Origin: Consists of the cut and dried fleshy inner scale of the bulb of Urginea indica (Indian 
+squill), belonging to the family Liliaceae. The central portion of the bulb is excluded. 
+o Chemical Constituents: Contains about a dozen cardioactive glycosides (bufadienolides). 
+ The principal one is scillaren-A, comprising 2/3 of the total glycoside fraction. 
+ On hydrolysis, scillaren-A yields scillarenin plus one molecule of rhamnose and one 
+molecule of glucose. 
+ It also contains pro-scillaridin-A (scillarenin + rhamnose). 
+o Uses: Possesses cardiotonic, diuretic, expectorant, and emetic properties. 
+2. Saponin Glycosides 
+Saponin glycosides are characterized by their ability to produce a frothy aqueous solution, a property 
+derived from the Latin word "sapo" meaning soap.  
+Key Characteristic: They also exhibit hemolytic properties (breaking down red blood cells) and can be toxic 
+if injected into the bloodstream, sometimes even used as fish poisons. Upon hydrolysis, they yield an 
+aglycone known as sapogenin. These sapogenins can be crystallized upon acetylation, allowing for 
+purification.  
+Classification of Saponin Glycosides  
+Based on the chemical structure of their aglycone (sapogenin), saponin glycosides are broadly divided into 
+two main groups: 
+1. Pentacyclic Triterpenoid Saponins 
+2. Steroidal Saponins 
+1. Pentacyclic Triterpenoid Saponins  
+These saponins are characterized by having pentacyclic triterpenoid aglycones in their chemical 
+structure. 
+ 
+Crude Drug: 
+o Glycyrrhiza (Licorice Root) 
+ 
+Origin: Consists of the dried rhizomes and roots of Glycyrrhiza glabra (Spanish 
+licorice) or Glycyrrhiza glabra var glandulifera (Russian licorice), belonging to the 
+family Leguminosae. The name "Glycyrrhiza" is of Greek origin, meaning "sweet 
+root". 
+ 
+Chemical Constituents: The primary saponin glycoside is glycyrrhizin (glycyrrhizic 
+acid). Glycyrrhizin is notably 50 times sweeter than sugar. Upon hydrolysis, 
+glycyrrhizin yields two molecules of glucuronic acid and glycyrrhetic acid, which is a 
+pentacyclic triterpene derivative of the β-amyrin type. Other constituents include
+
+--- OCR TEXT ---
+o Major Cardiotonic Glycoside: The major cardiotonic glycoside is oleandrin, which on
+hydrolysis yields 16-acetyl gitoxigenin and a-L-oleandrose.
+
+e White Squill
+
+o Origin: Consists of the cut and dried fleshy inner scale of the bulb of Urginea indica (Indian
+squill), belonging to the family Liliaceae. The central portion of the bulb is excluded.
+
+o Chemical Constituents: Contains about a dozen cardioactive glycosides (bufadienolides).
+= The principal one is scillaren-A, comprising 2/3 of the total glycoside fraction.
+
+* On hydrolysis, scillaren-A yields scillarenin plus one molecule of rhamnose and one
+molecule of glucose.
+
+= It also contains pro-scillaridin-A (scillarenin + rhamnose).
+o Uses: Possesses cardiotonic, diuretic, expectorant, and emetic properties.
+2. Saponin Glycosides
+
+Saponin glycosides are characterized by their ability to produce a frothy aqueous solution, a property
+derived from the Latin word "sapo" meaning soap.
+
+Key Characteristic: They also exhibit hemolytic properties (breaking down red blood cells) and can be toxic
+if injected into the bloodstream, sometimes even used as fish poisons. Upon hydrolysis, they yield an
+aglycone known as sapogenin. These sapogenins can be crystallized upon acetylation, allowing for
+purification.
+
+Classification of Saponin Glycosides
+
+Based on the chemical structure of their aglycone (sapogenin), saponin glycosides are broadly divided into
+two main groups:
+
+1. Pentacyclic Triterpenoid Saponins
+2. Steroidal Saponins
+1. Pentacyclic Triterpenoid Saponins
+
+These saponins are characterized by having pentacyclic triterpenoid aglycones in their chemical
+structure.
+
+e Crude Drug:
+o Glycyrrhiza (Licorice Root)
+
+* Origin: Consists of the dried rhizomes and roots of Glycyrrhiza glabra (Spanish
+licorice) or Glycyrrhiza glabra var glandulifera (Russian licorice), belonging to the
+family Leguminosae. The name "Glycyrrhiza" is of Greek origin, meaning "sweet
+root”.
+
+= Chemical Constituents: The primary saponin glycoside is glycyrrhizin (glycyrrhizic
+acid). Glycyrrhizin is notably 50 times sweeter than sugar. Upon hydrolysis,
+glycyrrhizin yields two molecules of glucuronic acid and glycyrrhetic acid, which is a
+pentacyclic triterpene derivative of the 6-amyrin type. Other constituents include
+
+============================================================
+PAGE 5
+============================================================
+flavonoid glycosides (liquiritin, Isoliquiritigenin), polysaccharides (glycyrrhizan), 
+coumarin derivatives, and various other compounds. 
+ 
+Uses: Glycyrrhiza possesses demulcent and expectorant properties. It is frequently 
+used as a flavoring agent and to mask the bitter taste of other drugs. Its surfactant 
+property may facilitate the absorption of poorly absorbed drugs.  
+ 
+Isoliquiritigenin, a constituent, is an aldose reductase inhibitor and may be 
+effective in preventing diabetic complications.  
+ 
+Glycyrrhizic acid is utilized in Europe for its anti-inflammatory properties.  
+ 
+Licorice root extract is employed in the treatment of peptic ulcer and 
+Addison's disease. However, glycyrrhizin can increase fluid retention and 
+promote potassium depletion, so individuals with cardiac problems and 
+hypertension should avoid its use. 
+ 
+Other crude drugs containing pentacyclic triterpenoid saponins include senega root (senegin) and 
+quillaia bark (quillaja saponins). 
+2. Steroidal Saponins  
+Steroidal saponins are characterized by having a cyclopentanoperhydro-phenanthrene nucleus in their 
+aglycone moiety. 
+ 
+Crude Drugs and Specific Glycosides: 
+o Dioscorea (Yams) 
+ 
+Origin: Composed of the dried roots (tubers) of various Dioscorea species, such as D. 
+mexicana, D. composite, and D. tokoro. 
+ 
+Chemical Constituents: Contains several steroidal saponins, with dioscin being a 
+notable example. Upon hydrolysis, dioscin yields diosgenin (the aglycone), one 
+molecule of glucose, and two molecules of rhamnose. 
+ 
+Uses: Diosgenin obtained from Dioscorea is crucial as a starting material for the 
+synthesis of steroids. 
+o Sarsaparilla Root 
+ 
+Origin: Consists of the dried roots of Smilax species, belonging to the family 
+Liliaceae. 
+ 
+Chemical Constituents: Contains one or more steroidal saponins, primarily 
+sarsaponin. Upon hydrolysis, sarsaponin yields two isomeric sapogenins (smilagenin 
+and sarsapogenin) along with two molecules of glucose and one molecule of 
+rhamnose. 
+ 
+Uses:  
+ 
+Historically, it was used in the treatment of syphilis, rheumatism, and 
+certain skin diseases. It is widely used in the manufacture of non-alcoholic 
+drinks. The sapogenins from sarsaparilla are also employed in the partial 
+synthesis of cortisone and other steroids.
+
+--- OCR TEXT ---
+flavonoid glycosides (liquiritin, lsoliquiritigenin), polysaccharides (glycyrrhizan),
+coumarin derivatives, and various other compounds.
+
+« Uses: Glycyrrhiza possesses demulcent and expectorant properties. It is frequently
+used as a flavoring agent and to mask the bitter taste of other drugs. Its surfactant
+property may facilitate the absorption of poorly absorbed drugs.
+
+« — lsoliquiritigenin, a constituent, is an aldose reductase inhibitor and may be
+effective in preventing diabetic complications.
+
+* — Glycyrrhizic acid is utilized in Europe for its anti-inflammatory properties.
+
+« Licorice root extract is employed in the treatment of peptic ulcer and
+Addison's disease. However, glycyrrhizin can increase fluid retention and
+promote potassium depletion, so individuals with cardiac problems and
+hypertension should avoid its use.
+
+e Other crude drugs containing pentacyclic triterpenoid saponins include senega root (senegin) and
+quillaia bark (quillaja saponins).
+
+2. Steroidal Saponins
+
+Steroidal saponins are characterized by having a cyclopentanoperhydro-phenanthrene nucleus in their
+aglycone moiety.
+
+e Crude Drugs and Specific Glycosides:
+
+o Dioscorea (Yams)
+* Origin: Composed of the dried roots (tubers) of various Dioscorea species, such as D.
+mexicana, D. composite, and D. tokoro.
+
+« Chemical Constituents: Contains several steroidal saponins, with dioscin being a
+notable example. Upon hydrolysis, dioscin yields diosgenin (the aglycone), one
+molecule of glucose, and two molecules of rhamnose.
+
+» Uses: Diosgenin obtained from Dioscorea is crucial as a starting material for the
+synthesis of steroids.
+
+o Sarsaparilla Root
+
+* Origin: Consists of the dried roots of Smilax species, belonging to the family
+Liliaceae.
+
+= Chemical Constituents: Contains one or more steroidal saponins, primarily
+sarsaponin. Upon hydrolysis, sarsaponin yields two isomeric sapogenins (smilagenin
+and sarsapogenin) along with two molecules of glucose and one molecule of
+rhamnose.
+
+= Uses:
+
+« Historically, it was used in the treatment of syphilis, rheumatism, and
+certain skin diseases. It is widely used in the manufacture of non-alcoholic
+drinks. The sapogenins from sarsaparilla are also employed in the partial
+synthesis of cortisone and other steroids.
+
+============================================================
+PAGE 6
+============================================================
+o Sisal (Agave) 
+ 
+Origin: Consists of the dried leaves of Agave sisalana. 
+ 
+Chemical Constituents: The saponins found in Sisal yield hecogenin. 
+ 
+Uses: Hecogenin is used as a starting material for the synthesis of therapeutically 
+important steroids like cortisone and hydrocortisone. 
+o Ginseng 
+ 
+Origin: Composed of the dried roots of Panax ginseng. 
+ 
+Chemical Constituents: Contains saponin glycosides, with the medicinally important 
+ones being ginsenosides/panaxosides. These panaxosides are named according to 
+their Rr values in particular chromatographic systems (e.g., Rb, Re, Rs1, Rgt). On 
+hydrolysis, they yield panaxadiol, panaxatriol, and proto-panaxatriol as their 
+sapogenins. 
+ 
+Uses: Ginseng is reported to have adaptogenic (antistress) activity, meaning it helps 
+the body adapt to stress. It acts favorably on metabolism, the central nervous 
+system, and endocrine secretions. It is employed in the treatment of conditions like 
+anemia, gastritis, and sexual impotency.  
+3. Anthraquinone Glycosides 
+Anthraquinone glycosides yield anthraquinone as an aglycone upon hydrolysis. The free anthraquinone 
+aglycones exhibit little therapeutic activity, while the sugar residue enhances its absorption and action. 
+These glycosides are known as stimulant cathartics, increasing the tone and motion of the smooth 
+muscles in the large intestine. 
+ 
+The glycosides of anthranols and anthrones stimulate a more drastic action than the 
+corresponding anthraquinone glycosides. 
+Crude Drugs Containing Anthraquinone Glycosides: Several important crude drugs contain 
+anthraquinone glycosides: 
+ 
+Aloe (barbaloin) 
+ 
+Senna (sennosides) 
+ 
+Cascara Sagrada (cascarosides) 
+ 
+Rhubarb (rhein-8-glucoside) 
+1. Aloe 
+ 
+Origin: Aloe consists of the dried latex from the leaves of Aloe barbadensis (known commercially as 
+Curacao Aloe) or hybrids with A. Africana and A. spicata (Cape Aloe), all belonging to the family 
+Liliaceae. 
+o Leaves are harvested in March and April, cut, and placed in a V-shaped trough to allow the 
+latex (from specialized cells beneath the epidermis) to drain into a vessel. 
+o The latex is evaporated in a copper kettle-and, then poured into metal containers and 
+allowed to harden.
+
+--- OCR TEXT ---
+o Sisal (Agave)
+* Origin: Consists of the dried leaves of Agave sisalana.
+= Chemical Constituents: The saponins found in Sisal yield hecogenin.
+
+= Uses: Hecogenin is used as a starting material for the synthesis of therapeutically
+important steroids like cortisone and hydrocortisone.
+
+o Ginseng
+* Origin: Composed of the dried roots of Panax ginseng.
+
+« Chemical Constituents: Contains saponin glycosides, with the medicinally important
+ones being ginsenosides/panaxosides. These panaxosides are named according to
+their Rr values in particular chromatographic systems (e.g., Rb, Re, Rs1, Rgt). On
+hydrolysis, they yield panaxadiol, panaxatriol, and proto-panaxatriol as their
+sapogenins.
+
+« Uses: Ginseng is reported to have adaptogenic (antistress) activity, meaning it helps
+the body adapt to stress. It acts favorably on metabolism, the central nervous
+system, and endocrine secretions. It is employed in the treatment of conditions like
+anemia, gastritis, and sexual impotency.
+
+3. Anthraquinone Glycosides
+
+Anthraquinone glycosides yield anthraquinone as an aglycone upon hydrolysis. The free anthraquinone
+aglycones exhibit little therapeutic activity, while the sugar residue enhances its absorption and action.
+These glycosides are known as stimulant cathartics, increasing the tone and motion of the smooth
+muscles in the large intestine.
+
+e The glycosides of anthranols and anthrones stimulate a more drastic action than the
+corresponding anthraquinone glycosides.
+
+Crude Drugs Containing Anthraquinone Glycosides: Several important crude drugs contain
+anthraquinone glycosides:
+
+e Aloe (barbaloin)
+e Senna (sennosides)
+e Cascara Sagrada (cascarosides)
+
+e Rhubarb (rhein-8-glucoside)
+
+e Origin: Aloe consists of the dried latex from the leaves of Aloe barbadensis (known commercially as
+Curacao Aloe) or hybrids with A. Africana and A. spicata (Cape Aloe), all belonging to the family
+Liliaceae.
+
+o Leaves are harvested in March and April, cut, and placed in a V-shaped trough to allow the
+latex (from specialized cells beneath the epidermis) to drain into a vessel.
+
+o The latex is evaporated in a copper kettle-and, then poured into metal containers and
+allowed to harden.
+
+============================================================
+PAGE 7
+============================================================
+o Principal areas of production include Haiti, Venezuela, and South Africa. 
+ 
+Chemical Constituents: 
+o It primarily contains anthraquinone glycosides (10-30%), with the chief one being 
+barbaloin (aloe-emodin anthrone C-10 glucoside). 
+o O-glycosides of barbaloin known as aloinosides, have also been isolated from certain Cape 
+aloe samples. 
+o Free aloe-emodin is also present. 
+Curacao aloe is superior to Cape aloe as it contains 2 and ½ times as much aloe-emodin. 
+Curacao aloe also contains appreciable amounts of free and combined chrysophanic acid not 
+found in other types. 
+ 
+Uses: Aloe is primarily used as a pharmaceutic aid for compound benzoin tincture and for its 
+cathartic effects. The glycosides of aloe are responsible for its relatively drastic cathartic action 
+on the large intestine. 
+2. Senna (Senna Leaf) 
+ 
+Origin: Senna consists of the dried leaflets of Cassia acutifolia (Alexandria Senna) or Cassia 
+angustifolia (Tinnevelly Senna), both belonging to the family Leguminosae. 
+o Plants are low branching shrubs growing near the Nile River (Alexandria) and in India 
+(Tinnevelly). 
+o Alexandria senna is harvested in April and September by cutting off the tops of the plant 
+about 15 cm above the ground. 
+o Tinnevelly senna is cultivated by hand and dried in the sun. 
+ 
+Chemical Constituents: 
+o The principal active constituents are dimeric glycosides whose aglycones are composed of 
+aloe-emodin and/or rhein. 
+o These include sennosides A and B, which are optical isomers of rhein dianthrones. 
+o Sennosides C and D are minor constituents, composed of one molecule of rhein and one 
+molecule of aloe-emodin anthrones. 
+o Two naphthalene glucosides (6-hydroxy-musizin glucoside and tinnevelline glucoside), 
+kampferol, sterol, glucoside, mucilage, Ca-oxalate, and resins are also present. 
+ 
+Uses: Senna is a cathartic. 
+3. Cascara Sagrada 
+ 
+Origin: Cascara sagrada consists of the dried bark of Rhamnus pershianus. 
+ 
+Chemical Constituents: 
+o It contains normal O-glycosides based on emodin (10-20%) and aloin-like C-glycosides 
+(barbaloin and chrysaloin: about 80-90% of total glycosides).
+
+--- OCR TEXT ---
+fe)
+
+Principal areas of production include Haiti, Venezuela, and South Africa.
+
+¢ Chemical Constituents:
+
+fe)
+
+It primarily contains anthraquinone glycosides (10-30%), with the chief one being
+barbaloin (aloe-emodin anthrone C-10 glucoside).
+
+O-glycosides of barbaloin known as aloinosides, have also been isolated from certain Cape
+aloe samples.
+
+Free aloe-emodin is also present.
+
+Curacao aloe is superior to Cape aloe as it contains 2 and ‘2 times as much aloe-emodin.
+Curacao aloe also contains appreciable amounts of free and combined chrysophanic acid not
+
+found in other types.
+
+e Uses: Aloe is primarily used as a pharmaceutic aid for compound benzoin tincture and for its
+cathartic effects. The glycosides of aloe are responsible for its relatively drastic cathartic action
+on the large intestine.
+
+2. Senna (Senna Leaf)
+
+e Origin: Senna consists of the dried leaflets of Cassia acutifolia (Alexandria Senna) or Cassia
+angustifolia (Tinnevelly Senna), both belonging to the family Leguminosae.
+
+fe)
+
+fe)
+
+Plants are low branching shrubs growing near the Nile River (Alexandria) and in India
+(Tinnevelly).
+
+Alexandria senna is harvested in April and September by cutting off the tops of the plant
+about 15 cm above the ground.
+
+Tinnevelly senna is cultivated by hand and dried in the sun.
+
+¢ Chemical Constituents:
+
+fe)
+
+The principal active constituents are dimeric glycosides whose aglycones are composed of
+aloe-emodin and/or rhein.
+
+These include sennosides A and B, which are optical isomers of rhein dianthrones.
+
+Sennosides C and D are minor constituents, composed of one molecule of rhein and one
+molecule of aloe-emodin anthrones.
+
+Two naphthalene glucosides (6-hydroxy-musizin glucoside and tinnevelline glucoside),
+kampferol, sterol, glucoside, mucilage, Ca-oxalate, and resins are also present.
+
+e Uses: Senna is a cathartic.
+
+3. Cascara Sagrada
+
+* Origin: Cascara sagrada consists of the dried bark of Rhamnus pershianus.
+
++ Chemical Constituents:
+
+fe)
+
+It contains normal O-glycosides based on emodin (10-20%) and aloin-like C-glycosides
+(barbaloin and chrysaloin: about 80-90% of total glycosides).
+
+============================================================
+PAGE 8
+============================================================
+o Cascarosides A, B, C, and D are optical isomers of chrysaoin. All four cascarosides are 
+primarily C-glycosides of barbaloin and chrysaloin. 
+ 
+Uses: Cascara sagrada is a cathartic. Its main use is in the correction of habitual constipation 
+where it acts as a laxative but also helps restore the normal tone of the colon.  
+4. Rhubarb (Chinese Rhubarb and Indian Rhubarb) 
+ 
+Origin: 
+o Chinese Rhubarb: Consists of dried rhizomes and roots of R. officinale, or other Rheum species like 
+R. rhaponticum, or hybrids grown in China. 
+o Indian Rhubarb (Himalayan Rhubarb): Consists of dried rhizomes and roots of Rheum emodi and 
+related species native to India, Pakistan, and Nepal, also belonging to the family Polygonaceae. 
+ 
+Chemical Constituents: 
+o Rhubarb contains chrysophanol, aloe-emodin, gluco-aloe-emodin, rhein, and gluco-rhein. 
+o It also contains anthrones and dianthrones of chrysophanol, emodin, aloe-emodin, and glucosides 
+of rhein dianthrone (sennosides A and B). 
+o Heterodianthrones include palmidin A (aloe-emodin and emodin dianthrone), palmidin B (aloe-
+emodin and chrysophanol dianthrone), and palmidin C (emodin and chrysophanol dianthrone). 
+ 
+Uses: Uses: laxative (small doses), cathartic (large doses). 
+4. Cyanophore Glycosides 
+Cyanophore Glycosides are a class of glycosides characterized by their ability to yield hydrocyanic acid 
+among their hydrolysis products. 
+Several important crude drugs contain cyanophore glycosides. Let's discuss them in detail: 
+1. Wild Cherry 
+ 
+Origin: Wild cherry consists of the carefully dried stem bark of Prunus serotina, which belongs to the 
+family Rosaceae. The term "prunus" refers to the classic name of the prunus tree, while "serotina" 
+indicates a late or backward flowering and fruiting time. 
+ 
+Chemical Constituents: Wild cherry contains the cyanogenetic glycoside prunasin. Upon 
+hydrolysis, prunasin yields benzaldehyde, hydrocyanic acid, and one molecule of β-D-
+glucopyranose. The resinous material present also yields scopoletin, which is a coumarin, upon 
+hydrolysis. 
+ 
+Uses: Wild cherry is primarily used in syrup form as a flavored vehicle, especially in cough 
+remedies (preparations). It has also been considered as a sedative expectorant. 
+2. Bitter Almonds 
+ 
+Chemical Constituents: Bitter almonds contain a significant amount of another cyanophore 
+glycoside, amygdalin. This glycoside is also found in the kernels of apricot, peaches, and plums. 
+Amygdalin is described as a gentiobioside of D-(-)-mandelonitrile (cyanohydrin of 
+benzaldehyde). 
+3. Sambunigrin
+
+--- OCR TEXT ---
+o Cascarosides A, B, C, and D are optical isomers of chrysaoin. All four cascarosides are
+primarily C-glycosides of barbaloin and chrysaloin.
+
+e Uses: Cascara sagrada is a cathartic. Its main use is in the correction of habitual constipation
+where it acts as a laxative but also helps restore the normal tone of the colon.
+
+4. Rhubarb (Chinese Rhubarb and Indian Rhubarb)
+* Origin:
+
+o Chinese Rhubarb: Consists of dried rhizomes and roots of R. officinale, or other Rheum species like
+R. rhaponticum, or hybrids grown in China.
+
+o Indian Rhubarb (Himalayan Rhubarb): Consists of dried rhizomes and roots of Rheum emodi and
+related species native to India, Pakistan, and Nepal, also belonging to the family Polygonaceae.
+
+Chemical Constituents:
+
+.
+
+o Rhubarb contains chrysophanol, aloe-emodin, gluco-aloe-emodin, rhein, and gluco-rhein.
+
+o Italsocontains anthrones and dianthrones of chrysophanol, emodin, aloe-emodin, and glucosides
+of rhein dianthrone (sennosides A and B).
+
+o Heterodianthrones include palmidin A (aloe-emodin and emodin dianthrone), palmidin B (aloe-
+emodin and chrysophanol dianthrone), and palmidin C (emodin and chrysophanol dianthrone).
+
+.
+
+Uses: Uses: laxative (small doses), cathartic (large doses).
+4. Cyanophore Glycosides
+
+Cyanophore Glycosides are a class of glycosides characterized by their ability to yield hydrocyanic acid
+among their hydrolysis products.
+
+Several important crude drugs contain cyanophore glycosides. Let's discuss them in detail:
+1. Wild Cherry
+
+e Origin: Wild cherry consists of the carefully dried stem bark of Prunus serotina, which belongs to the
+family Rosaceae. The term "prunus" refers to the classic name of the prunus tree, while "serotina"
+indicates a late or backward flowering and fruiting time.
+
+¢ Chemical Constituents: Wild cherry contains the cyanogenetic glycoside prunasin. Upon
+hydrolysis, prunasin yields benzaldehyde, hydrocyanic acid, and one molecule of 6-D-
+glucopyranose. The resinous material present also yields scopoletin, which is a coumarin, upon
+hydrolysis.
+
+e Uses: Wild cherry is primarily used in syrup form as a flavored vehicle, especially in cough
+remedies (preparations). It has also been considered as a sedative expectorant.
+2. Bitter Almonds
+
+¢ Chemical Constituents: Bitter almonds contain a significant amount of another cyanophore
+glycoside, amygdalin. This glycoside is also found in the kernels of apricot, peaches, and plums.
+Amygdalin is described as a gentiobioside of D-(-)-mandelonitrile (cyanohydrin of
+benzaldehyde).
+
+3. Sambunigrin
+
+============================================================
+PAGE 9
+============================================================
+ 
+Origin: Sambunigrin is a cyanophore glycoside that has been isolated from Sambucus nigra, 
+belonging to the family Caprifoliaceae. 
+ 
+Chemical Constituents: It is a glucoside of L-(-)-mandelonitrile. 
+4. Manihotoxin 
+ 
+Manihotoxin, also known as Linamarin, is a glycoside isolated from the manihot and from linseeds. 
+It is a glucoside of acetone cyanohydrin. 
+Prunasin and amygdalin, which are key cyanophore glycosides, are specifically mentioned as 
+examples of O-glycosides, meaning their sugar and non-sugar moieties are linked 
+through an oxygen atom. 
+5. Isothiocyanate Glycosides 
+Isothiocyanate Glycosides are defined by their characteristic property: they yield an isothiocyanate among 
+the products of their hydrolysis. Two prominent crude drugs that contain isothiocyanate glycosides are 
+Black Mustard and White Mustard. 
+1. Black Mustard (Sinapis Nigra, Brown Mustard) 
+ 
+Origin: Black mustard consists of the dried ripe seeds of Brassica nigra. These plants belong to the 
+family Brassicaceae. 
+ 
+Chemical Constituents: 
+o Black mustard contains a significant amount of fixed oil (30-35%). 
+o The principal chemical constituent is the isothiocyanate glycoside known as sinigrin, which 
+is also referred to as potassium myronate.  
+o Sinigrin is stored in specific cells of the plant and is accompanied by the hydrolytic enzyme 
+myrosin, which is found in adjacent cells. Upon the addition of water to the powdered or 
+crushed seeds, the enzyme myrosin acts upon sinigrin, causing its hydrolysis. 
+o This hydrolysis process produces allyl isothiocyanate, which is a volatile compound 
+commonly known as volatile mustard oil. 
+ 
+Uses: 
+o Black mustard is used as a local irritant and an emetic. 
+o Externally, it is applied as a rubefacient (causing redness of the skin) and a vesicant 
+(causing blisters). 
+o Commercially, it is also widely used as a condiment. 
+2. White Mustard 
+ 
+Origin: White mustard consists of the dried ripe seeds of Brassica alba. It also belongs to the family 
+Brassicaceae. 
+ 
+Chemical Constituents: 
+o White mustard contains a glucoside called sinalbin.
+
+--- OCR TEXT ---
+e Origin: Sambunigrin is a cyanophore glycoside that has been isolated from Sambucus nigra,
+belonging to the family Caprifoliaceae.
+
+e Chemical Constituents: It is a glucoside of L-(-)-mandelonitrile.
+4. Manihotoxin
+
+e Manihotoxin, also known as Linamarin, is a glycoside isolated from the manihot and from linseeds.
+It is a glucoside of acetone cyanohydrin.
+
+Prunasin and amygdalin, which are key cyanophore glycosides, are specifically mentioned as
+examples of O-glycosides, meaning their sugar and non-sugar moieties are linked
+through an oxygen atom.
+
+5. Isothiocyanate Glycosides
+
+Isothiocyanate Glycosides are defined by their characteristic property: they yield an isothiocyanate among
+the products of their hydrolysis. Two prominent crude drugs that contain isothiocyanate glycosides are
+Black Mustard and White Mustard.
+
+1. Black Mustard (Sinapis Nigra, Brown Mustard)
+
+e Origin: Black mustard consists of the dried ripe seeds of Brassica nigra. These plants belong to the
+family Brassicaceae.
+
+e Chemical Constituents:
+o Black mustard contains a significant amount of fixed oil (30-35%).
+
+o The principal chemical constituent is the isothiocyanate glycoside known as sinigrin, which
+is also referred to as potassium myronate.
+
+o Sinigrinis stored in specific cells of the plant and is accompanied by the hydrolytic enzyme
+myrosin, which is found in adjacent cells. Upon the addition of water to the powdered or
+crushed seeds, the enzyme myrosin acts upon sinigrin, causing its hydrolysis.
+
+o This hydrolysis process produces allyl isothiocyanate, which is a volatile compound
+commonly known as volatile mustard oil.
+
+e Uses:
+o Black mustard is used as a local irritant and an emetic.
+
+o Externally, itis applied as a rubefacient (causing redness of the skin) and a vesicant
+(causing blisters).
+
+o Commercially, it is also widely used as a condiment.
+2. White Mustard
+
+e Origin: White mustard consists of the dried ripe seeds of Brassica alba. It also belongs to the family
+Brassicaceae.
+
+¢ Chemical Constituents:
+
+o White mustard contains a glucoside called sinalbin.
+
+============================================================
+PAGE 10
+============================================================
+o Upon hydrolysis, sinalbin yields acrinyl-isothiocyanate. This compound is a pungent but 
+almost odorless oil and is significantly less volatile than allyl-isothiocyanate (produced 
+from sinigrin in black mustard). 
+o Like black mustard, white mustard also contains fixed oil (20-25%) and the hydrolytic 
+enzyme myrosin. 
+6. Flavonoid Glycosides 
+Flavonoid Glycosides are a class of glycosides characterized by having a flavonoid as their aglycone (the 
+non-sugar component) in their chemical structure. Flavonoid Glycosides are a type of O-glycoside, 
+indicating that their sugar and non-sugar moieties are linked through an oxygen atom. 
+Rutin and Hesperidin contains flavonoid glycosides.  
+1. Rutin 
+ 
+Origin/Source: Rutin is a flavonol glycoside that has been isolated from Fagopyrum esculentum 
+(buckwheat residue) and from various species of Eucalyptus. 
+ 
+Chemical Constituents and Hydrolysis: Upon hydrolysis, rutin yields one molecule of quercetin (a 
+flavonol), one molecule of glucose, and one molecule of rhamnose.  
+ 
+Uses and Properties: 
+o Rutin has been used in the treatment of various conditions characterized by capillary 
+bleeding and capillary fragility. 
+o Flavonoids, in general, are noted for having very good antioxidant property. 
+7. Aldehyde Glycosides 
+Aldehyde Glycosides are a class of glycosides that are characterized by containing an aldehyde as their 
+aglycone (the non-sugar component) in their chemical structure.  
+The primary crude drug that contains aldehyde glycosides is Vanilla (Vanilla Beans). 
+1. Vanilla (Vanilla Beans) 
+ 
+Origin/Source: Vanilla consists of the cured, full-grown unripe fruit of Vanilla planifolia, which 
+belong to the family Orchidaceae. 
+ 
+Commercial Production: 
+o The vanilla plant is typically propagated by means of cuttings. It takes approximately 2-3 
+years for the plant to reach the flowering stage. The flowers are hand-pollinated. After 
+collection, the fruits are ripened to a yellow color. 
+o The fruits are then treated by dipping them in warm water and repeatedly sweating 
+between woollen blankets in the sun during the day and packing in wool-covered boxes at 
+night.  
+o This curing process requires about two months, during which the pods lose 70-80% of their 
+original weight. The cured pods are graded and tied into bundles (approx. 50-70), then 
+sealed in a container. 
+ 
+Chemical Constituents: 
+o The primary chemical constituents in green vanilla are two glycosides: glucovanillin 
+(avenin) and glucovanillic alcohol.
+
+--- OCR TEXT ---
+o Upon hydrolysis, sinalbin yields acrinyl-isothiocyanate. This compound is a pungent but
+almost odorless oil and is significantly less volatile than allyl-isothiocyanate (produced
+from sinigrin in black mustard).
+
+o Like black mustard, white mustard also contains fixed oil (20-25%) and the hydrolytic
+enzyme myrosin.
+
+6. Flavonoid Glycosides
+
+Flavonoid Glycosides are a class of glycosides characterized by having a flavonoid as their aglycone (the
+non-sugar component) in their chemical structure. Flavonoid Glycosides are a type of O-glycoside,
+indicating that their sugar and non-sugar moieties are linked through an oxygen atom.
+
+Rutin and Hesperidin contains flavonoid glycosides.
+1. Rutin
+
+¢ Origin/Source: Rutin is a flavonol glycoside that has been isolated from Fagopyrum esculentum
+(buckwheat residue) and from various species of Eucalyptus.
+
+e Chemical Constituents and Hydrolysis: Upon hydrolysis, rutin yields one molecule of quercetin (a
+flavonol), one molecule of glucose, and one molecule of rhamnose.
+
+e Uses and Properties:
+
+o Rutin has been used in the treatment of various conditions characterized by capillary
+bleeding and capillary fragility.
+
+o Flavonoids, in general, are noted for having very good antioxidant property.
+7. Aldehyde Glycosides
+
+Aldehyde Glycosides are a class of glycosides that are characterized by containing an aldehyde as their
+aglycone (the non-sugar component) in their chemical structure.
+
+The primary crude drug that contains aldehyde glycosides is Vanilla (Vanilla Beans).
+1. Vanilla (Vanilla Beans)
+
+e Origin/Source: Vanilla consists of the cured, full-grown unripe fruit of Vanilla planifolia, which
+belong to the family Orchidaceae.
+
+e¢ Commercial Production:
+
+o The vanilla plant is typically propagated by means of cuttings. It takes approximately 2-3
+years for the plant to reach the flowering stage. The flowers are hand-pollinated. After
+collection, the fruits are ripened to a yellow color.
+
+o The fruits are then treated by dipping them in warm water and repeatedly sweating
+between woollen blankets in the sun during the day and packing in wool-covered boxes at
+night.
+
+o This curing process requires about two months, during which the pods lose 70-80% of their
+original weight. The cured pods are graded and tied into bundles (approx. 50-70), then
+sealed in a container.
+
+¢ Chemical Constituents:
+
+o The primary chemical constituents in green vanilla are two glycosides: glucovanillin
+(avenin) and glucovanillic alcohol.
+
+============================================================
+PAGE 11
+============================================================
+o Upon hydrolysis, Glucovanillic alcohol & glucovanillin yields glucose and vanillic alcohol. 
+o Glucovanillic alcohol can be further oxidized to vanillin. 
+ 
+Vanillin is the principal flavoring constituent of the cured vanilla.  
+ 
+Vanilla also contains sugars (10%), fixed oil (10%), and calcium oxalate. 
+ 
+Uses: 
+o Vanilla, particularly in the form of vanilla tincture, is primarily used as a flavoring agent. 
+o Vanillin is considered the chief source of vanilla's flavor. 
+8. Alcohol Glycosides  
+Alcohol Glycosides are a class of glycosides defined by their chemical structure, specifically by containing 
+an alcohol as their aglycone (the non-sugar component). 
+Salicin, Populin (benzoyl salicin), and Glucovanillic alcohol contain alcohol glycosides. 
+1. Salicin 
+ 
+Origin/Source: Salicin is an alcohol glycoside obtained from the stem bark of several species of 
+Populus (poplar) trees. The principal sources include Salix purpurea and Salix fragilis. 
+ 
+Hydrolysis: Upon hydrolysis, salicin yields glucose and salicyl alcohol (saligenin).  
+ 
+Uses and Properties: Salicin possesses ant rheumatic properties. Its action is very closely related 
+to salicylic acid, and it is likely oxidized to salicylic acid within the human system. 
+2. Populin (benzoyl salicin) 
+ 
+Hydrolysis: Upon hydrolysis, populin yields one molecule of salicyl alcohol, one molecule of benzoic 
+acid, and one molecule of glucose. 
+3. Glucovanillic Alcohol 
+ 
+Origin/Source: Glucovanillic alcohol is a constituent of green vanilla. 
+ 
+Chemical Constituents and Hydrolysis: It is an alcohol glycoside that, upon hydrolysis, yields 
+glucose and vanillic alcohol. 
+ 
+Transformation: Glucovanillic alcohol can be further oxidized to vanillin. Vanillin is the principal 
+flavoring constituent of the cured vanilla.  
+9. Phenol Glycosides 
+Phenol Glycosides are a specific class of glycosides characterized by having a phenol as their aglycone 
+(the non-sugar component) in their chemical structure.  
+The primary crude drug that contains phenol glycosides is Uva Ursi (bearberry). 
+Uva Ursi (Bearberry) 
+ 
+Origin and Source: Uva Ursi consists of the dried leaf of Arctostaphylos uva-ursi.  
+ 
+Chemical Constituents: 
+o Uva Ursi contains a significant amount of the phenol glycoside arbutin, ranging from 9-18%. 
+Arbutin is an example of an O-glycoside. 
+o Upon hydrolysis, arbutin yields hydroquinone and beta-D-glucose.
+
+--- OCR TEXT ---
+o Upon hydrolysis, Glucovanillic alcohol & glucovanillin yields glucose and vanillic alcohol.
+© Glucovanillic alcohol can be further oxidized to vanillin.
+»  Vanillin is the principal flavoring constituent of the cured vanilla.
+= Vanilla also contains sugars (10%), fixed oil (10%), and calcium oxalate.
+e Uses:
+o Vanilla, particularly in the form of vanilla tincture, is primarily used as a flavoring agent.
+o Vanillin is considered the chief source of vanilla's flavor.
+8. Alcohol Glycosides
+
+Alcohol Glycosides are a class of glycosides defined by their chemical structure, specifically by containing
+an alcohol as their aglycone (the non-sugar component).
+
+Salicin, Populin (benzoyl salicin), and Glucovanillic alcohol contain alcohol glycosides.
+1. Salicin
+
+e Origin/Source: Salicin is an alcohol glycoside obtained from the stem bark of several species of
+Populus (poplar) trees. The principal sources include Salix purpurea and Salix fragilis.
+
+e Hydrolysis: Upon hydrolysis, salicin yields glucose and salicyl alcohol (saligenin).
+
+e Uses and Properties: Salicin possesses ant rheumatic properties. Its action is very closely related
+to salicylic acid, and it is likely oxidized to salicylic acid within the human system.
+
+2. Populin (benzoyl salicin)
+
+e Hydrolysis: Upon hydrolysis, populin yields one molecule of salicyl alcohol, one molecule of benzoic
+acid, and one molecule of glucose.
+
+3. Glucovanillic Alcohol
+e Origin/Source: Glucovanillic alcohol is a constituent of green vanilla.
+
+e Chemical Constituents and Hydrolysis: It is an alcohol glycoside that, upon hydrolysis, yields
+glucose and vanillic alcohol.
+
+e Transformation: Glucovanillic alcohol can be further oxidized to vanillin. Vanillin is the principal
+flavoring constituent of the cured vanilla.
+
+9. Phenol Glycosides
+
+Phenol Glycosides are a specific class of glycosides characterized by having a phenol as their aglycone
+(the non-sugar component) in their chemical structure.
+
+The primary crude drug that contains phenol glycosides is Uva Ursi (bearberry).
+Uva Ursi (Bearberry)
+
+e Origin and Source: Uva Ursi consists of the dried leaf of Arctostaphylos uva-ursi.
+
+¢ Chemical Constituents:
+
+o UvaUrsi contains a significant amount of the phenol glycoside arbutin, ranging from 9-18%.
+Arbutin is an example of an O-glycoside.
+
+o Upon hydrolysis, arbutin yields hydroquinone and beta-D-glucose.
+
+============================================================
+PAGE 12
+============================================================
+o Besides arbutin, Uva Ursi also contains carilogin, several esters of arbutin, quercetin, and 
+ursolic acid.  
+ 
+Quercetin itself is a flavonol, which is a type of flavonoid (also containing phenolic 
+hydroxyl groups). 
+ 
+Uses: 
+o Uva Ursi is utilized for its diuretic and astringent properties, as urinary antiseptic in 
+urinary tract infections. 
+Miscellaneous Glycosides 
+Miscellaneous Glycosides represent a broad category of glycosides that do not fit neatly into the more 
+specific classifications based on the chemical nature of their aglycone (such as aldehyde, alcohol, or phenol 
+glycosides) or the linking atom (O-, S-, C-, N-glycosides).  
+The two specific crude drugs that fall under the "Miscellaneous Glycosides" category: Gentian and Quassia. 
+1. Gentian 
+ 
+Origin and Source: Gentian consists of the dried rhizomes and roots of Gentiana lutea. 
+ 
+Chemical Constituents: 
+o Gentian contains bitter glycosides, notably gentiopicroside (about 2%). 
+o Other constituents include gentioside, xanthone (gentisin), an alkaloid (gentianine), sugars, 
+pectin, and fixed oil. 
+ 
+Uses: 
+o Gentian is used as a bitter tonic. 
+o It is also employed as stomachic for increasing appetite. 
+2. Quassia (bitter ash) 
+ 
+Origin and Source: Quassia consists of the dried stem wood of Quassia amara. 
+o The drug obtained from Picrasma excelsa is commercially known as Jamaica quassia. 
+o The drug obtained from Quassia amara is known commercially as Surinam quassia. 
+ 
+Chemical Constituents: 
+o Quassin and neoquassin are found in Surinam quassia. 
+o Picrasmin (isoquassin) has been isolated from Jamaica quassia. 
+ 
+Uses: 
+o Quassia is used as an enema for the expulsion of thread worms. 
+o It is also used as an insecticide in the form of fly poison on fly-paper. 
+In addition to Gentian and Quassia, Miscellaneous glycosides can also include  
+ 
+Antibiotic glycosides (e.g., neomycin, gentamycin, and streptomycin) 
+ 
+Alkaloid glycosides (e.g., solanin) 
+ 
+Nucleosides, and nucleic acids. Nucleosides and nucleic acids are specifically noted as examples of 
+N-glycosides, where the sugar and non-sugar moieties are linked through a nitrogen atom.
+
+--- OCR TEXT ---
+o Besides arbutin, Uva Ursi also contains carilogin, several esters of arbutin, quercetin, and
+ursolic acid.
+
+= Quercetin itself is a flavonol, which is a type of flavonoid (also containing phenolic
+hydroxyl groups).
+
+e Uses:
+
+o Uva Ursi is utilized for its diuretic and astringent properties, as urinary antiseptic in
+urinary tract infections.
+
+Miscellaneous Glycosides
+
+Miscellaneous Glycosides represent a broad category of glycosides that do not fit neatly into the more
+specific classifications based on the chemical nature of their aglycone (such as aldehyde, alcohol, or phenol
+glycosides) or the linking atom (O-, S-, C-, N-glycosides).
+
+The two specific crude drugs that fall under the "Miscellaneous Glycosides" category: Gentian and Quassia.
+1. Gentian
+e Origin and Source: Gentian consists of the dried rhizomes and roots of Gentiana lutea.
+e Chemical Constituents:
+o Gentian contains bitter glycosides, notably gentiopicroside (about 2%).
+
+o Other constituents include gentioside, xanthone (gentisin), an alkaloid (gentianine), sugars,
+pectin, and fixed oil.
+
+e Uses:
+o Gentian is used as a bitter tonic.
+o Itis also employed as stomachic for increasing appetite.
+2. Quassia (bitter ash)
+e Origin and Source: Quassia consists of the dried stem wood of Quassia amara.
+o The drug obtained from Picrasma excelsa is commercially known as Jamaica quassia.
+o The drug obtained from Quassia amara is known commercially as Surinam quassia.
+e Chemical Constituents:
+© Quassin and neoquassin are found in Surinam quassia.
+o Picrasmin (isoquassin) has been isolated from Jamaica quassia.
+e Uses:
+o Quassia is used as an enema for the expulsion of thread worms.
+o Itis also used as an insecticide in the form of fly poison on fly-paper.
+In addition to Gentian and Quassia, Miscellaneous glycosides can also include
+e Antibiotic glycosides (e.g., neomycin, gentamycin, and streptomycin)
+e Alkaloid glycosides (e.g., solanin)
+
+e Nucleosides, and nucleic acids. Nucleosides and nucleic acids are specifically noted as examples of
+N-glycosides, where the sugar and non-sugar moieties are linked through a nitrogen atom.

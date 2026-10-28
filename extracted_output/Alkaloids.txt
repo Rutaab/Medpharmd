@@ -1,0 +1,1891 @@
+
+============================================================
+PAGE 1
+============================================================
+Alkaloids 
+Alkaloids are a diverse group of naturally occurring compounds, primarily from plants, characterized by 
+their nitrogen content and distinct pharmacological effects. 
+ 
+Functions in Plants: 
+o "Poisonous agents protecting the plant against insects and herbivores." 
+o "End products of detoxification reactions representing a metabolic locking up of compounds 
+otherwise harmful to the plant." 
+o "Regulatory growth factors." 
+o "Reserve substances capable of supplying nitrogen or other elements necessary to the plant 
+economy." 
+Properties of Alkaloids 
+Alkaloids exhibit several distinct properties that characterize them as a group of organic compounds. These 
+properties are crucial for understanding their chemical behavior and physiological effects. 
+ 
+Crystalline Nature and Salt Formation 
+o Most alkaloids are well-defined crystalline substances. 
+o They have the ability to unite with acids to form salts. 
+ 
+Existence in Plants 
+o In plants, alkaloids may exist in two forms: either as a free base or as a salt. 
+o They can also exist as N-oxide. 
+o Examples provided include reserpine, strychnine, and hyoscyamine. 
+ 
+Elemental Composition 
+o In addition to carbon, hydrogen, and nitrogen, most alkaloids contain oxygen. 
+o However, a few alkaloids, such as nicotine and coniine, are rare examples that are oxygen-
+free. 
+ 
+Coloration 
+o Although most colored alkaloids are relatively rare, some are notable for their color. 
+o For instance, berberine is yellow. Sanguinarine is copper red. 
+ 
+Solubility Characteristics 
+o Alkaloid bases (the free form) are generally sparingly soluble in water. 
+o However, they are typically soluble in organic solvents such as chloroform and ether. 
+o Conversely, salts of alkaloids are soluble in water. 
+o They are sparingly soluble in organic solvents. 
+Biological Origins of Alkaloids 
+The biosynthesis of alkaloids primarily involves the following steps: 
+1. Decarboxylation of an amino acid: This initial step yields a primary amine.
+
+--- OCR TEXT ---
+Alkaloids
+
+Alkaloids are a diverse group of naturally occurring compounds, primarily from plants, characterized by
+their nitrogen content and distinct pharmacological effects.
+
+e Functions in Plants:
+o “Poisonous agents protecting the plant against insects and herbivores.”
+
+o “End products of detoxification reactions representing a metabolic locking up of compounds
+otherwise harmful to the plant."
+
+o “Regulatory growth factors.”
+
+o “Reserve substances capable of supplying nitrogen or other elements necessary to the plant
+economy.”
+
+Properties of Alkaloids
+
+Alkaloids exhibit several distinct properties that characterize them as a group of organic compounds. These
+properties are crucial for understanding their chemical behavior and physiological effects.
+
++ Crystalline Nature and Salt Formation
+
+o Most alkaloids are well-defined crystalline substances.
+o They have the ability to unite with acids to form salts.
++ Existence in Plants
+
+o Inplants, alkaloids may exist in two forms: either as a free base or as a salt.
+o They can also exist as N-oxide.
+o Examples provided include reserpine, strychnine, and hyoscyamine.
++ Elemental Composition
+o Inaddition to carbon, hydrogen, and nitrogen, most alkaloids contain oxygen.
+
+o However, a few alkaloids, such as nicotine and coniine, are rare examples that are oxygen-
+free.
+
+* Coloration
+o Although most colored alkaloids are relatively rare, some are notable for their color.
+o Forinstance, berberine is yellow. Sanguinarine is copper red.
+« Solubility Characteristics
+o Alkaloid bases (the free form) are generally sparingly soluble in water.
+o However, they are typically soluble in organic solvents such as chloroform and ether.
+o Conversely, salts of alkaloids are soluble in water.
+o They are sparingly soluble in organic solvents.
+Biological Origins of Alkaloids
+The biosynthesis of alkaloids primarily involves the following steps:
+
+1. Decarboxylation of an amino acid: This initial step yields a primary amine.
+
+============================================================
+PAGE 2
+============================================================
+2. Transamination and Decarboxylation: An amino acid undergoes transamination followed by 
+decarboxylation, leading to the formation of an aldehyde. 
+3. Schiff's Base Formation: This aldehyde then undergoes condensation with a primary amine, forming a 
+Schiff's base (imine). 
+4. Mannich Type Condensation: The Schiff's base subsequently undergoes a Mannich type condensation, 
+which results in the formation of the alkaloid. 
+In contrast, pseudo-alkaloids are not biosynthetically derived from amino acid precursors. 
+How are alkaloids extracted? 
+Alkaloids can be extracted using various methods, with the choice depending on the scale and purpose of 
+the operation, as well as the specific raw material. For research purposes, chromatography offers both 
+speedy and accurate results. However, for obtaining an appropriate quantity of alkaloid, a general method 
+is typically followed. 
+General Extraction Methods 
+1. Process A (Commonly used general method):  
+ 
+Preparation: The powdered vegetable material is first moistened with water and mixed with lime 
+. This step is crucial as it helps to free the alkaloids, especially if they are present as salts, 
+by reacting with acids and tannins in the plant material.  
+ 
+Initial Extraction: The free alkaloids are then extracted using an organic solvent such as ether, 
+chloroform, or petroleum spirit.  
+ 
+Concentration and Purification (Aqueous Phase): The concentrated organic extract is shaken with 
+dilute aqueous acid. This causes the alkaloid salts to transfer into the aqueous layer, while many 
+impurities remain in the organic layer.  
+ 
+Further Purification (Organic Phase): The aqueous solution, which now contains the alkaloid salts 
+and some impurities, is then made alkaline and shaken with chloroform. This extracts the alkaloids 
+as their free bases into the chloroform layer.  
+ 
+Isolation: The chloroform layer is then processed by removing the solvent through evaporation, 
+and the alkaloids are recrystallized. Individual alkaloids from a mixture can be further separated 
+by fractional extraction or precipitation.  
+2. Process B (Alternative general method):  
+ 
+The powdered material is extracted with water or aqueous alcohol containing dilute acid.  
+ 
+Pigments and other unwanted materials are removed by shaking the extract with chloroform or 
+another water-immiscible organic solvent.  
+ 
+The free alkaloids are then precipitated by adding an excess of 
+or 
+ammonia solution.  
+ 
+The precipitated alkaloids are separated either by filtration or by extraction with organic solvents. 
+3. Process C (For volatile liquid alkaloids):  
+ 
+Volatile liquid alkaloids, such as nicotine and coniine, are most conveniently isolated by 
+distillation.
+
+--- OCR TEXT ---
+2. Transamination and Decarboxylation: An amino acid undergoes transamination followed by
+decarboxylation, leading to the formation of an aldehyde.
+
+3. Schiff's Base Formation: This aldehyde then undergoes condensation with a primary amine, forming a
+Schiff's base (imine).
+
+4. Mannich Type Condensation: The Schiff's base subsequently undergoes a Mannich type condensation,
+which results in the formation of the alkaloid.
+
+In contrast, pseudo-alkaloids are not biosynthetically derived from amino acid precursors.
+
+How are alkaloids extracted?
+
+Alkaloids can be extracted using various methods, with the choice depending on the scale and purpose of
+the operation, as well as the specific raw material. For research purposes, chromatography offers both
+speedy and accurate results. However, for obtaining an appropriate quantity of alkaloid, a general method
+is typically followed.
+
+General Extraction Methods
+
+1. Process A (Commonly used general method):
+
+.
+
+Preparation: The powdered vegetable material is first moistened with water and mixed with lime
+Ca (OH) >. This step is crucial as it helps to free the alkaloids, especially if they are present as salts,
+by reacting with acids and tannins in the plant material.
+
+Initial Extraction: The free alkaloids are then extracted using an organic solvent such as ether,
+chloroform, or petroleum spirit.
+
+Concentration and Purification (Aqueous Phase): The concentrated organic extract is shaken with
+dilute aqueous acid. This causes the alkaloid salts to transfer into the aqueous layer, while many
+impurities remain in the organic layer.
+
+Further Purification (Organic Phase): The aqueous solution, which now contains the alkaloid salts
+and some impurities, is then made alkaline and shaken with chloroform. This extracts the alkaloids
+as their free bases into the chloroform layer.
+
+Isolation: The chloroform layer is then processed by removing the solvent through evaporation,
+and the alkaloids are recrystallized. Individual alkaloids from a mixture can be further separated
+by fractional extraction or precipitation.
+
+2. Process B (Alternative general method):
+
+.
+
+.
+
+.
+
+The powdered material is extracted with water or aqueous alcohol containing dilute acid.
+
+Pigments and other unwanted materials are removed by shaking the extract with chloroform or
+another water-immiscible organic solvent.
+
+The free alkaloids are then precipitated by adding an excess of sodium carbonate (Na,CO;) or
+ammonia solution.
+
+The precipitated alkaloids are separated either by filtration or by extraction with organic solvents.
+
+3. Process C (For volatile liquid alkaloids):
+
+.
+
+Volatile liquid alkaloids, such as nicotine and coniine, are most conveniently isolated by
+distillation.
+
+============================================================
+PAGE 3
+============================================================
+In this method, the aqueous extract is made alkaline with caustic soda or sodium carbonate, and 
+the alkaloid is then distilled off in steam. 
+Specific Considerations and Large-Scale Operations 
+ 
+Large-scale extractions are typically based on either Process A or Process B. 
+ 
+Chromatographic methods are particularly useful for complex mixtures or when only small 
+quantities of alkaloids are required. 
+The solubility of alkaloid salts can vary; for instance, quinine sulfate is soluble in 1 part per 1000 parts of 
+water, whereas quinine hydrochloride is soluble in 1 part per 1 part of water. 
+Alkaloid Chemical Identification Tests 
+Alkaloid chemical identification tests primarily rely on the ability of most alkaloids to form precipitates 
+from a neutral or slightly acidic solution when specific reagents are added. 
+Here are the key chemical identification tests described: 
+ 
+Mayer's reagent: This reagent, which is a solution of potassium mercuric iodide, produces cream-
+colored precipitates when added to a solution containing alkaloids. 
+ 
+Dragendorff's reagent: A solution of potassium bismuth iodide, Dragendorff's reagent yields reddish-
+brown precipitates with alkaloids. 
+ 
+Wagner's reagent: This reagent, a solution of iodine in potassium iodide, also results in reddish-brown 
+precipitates. 
+ 
+Hager's reagent: Using a saturated solution of picric acid, Hager's reagent produces yellow 
+precipitates. 
+Classification 
+Alkaloids, a diverse group of naturally occurring compounds, can be classified in several ways, primarily 
+based on their chemical structure, biosynthetic origin, and the location of their nitrogen atom. 
+ 
+two main classification approaches: one focusing on biosynthesis and nitrogen location (true, proto, 
+pseudo), and another based on the presence and type of heterocyclic nitrogen ring. 
+1. Classification Based on Biosynthesis and Nitrogen Location 
+Types of Alkaloids 
+1. True Alkaloids 
+True alkaloids are characterized by four fundamental properties: 
+ 
+They are basic nitrogenous organic compounds, with the nitrogen atom typically present in a 
+heterocyclic ring. 
+ 
+They are of plant origin. 
+ 
+They possess a definite pharmacological effect in humans or animals. 
+ 
+They are derived from amino acids. 
+Examples of True Alkaloids include: 
+ 
+Hyoscyamine/atropine (found in 
+belladonna and hyoscyamus). 
+ 
+Morphine (from opium).
+
+--- OCR TEXT ---
++ Inthis method, the aqueous extract is made alkaline with caustic soda or sodium carbonate, and
+the alkaloid is then distilled off in steam.
+
+Specific Considerations and Large-Scale Operations
+« Large-scale extractions are typically based on either Process A or Process B.
+
+* Chromatographic methods are particularly useful for complex mixtures or when only small
+quantities of alkaloids are required.
+
+The solubility of alkaloid salts can vary; for instance, quinine sulfate is soluble in 1 part per 1000 parts of
+water, whereas quinine hydrochloride is soluble in 1 part per 1 part of water.
+
+Alkaloid Chemical Identification Tests
+
+Alkaloid chemical identification tests primarily rely on the ability of most alkaloids to form precipitates
+from a neutral or slightly acidic solution when specific reagents are added.
+
+Here are the key chemical identification tests described:
+
++ Mayer's reagent: This reagent, which is a solution of potassium mercuric iodide, produces cream-
+colored precipitates when added to a solution containing alkaloids.
+
++ Dragendorff's reagent: A solution of potassium bismuth iodide, Dragendorff's reagent yields reddish-
+brown precipitates with alkaloids.
+
++ Wagner's reagent: This reagent, a solution of iodine in potassium iodide, also results in reddish-brown
+precipitates.
+
+« Hager's reagent: Using a saturated solution of picric acid, Hager's reagent produces yellow
+precipitates.
+
+Classification
+
+Alkaloids, a diverse group of naturally occurring compounds, can be classified in several ways, primarily
+based on their chemical structure, biosynthetic origin, and the location of their nitrogen atom. Let’s discuss
+two main classification approaches: one focusing on biosynthesis and nitrogen location (true, proto,
+pseudo), and another based on the presence and type of heterocyclic nitrogen ring.
+
+1. Classification Based on Biosynthesis and Nitrogen Location
+Types of Alkaloids
+
+1. True Alkaloids
+
+True alkaloids are characterized by four fundamental properties:
+
++ They are basic nitrogenous organic compounds, with the nitrogen atom typically present ina
+heterocyclic ring.
+
++ They are of plant origin.
++ They possess a definite pharmacological effect in humans or animals.
++ They are derived from amino acids.
+
+Examples of True Alkaloids include:
+
++ Hyoscyamine/atropine (found in ¢ Morphine (from opium).
+belladonna and hyoscyamus).
+
+============================================================
+PAGE 4
+============================================================
+Reserpine (from Rauwolfia). 
+ 
+Quinine (from cinchona). 
+ 
+Strychnine (from nux vomica). 
+ 
+Ergotamine (from ergot). 
+ 
+Vinblastine (from catharanthus). 
+ 
+Nicotine (from tobacco). 
+2. Proto-alkaloids 
+Proto-alkaloids are defined by the position of their nitrogen atom within the molecular structure: 
+ 
+They are alkaloids in which the nitrogen atom is present outside the ring. 
+Examples of Proto-alkaloids include: 
+ 
+Ephedrine (Ephedra). 
+ 
+Colchicine (Colchicum). 
+ 
+Cathinone (Catha edulis). 
+ 
+Mescaline (Mescal nut). 
+3. Pseudo-alkaloids 
+Pseudo-alkaloids are distinguished by their biosynthetic origin: 
+ 
+They are alkaloids whose biosynthetic precursor is not an amino acid. This means they are not 
+derived from amino acids like true and proto-alkaloids. 
+Examples of Pseudo-alkaloids include: 
+ 
+Taxol (Taxus brevifolia). 
+ 
+Aconitine (Aconite). 
+ 
+Protoveratrine (Veratrum viride). 
+ 
+Coniine (Conium maculatum). 
+2. Classification Based on Nitrogen Atom's Position in Chemical Structure 
+On the basis of the nitrogen atom's presence in the chemical structure, alkaloids can be divided into two 
+major groups: Non-heterocyclic alkaloids and Heterocyclic alkaloids. 
+A. Non-heterocyclic Alkaloids 
+ 
+These are alkaloids in which the nitrogen atom is present outside the cyclic system. 
+ 
+It is worth noting that some compounds classified as Proto-alkaloids (e.g., Ephedrine, Colchicine, and 
+Cathinone) and Pseudo-alkaloids (e.g., Taxol) are also categorized as non-heterocyclic due to their 
+structural nitrogen arrangement. 
+ 
+Examples include: 
+ 
+Taxol (an anticancer constituent of Taxus 
+brevifolia). 
+ 
+Ephedrine (a major alkaloid of Ephedra). 
+ 
+Colchicine (an anti-inflammatory alkaloid of 
+colchicum corms and seeds). 
+ 
+Cathinone (an alkaloid isolated from Catha 
+edulis). 
+B. Heterocyclic Alkaloids 
+ 
+These are alkaloids in which the nitrogen atom is present in the cyclic system. 
+ 
+These alkaloids are further divided into various groups based on the specific heterocyclic system 
+they contain. The heterocyclic systems commonly observed in medicinally important alkaloids are: 
+1. Pyridine-piperidine alkaloids: Contain pyridine or piperidine nucleus. 
+ 
+Crude drugs: Tobacco (Nicotine), Areca (Areca nut/Betel nut), Lobelia (Lobeline).
+
+--- OCR TEXT ---
++ Reserpine (from Rauwolfia). « Ergotamine (from ergot).
+* Quinine (from cinchona). ¢ Vinblastine (from catharanthus).
+« Strychnine (from nux vomica). « Nicotine (from tobacco).
+
+2. Proto-alkaloids
+
+Proto-alkaloids are defined by the position of their nitrogen atom within the molecular structure:
++ They are alkaloids in which the nitrogen atom is present outside the ring.
+
+Examples of Proto-alkaloids include:
++ Ephedrine (Ephedra). + Cathinone (Catha edulis).
+* Colchicine (Colchicum). + Mescaline (Mescal nut).
+
+3. Pseudo-alkaloids
+
+Pseudo-alkaloids are distinguished by their biosynthetic origin:
+
+« They are alkaloids whose biosynthetic precursor is not an amino acid. This means they are not
+derived from amino acids like true and proto-alkaloids.
+
+Examples of Pseudo-alkaloids include:
+* Taxol (Taxus brevifolia). + Protoveratrine (Veratrum viride).
++ Aconitine (Aconite). * Coniine (Conium maculatum).
+
+2. Classification Based on Nitrogen Atom's Position in Chemical Structure
+
+On the basis of the nitrogen atom's presence in the chemical structure, alkaloids can be divided into two
+major groups: Non-heterocyclic alkaloids and Heterocyclic alkaloids.
+
+A. Non-heterocyclic Alkaloids
++ These are alkaloids in which the nitrogen atom is present outside the cyclic system.
+
+* — Itis worth noting that some compounds classified as Proto-alkaloids (e.g., Ephedrine, Colchicine, and
+Cathinone) and Pseudo-alkaloids (e.g., Taxol) are also categorized as non-heterocyclic due to their
+structural nitrogen arrangement.
+
++ Examples include:
+
+* Taxol (an anticancer constituent of Taxus * Colchicine (an anti-inflammatory alkaloid of
+brevifolia). colchicum corms and seeds).
+* Ephedrine (a major alkaloid of Ephedra). * Cathinone (an alkaloid isolated from Catha
+edulis).
+
+B. Heterocyclic Alkaloids
+« These are alkaloids in which the nitrogen atom is present in the cyclic system.
+
+e These alkaloids are further divided into various groups based on the specific heterocyclic system
+they contain. The heterocyclic systems commonly observed in medicinally important alkaloids are:
+
+1. Pyridine-piperidine alkaloids: Contain pyridine or piperidine nucleus.
+
+e Crude drugs: Tobacco (Nicotine), Areca (Areca nut/Betel nut), Lobelia (Lobeline).
+
+============================================================
+PAGE 5
+============================================================
+2. Tropane alkaloids: Contain a tropane nucleus. 
+ 
+Crude drugs: Belladonna (atropine, hyoscyamine), Hyoscyamus (atropine, hyoscine), 
+Stramonium (atropine, hyoscine), Cocca Leaves (cocaine). 
+3. Quinoline alkaloids: Contain a quinoline nucleus. 
+ 
+Crude drug: Cinchona (quinine, quinidine, cinchonine, cinquinine). 
+4. Isoquinoline alkaloids: Contain an isoquinoline nucleus. 
+ 
+Crude drugs: Ipecac (emetine, cephaeline), Opium (morphine, codeine, papaverine), Hydrastis 
+(hydrastine, berberine), Sanguinaria (sanguinarine), Curare (tubocurarine). 
+5. Indole alkaloids: Contain an indole nucleus. 
+ 
+Crude drugs: Rauwolfia (reserpine), Catharanthus (vincristine, vinblastine), Ergot (ergotamine, 
+ergonovine), Nux vomica (strychnine, brucine), Physostigma (physostigmine). 
+6. Purine Bases (Xanthine Derivatives): Contain a purine nucleus. 
+ 
+Crude drugs: Tea (caffeine, theophylline), Coffee (caffeine, theophylline). 
+7. Imidazole alkaloids: Contain an imidazole nucleus. 
+ 
+Crude drug: Pilocarpus (pilocarpine). 
+8. Terpenoid alkaloids: These alkaloids are terpenes in nature. 
+ 
+Examples: Taxol (Taxus brevifolia), Aconitine (Aconite), Coniine (Conium maculatum). It is 
+notable that Taxol, Aconitine, and Coniine are also listed as Pseudo-alkaloids (not amino acid 
+derived). 
+9. Steroidal alkaloids: These alkaloids contain a steroidal nucleus 
+(cyclopentanoperhydrophenanthrene) in their chemical structures. 
+ 
+Examples: Protoveratrine (Veratrum viride), solanidine, and solasodine (Solanum species). 
+Protoveratrine is also listed as a Pseudo-alkaloid. 
+1. Pyridine-piperidine alkaloids 
+Pyridine-piperidine alkaloids are a class of heterocyclic alkaloids distinguished by the presence of a 
+pyridine or piperidine nucleus in their chemical structure. Crude drugs that contain this type of alkaloid 
+include: 
+ 
+Areca (Areca nut/Betel nut) 
+ 
+Lobelia (Lobeline) 
+ 
+Tobacco (containing Nicotine) 
+1. Areca (Areca nut/Betel nut) 
+o Source and Origin: Areca nuts are derived from the dried ripe seeds of Areca catechu, a plant 
+belonging to the Palmae family. The fruit of Areca catechu is a nut that typically contains a 
+single seed with a thin seed coat and a large endosperm.
+
+--- OCR TEXT ---
+2. Tropane alkaloids: Contain a tropane nucleus.
+
+e Crude drugs: Belladonna (atropine, hyoscyamine), Hyoscyamus (atropine, hyoscine),
+Stramonium (atropine, hyoscine), Cocca Leaves (cocaine).
+
+3. Quinoline alkaloids: Contain a quinoline nucleus.
+¢ Crude drug: Cinchona (quinine, quinidine, cinchonine, cinquinine).
+4. Isoquinoline alkaloids: Contain an isoquinoline nucleus.
+
+e Crude drugs: Ipecac (emetine, cephaeline), Opium (morphine, codeine, papaverine), Hydrastis
+(hydrastine, berberine), Sanguinaria (sanguinarine), Curare (tubocurarine).
+
+5. Indole alkaloids: Contain an indole nucleus.
+
+e Crude drugs: Rauwolfia (reserpine), Catharanthus (vincristine, vinblastine), Ergot (ergotamine,
+ergonovine), Nux vomica (strychnine, brucine), Physostigma (physostigmine).
+
+6. Purine Bases (Xanthine Derivatives): Contain a purine nucleus.
+
+¢ Crude drugs: Tea (caffeine, theophylline), Coffee (caffeine, theophylline).
+7. Imidazole alkaloids: Contain an imidazole nucleus.
+
+e Crude drug: Pilocarpus (pilocarpine).
+8. Terpenoid alkaloids: These alkaloids are terpenes in nature.
+
+- Examples: Taxol (Taxus brevifolia), Aconitine (Aconite), Coniine (Conium maculatum). It is
+notable that Taxol, Aconitine, and Coniine are also listed as Pseudo-alkaloids (not amino acid
+derived).
+
+9. Steroidal alkaloids: These alkaloids contain a steroidal nucleus
+(cyclopentanoperhydrophenanthrene) in their chemical structures.
+
+- Examples: Protoveratrine (Veratrum viride), solanidine, and solasodine (Solanum species).
+Protoveratrine is also listed as a Pseudo-alkaloid.
+
+1. Pyridine-piperidine alkaloids
+
+Pyridine-piperidine alkaloids are a class of heterocyclic alkaloids distinguished by the presence ofa
+pyridine or piperidine nucleus in their chemical structure. Crude drugs that contain this type of alkaloid
+include:
+
++ Areca (Areca nut/Betel nut)
+
++ Lobelia (Lobeline)
+
+* Tobacco (containing Nicotine)
+1. Areca (Areca nut/Betel nut)
+
+o Source and Origin: Areca nuts are derived from the dried ripe seeds of Areca catechu, a plant
+belonging to the Palmae family. The fruit of Areca catechu is a nut that typically contains a
+single seed with a thin seed coat and a large endosperm.
+
+============================================================
+PAGE 6
+============================================================
+o Chemical Constituents: Areca nuts contain approximately 0.45% alkaloids. The primary 
+alkaloids present in this mixture are arecoline, arecaidine (also known as N-methyl guvacine), 
+and guvacine (tetrahydronicotinic acid). 
+ Arecoline is the most significant alkaloid in terms of both abundance and physiological 
+activity, making up about 0.2% of the total. 
+ Beyond alkaloids, the nuts also contain other compounds such as tannins (around 15%), 
+lipids, volatile oil, and gums. 
+o Uses: Areca nuts are primarily utilized for their anthelminthic properties. They are commonly 
+employed as an anthelmintic in veterinary practice and also serve as a vermifuge and 
+taenifuge in mammals, meaning they are used to expel parasitic worms. 
+2. Lobelia (Indian tobacco) 
+ 
+Source and Origin: Lobelia consists of the dried leaves and tops of Lobelia inflata, a plant that 
+belongs to the Lobeliaceae family. 
+ 
+Chemical Constituents: This plant contains a diverse array of alkaloids, with fourteen different 
+alkaloids identified. Among these, lobeline is the major and most important alkaloid. In addition to 
+alkaloids, Lobelia also contains a pungent volatile oil, resin, lipids, and gums. 
+ 
+Uses: 
+ 
+Lobeline exhibits pharmacological effects that are similar to, but generally weaker than, 
+those of nicotine. These effects are observed on the peripheral circulation, neuromuscular 
+junctions, and the Central Nervous System (CNS). 
+ 
+Due to its nicotine-like effects, lobeline is incorporated into tablets or lozenges to assist 
+individuals in giving up the tobacco habit. 
+ 
+An injection of lobeline hydrochloride is specifically used in the resuscitation of newborn 
+infants. 
+3. Tobacco (Nicotine) 
+ 
+Source and General Information: Tobacco is listed as a crude drug containing pyridine-piperidine 
+alkaloids, specifically nicotine. 
+ 
+Industrial Use: Nicotine is recognized as an important insecticide, and large quantities of it can be 
+extracted from parts of the tobacco plant that are not suitable for tobacco manufacturing. 
+Tropane alkaloids 
+Tropane alkaloids are a significant class of heterocyclic alkaloids that are distinguished by the presence of 
+a tropane nucleus in their chemical structure. The tropane nucleus is a bicyclic compound formed by the 
+condensation of a pyrrolidine precursor with three acetate-derived carbon atoms, and both pyrrolidine 
+and piperidine ring systems can be observed within its molecule. 
+The crude drugs containing tropane alkaloids include Belladonna (Belladonna leaf/Belladonna herb), 
+Hyoscyamus (Henbane, Indian henbane), Stramonium (Jimson weed), and Cocca Leaves (cocaine). 
+1. Belladonna (Belladonna leaf/Belladonna herb)
+
+--- OCR TEXT ---
+o Chemical Constituents: Areca nuts contain approximately 0.45% alkaloids. The primary
+alkaloids present in this mixture are arecoline, arecaidine (also known as N-methy! guvacine),
+and guvacine (tetrahydronicotinic acid).
+
+"  Arecoline is the most significant alkaloid in terms of both abundance and physiological
+activity, making up about 0.2% of the total.
+
+= Beyond alkaloids, the nuts also contain other compounds such as tannins (around 15%),
+lipids, volatile oil, and gums.
+
+o Uses: Areca nuts are primarily utilized for their anthelminthic properties. They are commonly
+employed as an anthelmintic in veterinary practice and also serve as a vermifuge and
+taenifuge in mammals, meaning they are used to expel parasitic worms.
+
+2. Lobelia (Indian tobacco)
+
++ Source and Origin: Lobelia consists of the dried leaves and tops of Lobelia inflata, a plant that
+belongs to the Lobeliaceae family.
+
++ Chemical Constituents: This plant contains a diverse array of alkaloids, with fourteen different
+alkaloids identified. Among these, lobeline is the major and most important alkaloid. In addition to
+alkaloids, Lobelia also contains a pungent volatile oil, resin, lipids, and gums.
+
++ Uses:
+
++ Lobeline exhibits pharmacological effects that are similar to, but generally weaker than,
+those of nicotine. These effects are observed on the peripheral circulation, neuromuscular
+junctions, and the Central Nervous System (CNS).
+
+« Due to its nicotine-like effects, lobeline is incorporated into tablets or lozenges to assist
+individuals in giving up the tobacco habit.
+
+« Aninjection of lobeline hydrochloride is specifically used in the resuscitation of newborn
+infants.
+
+3. Tobacco (Nicotine)
+
++ Source and General Information: Tobacco is listed as a crude drug containing pyridine-piperidine
+alkaloids, specifically nicotine.
+
++ Industrial Use: Nicotine is recognized as an important insecticide, and large quantities of it can be
+extracted from parts of the tobacco plant that are not suitable for tobacco manufacturing.
+
+Tropane alkaloids
+
+Tropane alkaloids are a significant class of heterocyclic alkaloids that are distinguished by the presence of
+a tropane nucleus in their chemical structure. The tropane nucleus is a bicyclic compound formed by the
+condensation of a pyrrolidine precursor with three acetate-derived carbon atoms, and both pyrrolidine
+and piperidine ring systems can be observed within its molecule.
+
+The crude drugs containing tropane alkaloids include Belladonna (Belladonna leaf/Belladonna herb),
+Hyoscyamus (Henbane, Indian henbane), Stramonium (Jimson weed), and Cocca Leaves (cocaine).
+
+1. Belladonna (Belladonna leaf/Belladonna herb)
+
+============================================================
+PAGE 7
+============================================================
+Source and Origin: Belladonna consists of the dried leaf and flowering or fruiting tops of Atropa 
+belladonna, which belongs to the Solanaceae family.  
+o The belladonna leaf typically yields not less than 0.35% of alkaloids. The name "Atropa" is derived 
+from "atropos," meaning inflexible, referencing the Greek fate who cut the thread of life. 
+"Belladonna" is an Italian term meaning "beautiful woman," possibly suggesting to the traditional 
+use of the juice of the berries to dilate pupils, imparting a striking appearance. 
+ 
+Collection: Leaves are richest in alkaloids when collected in June or July from plants growing in sunny 
+positions. Stems are cut about half way down, as alkaloids are most abundant at this stage. A second 
+crop of leaves can be gathered after rains or irrigation in autumn. 
+ 
+Chemical Constituents: Belladonna yields alkaloids in a concentration ranging up to more than 1%. 
+About three-fourths of the isolated alkaloid mixture is (-)-hyoscyamine, with the remainder being 
+atropine. Other minor alkaloids found in the roots include apo-atropine, belladonine, and scopolamine. 
+The average yield of alkaloids in various parts of the plant is as follows: roots (0.6%), stems (0.05%), 
+leaves (0.4%), unripe berries (0.19%), and ripe berries (0.21%). 
+ 
+Uses: 
+o Belladonna acts as a parasympatholytic and antispasmodic agent, and an anti-secretory agent. 
+o It is used as an adjunctive therapy in the treatment of peptic ulcer and functional digestive 
+disorders, including spastic, mucous and ulcerative colitis, diarrhea, diverticulitis, and pancreatitis. 
+o It possesses anticholinergic properties and is used to control excess motor activity of the 
+gastrointestinal tract and spasm of the urinary tract. 
+2. Hyoscyamus (Henbane, Indian henbane) 
+ 
+Source and Origin: Hyoscyamus consists of the dried leaf, with or without stem and flowering or 
+fruiting tops of Hyoscyamus Niger, belonging to the Solanaceae family. It contains not less than 
+0.04% of the alkaloids. 
+ 
+Chemical Constituents: Hyoscyamus contains alkaloids in a concentration ranging from 0.05-
+0.15%. Approximately three-fourths of the isolated alkaloid mixture is (-)-hyoscyamine, with the 
+remainder being hyoscine. 
+ 
+Egyptian Henbane: Hyoscyamus muticus (Solanaceae) consists of the dried leaves and flowering 
+tops. It yields about 1.5% of total alkaloids, with hyoscyamine being the major portion of the 
+alkaloid mixture. 
+3. Stramonium (Jimson weed) 
+ 
+Source and Origin: Stramonium consists of the dried leaf and flowering or fruiting tops with 
+branches of Datura stramonium or its variety tatula, belonging to the Solanaceae family. It yields 
+not less than 0.25% of the alkaloids. 
+ 
+Chemical Constituents: Stramonium seeds contain about 0.4% of alkaloids, principally 
+hyoscyamine, with small amounts of hyoscine and traces of atropine. 
+ 
+Uses: 
+o Stramonium is an anticholinergic and has actions similar to belladonna.
+
+--- OCR TEXT ---
+* Source and Origin: Belladonna consists of the dried leaf and flowering or fruiting tops of Atropa
+belladonna, which belongs to the Solanaceae family.
+
+o The belladonna leaf typically yields not less than 0.35% of alkaloids. The name "Atropa" is derived
+from "atropos," meaning inflexible, referencing the Greek fate who cut the thread of life.
+“Belladonna” is an Italian term meaning "beautiful woman," possibly suggesting to the traditional
+use of the juice of the berries to dilate pupils, imparting a striking appearance.
+
+« Collection: Leaves are richest in alkaloids when collected in June or July from plants growing in sunny
+positions. Stems are cut about half way down, as alkaloids are most abundant at this stage. A second
+crop of leaves can be gathered after rains or irrigation in autumn.
+
+* Chemical Constituents: Belladonna yields alkaloids in a concentration ranging up to more than 1%.
+About three-fourths of the isolated alkaloid mixture is (-)-hyoscyamine, with the remainder being
+atropine. Other minor alkaloids found in the roots include apo-atropine, belladonine, and scopolamine.
+The average yield of alkaloids in various parts of the plant is as follows: roots (0.6%), stems (0.05%),
+leaves (0.4%), unripe berries (0.19%), and ripe berries (0.21%).
+
++ Uses:
+o Belladonna acts as a parasympatholytic and antispasmodic agent, and an anti-secretory agent.
+
+o Itis used as an adjunctive therapy in the treatment of peptic ulcer and functional digestive
+disorders, including spastic, mucous and ulcerative colitis, diarrhea, diverticulitis, and pancreatitis.
+
+o It possesses anticholinergic properties and is used to control excess motor activity of the
+gastrointestinal tract and spasm of the urinary tract.
+
+2. Hyoscyamus (Henbane, Indian henbane)
+
++ Source and Origin: Hyoscyamus consists of the dried leaf, with or without stem and flowering or
+fruiting tops of Hyoscyamus Niger, belonging to the Solanaceae family. It contains not less than
+0.04% of the alkaloids.
+
++ Chemical Constituents: Hyoscyamus contains alkaloids in a concentration ranging from 0.05-
+0.15%. Approximately three-fourths of the isolated alkaloid mixture is (-)-hyoscyamine, with the
+remainder being hyoscine.
+
++ Egyptian Henbane: Hyoscyamus muticus (Solanaceae) consists of the dried leaves and flowering
+tops. It yields about 1.5% of total alkaloids, with hyoscyamine being the major portion of the
+alkaloid mixture.
+
+3. Stramonium (Jimson weed)
+
+* Source and Origin: Stramonium consists of the dried leaf and flowering or fruiting tops with
+branches of Datura stramonium or its variety tatula, belonging to the Solanaceae family. It yields
+not less than 0.25% of the alkaloids.
+
+* Chemical Constituents: Stramonium seeds contain about 0.4% of alkaloids, principally
+hyoscyamine, with small amounts of hyoscine and traces of atropine.
+
++ Uses:
+
+o Stramonium is an anticholinergic and has actions similar to belladonna.
+
+============================================================
+PAGE 8
+============================================================
+o Powdered stramonium is an ingredient in preparations that are intended to be burned, with the 
+resulting vapors inhaled for the relief of asthma. 
+4. Uses of Solanaceous Alkaloids (General Tropane Alkaloids) 
+ 
+The solanaceous alkaloids, including hyoscyamine, atropine (racemic hyoscyamine), hyoscine 
+(scopolamine), apo-atropine (anhydride of atropine), and belladonine, are competitive with 
+acetylcholine at postganglionic synapses (muscarinic sites) of the parasympathetic nervous 
+system. This clinically useful effect is obtained by blocking muscarinic activity of acetylcholine. 
+Specific uses include: 
+o An antispasmodic effect, principally to relieve spasm of the bowel in the treatment of 
+intestinal-spastic colitis, gastroenteritis, and peptic ulcer. 
+o An anti-secretory effect used to reduce respiratory secretions in anesthesia (anti-
+sialagogue), gastric secretion in peptic ulcer therapy, and nasal and sinus secretions in 
+common cold and allergic manifestations. 
+o A mydriatic and cycloplegic effect used to prevent adhesions between the iris and lens of 
+the eye in cases of iritis. 
+o Atropine is an antidote in cases of poisoning caused by choline esterase inhibitors such as 
+physostigmine and organophosphate insecticides. 
+o Scopolamine has a depressant activity on the CNS and is used to treat motion sickness, 
+obstetric amnesia in conjunction with analgesics, and to calm delirium. 
+Quinoline alkaloids 
+Quinoline alkaloids are a class of alkaloids characterized by the presence of a quinoline nucleus in their 
+chemical structure. The primary crude drug containing this type of alkaloid is Cinchona. 
+Cinchona (Cinchona bark/Peruvian bark) 
+1. Source and Origin 
+ 
+Cinchona consists of the dried bark from the stem or root, or its hybrid forms, of various Cinchona 
+species. These include Cinchona succirubra (which means "red juice"), and Cinchona calisaya (a 
+Spanish and Indian name for "red bark"). The plant belongs to the family Rubiaceae. 
+ 
+Cinchona is indigenous to the Andes of Ecuador and Peru, growing naturally at elevations of 1000 to 
+3000 meters. It is now cultivated in Indonesia and India. 
+2. History and Etymology 
+ 
+The genus "Cinchona" was named in honor of the Countess of Chinchon, the wife of the viceroy of 
+Peru, who was historically associated with its medicinal use. 
+ 
+Various tales surround its origin, including one of an Indian in Peru who overcame a fever by 
+drinking stagnant water from a pond containing several cinchona trees. 
+ 
+Historically, bark from the "Jesuit missionary" was sent to Jaun de Vega, and later, the Duchess of 
+Chinchon (wife of the Count of Chinchon and viceroy of Peru) was treated for fever by Ana de Osario, 
+who had previously used the drug.
+
+--- OCR TEXT ---
+o Powdered stramonium is an ingredient in preparations that are intended to be burned, with the
+resulting vapors inhaled for the relief of asthma.
+
+4. Uses of Solanaceous Alkaloids (General Tropane Alkaloids)
+
+The solanaceous alkaloids, including hyoscyamine, atropine (racemic hyoscyamine), hyoscine
+(scopolamine), apo-atropine (anhydride of atropine), and belladonine, are competitive with
+acetylcholine at postganglionic synapses (muscarinic sites) of the parasympathetic nervous
+system. This clinically useful effect is obtained by blocking muscarinic activity of acetylcholine.
+
+Specific uses include:
+
+o Anantispasmodic effect, principally to relieve spasm of the bowel in the treatment of
+intestinal-spastic colitis, gastroenteritis, and peptic ulcer.
+
+o Ananti-secretory effect used to reduce respiratory secretions in anesthesia (anti-
+sialagogue), gastric secretion in peptic ulcer therapy, and nasal and sinus secretions in
+common cold and allergic manifestations.
+
+o Amydriatic and cycloplegic effect used to prevent adhesions between the iris and lens of
+the eye in cases of iritis.
+
+o Atropine is an antidote in cases of poisoning caused by choline esterase inhibitors such as
+physostigmine and organophosphate insecticides.
+
+o Scopolamine has a depressant activity on the CNS and is used to treat motion sickness,
+obstetric amnesia in conjunction with analgesics, and to calm delirium.
+
+Quinoline alkaloids
+
+Quinoline alkaloids are a class of alkaloids characterized by the presence of a quinoline nucleus in their
+chemical structure. The primary crude drug containing this type of alkaloid is Cinchona.
+
+Cinchona (Cinchona bark/Peruvian bark)
+
+1. Source and Origin
+
+Cinchona consists of the dried bark from the stem or root, or its hybrid forms, of various Cinchona
+species. These include Cinchona succirubra (which means "red juice"), and Cinchona calisaya (a
+Spanish and Indian name for "red bark"). The plant belongs to the family Rubiaceae.
+
+Cinchona is indigenous to the Andes of Ecuador and Peru, growing naturally at elevations of 1000 to
+3000 meters. It is now cultivated in Indonesia and India.
+
+2. History and Etymology
+
+The genus "Cinchona" was named in honor of the Countess of Chinchon, the wife of the viceroy of
+Peru, who was historically associated with its medicinal use.
+
+Various tales surround its origin, including one of an Indian in Peru who overcame a fever by
+drinking stagnant water from a pond containing several cinchona trees.
+
+Historically, bark from the "Jesuit missionary” was sent to Jaun de Vega, and later, the Duchess of
+Chinchon (wife of the Count of Chinchon and viceroy of Peru) was treated for fever by Ana de Osario,
+who had previously used the drug.
+
+============================================================
+PAGE 9
+============================================================
+The specific tree from which cinchona came was unknown until 1737. The Dutch introduced 
+cinchona into Java in 1854, and the English introduced it into India in 1860. 
+3. Chemical Constituents 
+ 
+Cinchona contains approximately 25 closely related quinoline alkaloids. The most important of 
+these are quinine, quinidine, cinchonine, and cinchonidine. 
+ 
+The average yield of alkaloids in Cinchona bark is 6-7%. 
+o Quinine typically constitutes about one-half to two-thirds of the total alkaloid mixture in 
+yellow bark. Red barks, however, contain a greater proportion of cinquinine. Some 
+specimens have shown alkaloid yields as high as 18%. 
+o Besides alkaloids, Cinchona bark also contains about 2-4% of cinchotannic acid, which can 
+decompose to form insoluble cinchona red, accounting for up to 10% in red barks. 
+o Additionally, it contains a-quinovin (2-4%), a glycoside that hydrolyzes to quinovaic acid 
+and quinovose (isohydrosy). 
+ 
+The characteristic red color of cinchona bark can be attributed to an oxidase similar to those that 
+cause fruit darkening upon cutting. If the fresh bark is heated in boiling water for 30 minutes and 
+then dried, it does not turn red. 
+4. Uses 
+ 
+Cinchona and its alkaloids have been extensively used in the treatment of malaria for many years. 
+Quinine, in particular, continues to be used for malaria in many parts of the world. 
+ 
+Galenical preparations of cinchona are employed as bitter tonics and stomachics. 
+ 
+Due to their astringent action, decoctions of cinchona are sometimes used as gargles. 
+ 
+Quinine is also utilized in the treatment of various cardiac arrhythmias, including premature 
+atrial, AV junctional, and ventricular contractions, as well as atrial flutter and atrial fibrillation. 
+5. Adverse Effects 
+ 
+An overdose of cinchona products can lead to temporary loss of hearing and impaired sight. 
+ 
+Ringing in the ear is a common symptom of toxicity. These symptoms, when produced by 
+continuous use of cinchona or quinine, are collectively known as cinchonism. 
+Isoquinoline alkaloids 
+Isoquinoline alkaloids are a class of alkaloids characterized by the presence of an isoquinoline nucleus in 
+their chemical structure. The crude drugs containing this type of alkaloid include Opium, Ipecac, Hydrastis 
+(Goldenseal), Sanguinaria (Blood root), and Curare (South American arrow poison). 
+Examples of these alkaloids mentioned in the sources include morphine, codeine, papaverine, emetine, 
+cephaeline, psychotrine, hydrastine, canadine, berberine, sanguinarine, and tubocurarine. 
+1. Opium (Gum opium) 
+ 
+Source and Origin: Opium is the dried milky exudate obtained by incising the unripe capsule of 
+Papaver somniferum. The term "opium" is derived from the Greek word "opion," meaning poppy
+
+--- OCR TEXT ---
++ The specific tree from which cinchona came was unknown until 1737. The Dutch introduced
+cinchona into Java in 1854, and the English introduced it into India in 1860.
+
+3. Chemical Constituents
+
++ Cinchona contains approximately 25 closely related quinoline alkaloids. The most important of
+these are quinine, quinidine, cinchonine, and cinchonidine.
+
++ The average yield of alkaloids in Cinchona bark is 6-7%.
+
+o Quinine typically constitutes about one-half to two-thirds of the total alkaloid mixture in
+yellow bark. Red barks, however, contain a greater proportion of cinquinine. Some
+specimens have shown alkaloid yields as high as 18%.
+
+o Besides alkaloids, Cinchona bark also contains about 2-4% of cinchotannic acid, which can
+decompose to form insoluble cinchona red, accounting for up to 10% in red barks.
+
+o Additionally, it contains a-quinovin (2-4%), a glycoside that hydrolyzes to quinovaic acid
+and quinovose (isohydrosy).
+
+« Thecharacteristic red color of cinchona bark can be attributed to an oxidase similar to those that
+cause fruit darkening upon cutting. If the fresh bark is heated in boiling water for 30 minutes and
+then dried, it does not turn red.
+
+4. Uses
+
+* Cinchona and its alkaloids have been extensively used in the treatment of malaria for many years.
+Quinine, in particular, continues to be used for malaria in many parts of the world.
+
++ Galenical preparations of cinchona are employed as bitter tonics and stomachics.
++ Due to their astringent action, decoctions of cinchona are sometimes used as gargles.
+
+* Quinine is also utilized in the treatment of various cardiac arrhythmias, including premature
+atrial, AV junctional, and ventricular contractions, as well as atrial flutter and atrial fibrillation.
+
+5. Adverse Effects
++ Anoverdose of cinchona products can lead to temporary loss of hearing and impaired sight.
+
+« Ringing in the ear is acommon symptom of toxicity. These symptoms, when produced by
+continuous use of cinchona or quinine, are collectively known as cinchonism.
+
+Isoquinoline alkaloids
+
+Isoquinoline alkaloids are a class of alkaloids characterized by the presence of an isoquinoline nucleus in
+their chemical structure. The crude drugs containing this type of alkaloid include Opium, Ipecac, Hydrastis
+(Goldenseal), Sanguinaria (Blood root), and Curare (South American arrow poison).
+
+Examples of these alkaloids mentioned in the sources include morphine, codeine, papaverine, emetine,
+cephaeline, psychotrine, hydrastine, canadine, berberine, sanguinarine, and tubocurarine.
+
+1. Opium (Gum opium)
+
+* Source and Origin: Opium is the dried milky exudate obtained by incising the unripe capsule of
+Papaver somniferum. The term "opium" is derived from the Greek word "opion,” meaning poppy
+
+============================================================
+PAGE 10
+============================================================
+juice, while "Papaver" is a Latin name for the poppy, and "somniferum" is a Latin term meaning to 
+produce sleep.  
+ 
+Opium is extracted from poppy straw prepared by cutting and drying the entire over ground plant at 
+a suitable stage of development. Major producers of poppy straw include Turkey, Soviet Union, 
+Romania, Australia, France, and Spain. 
+ 
+Chemical Constituents: More than 30 alkaloids have been obtained from opium and its extracts. 
+The most important of these are: 
+o Morphine (4-21%) 
+o Codeine (0.8-2.5%) 
+o Noscapine (4-8%) 
+o Papaverine (0.5-4%) 
+o Thebaine (0.5-2%)  
+ 
+o Opium also contains 3-5% of meconic acid, which exists free or in combination with 
+morphine and codeine. The total ash yield of opium is 4-8% with about 0-0.5% of acid 
+insoluble ash. 
+ 
+Uses: 
+o The alkaloids present in opium decrease in narcotic properties in the order of morphine, 
+codeine, and noscapine. 
+o Morphine and opium are widely used to relieve pain (analgesic) and are valuable as 
+hypnotics. 
+o Codeine is a milder sedative than morphine and is useful for allaying cough. 
+o Opium checks excessive peristalsis and is therefore used in the treatment of diarrhea. 
+o The habitual use of opium may produce constipation. 
+o Papaverine is used as a skeletal muscle relaxant. 
+2. Ipecac 
+ 
+Source and Origin: Ipecac consists of the dried rhizomes and roots of Cephaelis ipecacuanha 
+(Brazilian or Rio Ipecac) or Cephaelis acuminata (Nicaragua or Panama Ipecac). Both belong to the 
+family Rubiaceae. The drug yields not less than 2% of ether soluble alkaloids of ipecac. 
+ 
+Chemical Constituents: Ipecac contains five alkaloids (2-2.5%). The three principal alkaloids, which 
+are present chiefly in the bark, are emetine, cephaeline, and psychotrine. Ipecac also contains 
+about 40% starch. Rio ipecac contains about two-thirds of emetine, while Panama ipecac contains 
+about two-thirds of cephaeline. 
+ 
+Uses: 
+o It is used in syrup form for the treatment of drug overdose and in certain poisoning. 
+o It produces emesis through a local irritant effect on the gastrointestinal mucosa. 
+o It possesses expectorant properties and is used to relieve productive cough. 
+o Emetine also possesses anti-amebic activity.
+
+--- OCR TEXT ---
+juice, while "Papaver" is a Latin name for the poppy, and "somniferum” is a Latin term meaning to
+produce sleep.
+
+Opium is extracted from poppy straw prepared by cutting and drying the entire over ground plant at
+a suitable stage of development. Major producers of poppy straw include Turkey, Soviet Union,
+Romania, Australia, France, and Spain.
+
+Chemical Constituents: More than 30 alkaloids have been obtained from opium and its extracts.
+The most important of these are:
+
+o Morphine (4-21%) o Noscapine (4-8%)
+o Codeine (0.8-2.5%) o Papaverine (0.5-4%)
+o Thebaine (0.5-2%)
+
+o Opium also contains 3-5% of meconic acid, which exists free or in combination with
+morphine and codeine. The total ash yield of opium is 4-8% with about 0-0.5% of acid
+insoluble ash.
+
+o The alkaloids present in opium decrease in narcotic properties in the order of morphine,
+codeine, and noscapine.
+
+o Morphine and opium are widely used to relieve pain (analgesic) and are valuable as
+hypnotics.
+
+o Codeine is a milder sedative than morphine and is useful for allaying cough.
+o Opium checks excessive peristalsis and is therefore used in the treatment of diarrhea.
+o The habitual use of opium may produce constipation.
+
+o Papaverine is used as a skeletal muscle relaxant.
+
+2. Ipecac
+
+Source and Origin: lpecac consists of the dried rhizomes and roots of Cephaelis ipecacuanha
+(Brazilian or Rio Ipecac) or Cephaelis acuminata (Nicaragua or Panama Ipecac). Both belong to the
+family Rubiaceae. The drug yields not less than 2% of ether soluble alkaloids of ipecac.
+
+Chemical Constituents: Ipecac contains five alkaloids (2-2.5%). The three principal alkaloids, which
+are present chiefly in the bark, are emetine, cephaeline, and psychotrine. |pecac also contains
+about 40% starch. Rio ipecac contains about two-thirds of emetine, while Panama ipecac contains
+about two-thirds of cephaeline.
+
+Uses:
+o Itis usedin syrup form for the treatment of drug overdose and in certain poisoning.
+o It produces emesis through a local irritant effect on the gastrointestinal mucosa.
+o It possesses expectorant properties and is used to relieve productive cough.
+
+o Emetine also possesses anti-amebic activity.
+
+============================================================
+PAGE 11
+============================================================
+3. Hydrastis (Goldenseal) 
+ 
+Source and Origin: Hydrastis consists of the dried rhizomes and roots of Hydrastis canadensis, 
+belonging to the family Ranunculaceae. 
+ 
+Chemical Constituents: It contains alkaloids including hydrastine, canadine, and berberine. 
+ 
+Uses: It is used as an astringent and for the inflammation of mucous membranes. 
+4. Sanguinaria (Blood root) 
+ 
+Source and Origin: Sanguinaria consists of the dried rhizomes of Sanguinaria canadensis, 
+belonging to the family Papaveraceae. 
+ 
+Chemical Constituents: The major alkaloid is sanguinarine, which is an odorless and form reddish 
+salt with nitric acid. 
+ 
+Uses: It is used as an expectorant and an emetic. 
+5. Curare (South American arrow poison) 
+ 
+Source and Origin: Curare is the crude dried extract from the bark and stem of Strychnos toxifera. 
+ 
+Chemical Constituents: It contains the alkaloid tubocurarine. 
+ 
+Uses: 
+o It is a skeletal muscle relaxant used to secure muscle relaxation in surgical procedures without 
+deep anesthesia. 
+o It is also used to control convulsions of strychnine poisoning and of tetanus. 
+Indole alkaloids 
+Indole alkaloids are a class of alkaloids characterized by the presence of an indole nucleus in their 
+chemical structure. The crude drugs containing this type of alkaloid include Rauwolfia, Catharanthus, 
+Nux vomica, Physostigma (Calabar beans), and Ergot. 
+1. Rauwolfia (Rauvolfia) 
+ 
+Source and Origin: Rauwolfia consists of the dried roots of Rauvolfia serpentina, which belongs to 
+the family Apocynaceae. The genus was named after Dr. Leonhard Rouwolf, a German botanist, 
+physician, and explorer. Serpentina refers to the long tapering, snake-like root of the plant. It is a 
+small shrub found in India, Pakistan, Thailand, and Java. 
+ 
+Chemical Constituents: Rauwolfia contains at least 30 alkaloids (0.7-2.5%). Other substances 
+include phytosterol, fatty acids, unsaturated alcohols, and sugars. However, the chief 
+therapeutically important alkaloids isolated from the drug are reserpine (1952), rescinamine 
+(1954), and deserpidine. 
+ 
+Uses: 
+o Reserpine is used in the management of essential hypertension (antihypertensive) and in 
+certain neuropsychiatric disorders (tranquilizer). 
+o Ajmaline, which has pharmacological properties similar to those of quinidine, is marketed in 
+Japan for the treatment of cardiac arrhythmias.
+
+--- OCR TEXT ---
+3. Hydrastis (Goldenseal)
+
+« Source and Origin: Hydrastis consists of the dried rhizomes and roots of Hydrastis canadensis,
+belonging to the family Ranunculaceae.
+
+« Chemical Constituents: It contains alkaloids including hydrastine, canadine, and berberine.
++ Uses: It is used as an astringent and for the inflammation of mucous membranes.
+
+4. Sanguinaria (Blood root)
+
+« Source and Origin: Sanguinaria consists of the dried rhizomes of Sanguinaria canadensis,
+belonging to the family Papaveraceae.
+
++ Chemical Constituents: The major alkaloid is sanguinarine, which is an odorless and form reddish
+salt with nitric acid.
+
++ Uses: It is used as an expectorant and an emetic.
+5. Curare (South American arrow poison)
++ Source and Origin: Curare is the crude dried extract from the bark and stem of Strychnos toxifera.
++ Chemical Constituents: It contains the alkaloid tubocurarine.
++ Uses:
+
+o Itisaskeletal muscle relaxant used to secure muscle relaxation in surgical procedures without
+deep anesthesia.
+
+o Itis also used to control convulsions of strychnine poisoning and of tetanus.
+Indole alkaloids
+
+Indole alkaloids are a class of alkaloids characterized by the presence of an indole nucleus in their
+chemical structure. The crude drugs containing this type of alkaloid include Rauwolfia, Catharanthus,
+Nux vomica, Physostigma (Calabar beans), and Ergot.
+
+1. Rauwolfia (Rauvolfia)
+
+* Source and Origin: Rauwolfia consists of the dried roots of Rauvolfia serpentina, which belongs to
+the family Apocynaceae. The genus was named after Dr. Leonhard Rouwolf, a German botanist,
+physician, and explorer. Serpentina refers to the long tapering, snake-like root of the plant. It isa
+small shrub found in India, Pakistan, Thailand, and Java.
+
++ Chemical Constituents: Rauwolfia contains at least 30 alkaloids (0.7-2.5%). Other substances
+include phytosterol, fatty acids, unsaturated alcohols, and sugars. However, the chief
+therapeutically important alkaloids isolated from the drug are reserpine (1952), rescinamine
+(1954), and deserpidine.
+
++ Uses:
+
+o Reserpine is used in the management of essential hypertension (antihypertensive) and in
+certain neuropsychiatric disorders (tranquilizer).
+
+o Ajmaline, which has pharmacological properties similar to those of quinidine, is marketed in
+Japan for the treatment of cardiac arrhythmias.
+
+============================================================
+PAGE 12
+============================================================
+o Ajmalicine (isolated from rauwolfia and catharanthus species) is marketed for the 
+treatment of circulatory diseases. 
+o Sources of Reserpine: Reserpine has been obtained in commercial quantities from four different 
+species of Rauwolfia, including Rauwolfia serpentina, R. micrantha, R. tetraphylla, and R. vomitoria. 
+2. Catharanthus 
+o Source and Origin: Catharanthus is the dried whole plant of Catharanthus roseus (formerly 
+designated as Vinca rosea) that belongs to the family Apocynaceae. 
+o Chemical Constituents: More than 70 alkaloids have been isolated from catharanthus. These are 
+indole and dihydroindole derivatives. The important dimeric alkaloids are vinblastine, vincristine, 
+vinrosidine, and vinleurosine. The antineoplastic activity lies with the dimeric alkaloids. Monomeric 
+alkaloids include ajmalicine, serpentine, and tetrahydro-alstonine. 
+o Uses: 
+o Vinblastine is recommended for generalized Hodgkin's disease, lymphocytic lymphoma, 
+histiocytic lymphoma, mycosis fungoides, advanced testicular sarcoma, Kaposi's sarcoma, 
+choriocarcinoma, and breast cancer unresponsive to other therapies. 
+o Vincristine is recommended for the treatment of acute leukemia and in combination 
+therapy for Hodgkin's disease, lymphosarcoma, reticulum cell sarcoma, 
+rhabdomyosarcoma, neuroblastoma, and Wilm's tumor. 
+3. Nux vomica 
+ 
+Source and Origin: Nux vomica is the dried ripe seeds of Strychnos nux-vomica, belonging to the 
+family Loganiaceae. "Strychnos" is the Greek name for a number of poisonous plants native to the 
+East Indies and is also found in forests of Sri-Lanka and northern Australia. 
+ 
+Chemical Constituents: It contains 1.5-5% of alkaloids, consisting chiefly of strychnine and 
+brucine. Strychnine is 1/3 to 1/2 of the total alkaloids. The minor related alkaloids are α-coluberine, 
+β-coluberine, protostrychnine, N-oxystrychnine, pseudostrychnine, and isostrychnine. Seeds also 
+contain chlorogenic acid and about 3% of fixed oil. 
+ 
+Uses: 
+o The alkaloid was formerly used as a circulatory stimulant in surgical shocks, but its use is now 
+more limited to that of respiratory stimulant in certain cases of alcohol poisoning. 
+o Strychnine improves appetite and digestion. Nux vomica increases the tone of the intestine. 
+o It is given in atonic dyspepsia. 
+4. Physostigma (Calabar beans) 
+ 
+Source and Origin: Physostigma is the dried ripe seeds of Physostigma venenosum, belonging to 
+the family Leguminosae. It yields not less than 0.15% of the alkaloids. The name "Physostigma" is 
+Greek and means an inflated bladder-like stigma. "Venenosum" is a Latin word meaning full of 
+poison. 
+ 
+Chemical Constituents: It contains several alkaloids that include physostigmine (eserine), 
+geneserine, isophysostigmine, and N-8-norphysostigmine.
+
+--- OCR TEXT ---
+o Ajmalicine (isolated from rauwolfia and catharanthus species) is marketed for the
+treatment of circulatory diseases.
+
+o Sources of Reserpine: Reserpine has been obtained in commercial quantities from four different
+
+species of Rauwolfia, including Rauwolfia serpentina, R. micrantha, R. tetraphylla, and R. vomitoria.
+
+2. Catharanthus
+
+© Source and Origin: Catharanthus is the dried whole plant of Catharanthus roseus (formerly
+
+designated as Vinca rosea) that belongs to the family Apocynaceae.
+
+Chemical Constituents: More than 70 alkaloids have been isolated from catharanthus. These are
+indole and dihydroindole derivatives. The important dimeric alkaloids are vinblastine, vincristine,
+vinrosidine, and vinleurosine. The antineoplastic activity lies with the dimeric alkaloids. Monomeric
+alkaloids include ajmalicine, serpentine, and tetrahydro-alstonine.
+
+o Uses:
+
+o Vinblastine is recommended for generalized Hodgkin's disease, lymphocytic lymphoma,
+histiocytic lymphoma, mycosis fungoides, advanced testicular sarcoma, Kaposi's sarcoma,
+choriocarcinoma, and breast cancer unresponsive to other therapies.
+
+o Vincristine is recommended for the treatment of acute leukemia and in combination
+therapy for Hodgkin's disease, lymphosarcoma, reticulum cell sarcoma,
+rhabdomyosarcoma, neuroblastoma, and Wilm's tumor.
+
+3. Nux vomica
+
+Source and Origin: Nux vomica is the dried ripe seeds of Strychnos nux-vomica, belonging to the
+family Loganiaceae. "Strychnos" is the Greek name for a number of poisonous plants native to the
+East Indies and is also found in forests of Sri-Lanka and northern Australia.
+
+Chemical Constituents: It contains 1.5-5% of alkaloids, consisting chiefly of strychnine and
+brucine. Strychnine is 1/3 to 1/2 of the total alkaloids. The minor related alkaloids are a-coluberine,
+6-coluberine, protostrychnine, N-oxystrychnine, pseudostrychnine, and isostrychnine. Seeds also
+contain chlorogenic acid and about 3% of fixed oil.
+
+Uses:
+
+o The alkaloid was formerly used as a circulatory stimulant in surgical shocks, but its use is now
+more limited to that of respiratory stimulant in certain cases of alcohol poisoning.
+
+o  Strychnine improves appetite and digestion. Nux vomica increases the tone of the intestine.
+
+o Itis given in atonic dyspepsia.
+
+4. Physostigma (Calabar beans)
+
+Source and Origin: Physostigma is the dried ripe seeds of Physostigma venenosum, belonging to
+the family Leguminosae. It yields not less than 0.15% of the alkaloids. The name "Physostigma” is
+Greek and means an inflated bladder-like stigma. "Venenosum" is a Latin word meaning full of
+poison.
+
+Chemical Constituents: It contains several alkaloids that include physostigmine (eserine),
+geneserine, isophysostigmine, and N-8-norphysostigmine.
+
+============================================================
+PAGE 13
+============================================================
+Uses: 
+o It is a reversible inhibitor of the choline esterases (cholinergic) and thus enhances the effect 
+of endogenous acetylcholine. 
+o In the eyes, it increases cholinergic activity leading to miosis (constriction of the pupil) and 
+contraction of ciliary muscles, resulting in a decrease in intraocular pressure caused by an 
+increased outflow of the aqueous humor. 
+o Physostigmine is employed in ophthalmology to treat glaucoma. 
+5. Ergot 
+ 
+Source and Origin: Ergot is the dried sclerotium of Claviceps purpurea (Clavicipitaceae) 
+developed on the plant of rye (Secale cereal) that belongs to the family Graminae. Ergot is required 
+to yield not less than 0.15% of the ergot alkaloids calculated as ergotoxine and water-soluble 
+alkaloids equivalent to not less than 0.01% of ergonovine. 
+ 
+Sources of Ergot Alkaloids: 
+o Claviceps purpurea on rye (parasitic) produces both peptidal and non-peptidal alkaloids. 
+o Claviceps paspali (saprophytic culture) produces non-peptidal alkaloids only. 
+ 
+Chemical Constituents: Ergot contains a large number of alkaloids which are chemically 
+derivatives of lysergic acid. The lysergic acid derivatives are found to be medicinally important.  
+o The therapeutically most active alkaloids include ergonovine, ergotamine, and a mixture 
+of ergocristine, ergokryptine, and ergocornine that have been marketed under the name 
+of ergotoxine.  
+o Ergotamine and ergotoxine are classed as water insoluble or peptidal alkaloids, whereas 
+ergonovine is an example of water soluble or non-peptidal alkaloid. Other constituents 
+include fixed oil (up to 35%), sterols (ergosterol), histamine, tyramine, and several pigments. 
+ Ergonovine (Ergometrine): This is oxytocic and used to assist delivery. It stimulates 
+the tone of uterine muscles and prevents postpartum haemorrhage (effects by partial 
+agonist or antagonist at α-adrenergic, dopaminergic and serotonin receptor). 
+ Methyl ergonoviner: This is a semisynthetic homologue of ergonovine. It is an oxytocic 
+to be slightly more active and longer action than ergonovine. It is available in the market 
+under the name Methergin. 
+ Ergotamine tartrate: This possesses oxytocic properties but is not employed for that 
+effect. It is categorized as a specific analgesic in the treatment of migraine.  
+o Ergotamine reduces extracranial blood flow and decreases the amplitude of 
+pulsation in the cranial arteries that have been associated with migraine. It may 
+inhibit receptor uptake of nor-epinephrine at sympathetic nerve endings, 
+increasing the vasoconstrictor action.  
+o Ergotamine is used with caffeine for the treatment of migraine headache. Both 
+act as cerebral vasoconstrictor. Caffeine is believed to enhance the action of 
+ergotamine.
+
+--- OCR TEXT ---
+Uses:
+
+o Itis areversible inhibitor of the choline esterases (cholinergic) and thus enhances the effect
+of endogenous acetylcholine.
+
+o Inthe eyes, it increases cholinergic activity leading to miosis (constriction of the pupil) and
+contraction of ciliary muscles, resulting in a decrease in intraocular pressure caused by an
+increased outflow of the aqueous humor.
+
+o Physostigmine is employed in ophthalmology to treat glaucoma.
+
+5. Ergot
+
+Source and Origin: Ergot is the dried sclerotium of Claviceps purpurea (Clavicipitaceae)
+developed on the plant of rye (Secale cereal) that belongs to the family Graminae. Ergot is required
+to yield not less than 0.15% of the ergot alkaloids calculated as ergotoxine and water-soluble
+alkaloids equivalent to not less than 0.01% of ergonovine.
+
+Sources of Ergot Alkaloids:
+o Claviceps purpurea on rye (parasitic) produces both peptidal and non-peptidal alkaloids.
+o Claviceps paspali (saprophytic culture) produces non-peptidal alkaloids only.
+
+Chemical Constituents: Ergot contains a large number of alkaloids which are chemically
+derivatives of lysergic acid. The lysergic acid derivatives are found to be medicinally important.
+
+o The therapeutically most active alkaloids include ergonovine, ergotamine, and a mixture
+of ergocristine, ergokryptine, and ergocornine that have been marketed under the name
+of ergotoxine.
+
+o Ergotamine and ergotoxine are classed as water insoluble or peptidal alkaloids, whereas
+ergonovine is an example of water soluble or non-peptidal alkaloid. Other constituents
+include fixed oil (up to 35%), sterols (ergosterol), histamine, tyramine, and several pigments.
+
+= Ergonovine (Ergometrine): This is oxytocic and used to assist delivery. It stimulates
+the tone of uterine muscles and prevents postpartum haemorrhage (effects by partial
+agonist or antagonist at a-adrenergic, dopaminergic and serotonin receptor).
+
+= Methyl ergonoviner: This is a semisynthetic homologue of ergonovine. It is an oxytocic
+to be slightly more active and longer action than ergonovine. It is available in the market
+under the name Methergin.
+
+= Ergotamine tartrate: This possesses oxytocic properties but is not employed for that
+effect. It is categorized as a specific analgesic in the treatment of migraine.
+
+o Ergotamine reduces extracranial blood flow and decreases the amplitude of
+pulsation in the cranial arteries that have been associated with migraine. It may
+inhibit receptor uptake of nor-epinephrine at sympathetic nerve endings,
+increasing the vasoconstrictor action.
+
+o Ergotamine is used with caffeine for the treatment of migraine headache. Both
+act as cerebral vasoconstrictor. Caffeine is believed to enhance the action of
+ergotamine.
+
+============================================================
+PAGE 14
+============================================================
+ Dihydro-ergotamine: This is a semisynthetic alkaloid prepared from ergotamine by 
+⁻  double bond in the lysergic acid nucleus. It is used in the 
+treatment of migraine because it is more effective and better tolerated than the parent 
+alkaloid. 
+ Ergotoxine: This was formerly employed as a reference standard in the form of 
+ergotoxine ethane sulfonate. This was a variable mixture of three closely related 
+alkaloids namely ergocristine, ergokryptine and ergocornine. A mixture of equal parts 
+of these component alkaloids are hydrogenated at 
+⁻  double bond in the lysergic acid 
+nucleus to yield an equivalent mixture of dihydro-ergocristine, dihydro-ergokryptine and 
+dihydro-ergocornine. This mixture, known as ergoloid mesylates (Hydergine), is 
+marketed for the treatment of selected symptoms in elderly patients. It produces 
+vasoconstriction, increased cerebral blood flow, lowering of systemic blood pressure and 
+bradycardia. 
+ Lysergic acid Diethylamide (LSD): This does not occur in nature but is prepared by semi 
+synthesis. It has two-fold actions, producing a predominant central sympathetic 
+stimulation that parallels a slight depression, and it is the most active and most specific 
+psychotomimetic agent known. It is valuable in experimental psychotherapy. 
+ 
+Uses (General): 
+o It is oxytocic, vasoconstrictor, and abortifacient. 
+o It is used to assist delivery and to reduce post-partum haemorrhage. 
+o Ergotamine is used to treat migraine. 
+o Lysergic acid diethyl amide is a potent psychotomimetic. 
+Purine Bases (Xanthine Derivatives) 
+Purine Bases, also known as Xanthine Derivatives, are a class of alkaloids characterized by the presence 
+of a purine nucleus in their chemical structure. 
+The crude drugs that contain these types of alkaloids include Tea, Coffee beans, Kola, and Maté. 
+1. Tea (Thea) 
+ 
+Source and Origin: Tea consists of the prepared leaves and leaf buds of Camellia sinensis, which 
+belongs to the family Theaceae. There are two main types of tea available: 
+o Green tea is prepared in China and Japan by rapidly drying freshly picked leaves in copper 
+pans over mild artificial heat. 
+o Black tea is prepared in Sri Lanka and India by heaping the fresh leaves until fermentation 
+has begun, after which they are rapidly dried artificially. 
+ 
+Chemical Constituents: Tea contains caffeine (1-4%) and smaller amounts of theophylline, 
+theobromine, adenine, and xanthine. 
+o Other constituents include gallotannic acid (about 15%) and a yellow volatile oil (0.75%).
+
+--- OCR TEXT ---
+Dihydro-ergotamine: This is a semisynthetic alkaloid prepared from ergotamine by
+hydrogenation of the A* double bond in the lysergic acid nucleus. It is used in the
+treatment of migraine because it is more effective and better tolerated than the parent
+alkaloid.
+
+Ergotoxine: This was formerly employed as a reference standard in the form of
+ergotoxine ethane sulfonate. This was a variable mixture of three closely related
+alkaloids namely ergocristine, ergokryptine and ergocornine. A mixture of equal parts
+of these component alkaloids are hydrogenated at 4° double bond in the lysergic acid
+nucleus to yield an equivalent mixture of dihydro-ergocristine, dihydro-ergokryptine and
+dihydro-ergocornine. This mixture, known as ergoloid mesylates (Hydergine), is
+marketed for the treatment of selected symptoms in elderly patients. It produces
+vasoconstriction, increased cerebral blood flow, lowering of systemic blood pressure and
+bradycardia.
+
+Lysergic acid Diethylamide (LSD): This does not occur in nature but is prepared by semi
+synthesis. It has two-fold actions, producing a predominant central sympathetic
+stimulation that parallels a slight depression, and it is the most active and most specific
+psychotomimetic agent known. It is valuable in experimental psychotherapy.
+
+« Uses (General):
+
+o. Itis oxytocic, vasoconstrictor, and abortifacient.
+o Itis used to assist delivery and to reduce post-partum haemorrhage.
+o Ergotamine is used to treat migraine.
+
+o Lysergic acid diethyl amide is a potent psychotomimetic.
+
+Purine Bases (Xanthine Derivatives)
+
+Purine Bases, also known as Xanthine Derivatives, are a class of alkaloids characterized by the presence
+of a purine nucleus in their chemical structure.
+
+The crude drugs that contain these types of alkaloids include Tea, Coffee beans, Kola, and Maté.
+
+1. Tea (Thea)
+
++ Source and Origin: Tea consists of the prepared leaves and leaf buds of Camellia sinensis, which
+belongs to the family Theaceae. There are two main types of tea available:
+
+fe)
+
+Green tea is prepared in China and Japan by rapidly drying freshly picked leaves in copper
+pans over mild artificial heat.
+
+Black tea is prepared in Sri Lanka and India by heaping the fresh leaves until fermentation
+has begun, after which they are rapidly dried artificially.
+
++ Chemical Constituents: Tea contains caffeine (1-4%) and smaller amounts of theophylline,
+theobromine, adenine, and xanthine.
+
+o Other constituents include gallotannic acid (about 15%) and a yellow volatile oil (0.75%).
+
+============================================================
+PAGE 15
+============================================================
+Uses: The methylxanthines (caffeine, theophylline, theobromine) found in tea competitively inhibit 
+phosphodiesterase, leading to an increase in cyclic AMP and the release of endogenous epinephrine. 
+This results in several effects: 
+o An increase in gastric acid secretion. 
+o Inhibition of uterine contraction. 
+o Positive chronotropic and inotropic effects on the heart. 
+o Caffeine specifically acts as a smooth muscle relaxant and is used for symptomatic relief of 
+bronchial asthma and for treating reversible bronchospasm associated with chronic 
+bronchitis and emphysema. 
+o Theobromine has prominent diuretic and smooth muscle relaxant properties with little 
+CNS stimulation, making it preferred over caffeine for treating cardiac edema and angina 
+pectoris. 
+2. Coffee beans (Coffee seeds) 
+ 
+Source and Origin: Coffee beans are the dried ripe seeds of Coffea arabica, or C. liberica, with most 
+of their seed coat removed. These plants belong to the family Rubiaceae. 
+ 
+Chemical Constituents: Coffee seeds contain caffeine (1-2%), tannins (3-5%), fatty oil (10-13% 
+including palmitin and olein), and proteins (10-13%). The characteristic aroma is attributed to an oil 
+called "caffeol," which is about 50% furfurol with traces of phenol and pyridine. 
+ 
+Uses: The uses of coffee largely stem from its caffeine content, as detailed under the general uses of 
+methylxanthines for Tea. 
+3. Kola 
+ 
+Source and Origin: Kola consists of the dried cotyledons of Cola nitida and other Cola species 
+belonging to the family Sterculiaceae. 
+ 
+Chemical Constituents: It contains caffeine (up to 3.5%) and theobromine (less than 1%). 
+ 
+Uses: The uses are primarily due to its caffeine and theobromine content, similar to those 
+mentioned for Tea. 
+4. Maté 
+ 
+Source and Origin: Maté consists of the leaves of Ilex paraguariensis, which belongs to the family 
+Aquifoliaceae. 
+ 
+Chemical Constituents: It contains caffeine (up to 2%) and tannins. 
+ 
+Uses: The uses are attributed to its caffeine content, similar to other purine base-containing drugs. 
+Imidazole alkaloids 
+Imidazole alkaloids are a class of alkaloids characterized by the presence of an imidazole nucleus in their 
+chemical structure. The crude drug containing this type of alkaloid is Pilocarpus. 
+Pilocarpus
+
+--- OCR TEXT ---
++ Uses: The methylxanthines (caffeine, theophylline, theobromine) found in tea competitively inhibit
+phosphodiesterase, leading to an increase in cyclic AMP and the release of endogenous epinephrine.
+This results in several effects:
+
+o Anincrease in gastric acid secretion.
+o Inhibition of uterine contraction.
+o Positive chronotropic and inotropic effects on the heart.
+
+o Caffeine specifically acts as a smooth muscle relaxant and is used for symptomatic relief of
+bronchial asthma and for treating reversible bronchospasm associated with chronic
+bronchitis and emphysema.
+
+o Theobromine has prominent diuretic and smooth muscle relaxant properties with little
+CNS stimulation, making it preferred over caffeine for treating cardiac edema and angina
+pectoris.
+
+2. Coffee beans (Coffee seeds)
+
++ Source and Origin: Coffee beans are the dried ripe seeds of Coffea arabica, or C. liberica, with most
+of their seed coat removed. These plants belong to the family Rubiaceae.
+
++ Chemical Constituents: Coffee seeds contain caffeine (1-2%), tannins (3-5%), fatty oil (10-13%
+including palmitin and olein), and proteins (10-13%). The characteristic aroma is attributed to an oil
+called "caffeol," which is about 50% furfurol with traces of phenol and pyridine.
+
+« Uses: The uses of coffee largely stem from its caffeine content, as detailed under the general uses of
+methylxanthines for Tea.
+
+3. Kola
+
+* Source and Origin: Kola consists of the dried cotyledons of Cola nitida and other Cola species
+belonging to the family Sterculiaceae.
+
+* Chemical Constituents: It contains caffeine (up to 3.5%) and theobromine (less than 1%).
+
++ Uses: The uses are primarily due to its caffeine and theobromine content, similar to those
+mentioned for Tea.
+
+4. Maté
+
++ Source and Origin: Maté consists of the leaves of Ilex paraguariensis, which belongs to the family
+Aquifoliaceae.
+
++ Chemical Constituents: It contains caffeine (up to 2%) and tannins.
++ Uses: The uses are attributed to its caffeine content, similar to other purine base-containing drugs.
+Imidazole alkaloids
+
+Imidazole alkaloids are a class of alkaloids characterized by the presence of an imidazole nucleus in their
+chemical structure. The crude drug containing this type of alkaloid is Pilocarpus.
+
+Pilocarpus
+
+============================================================
+PAGE 16
+============================================================
+Source and Origin: Pilocarpus consists of the dried leaflets of Pilocarpus jaborandi or P. 
+microphyllus (Maranham Jaborandi). These plants belong to the family Rutaceae. The plants are 
+shrubs and are indigenous to Brazil. 
+o Commercial Availability and Stability: All commercial Pilocarpus, pilocarpine, and 
+pilocarpidine are presently from species of Pilocarpus microphyllus. However, under ideal 
+storage conditions, the leaves tend to lose at least half of their alkaloid content within one 
+year, indicating that leaves two years old or older are practically worthless. 
+ 
+Chemical Constituents: Pilocarpus contains 0.5-1% of alkaloid pilocarpine. Pilocarpine is 
+described as the lactone of pilocarpic acid, (an oily syrupy liquid with a glycoxaline nucleus).  
+ 
+Extraction: It can be obtained as a crystalline substance by treating the powdered leaves with 
+sodium carbonate. The extraction process involves shaking the benzene extract with dilute 
+hydrochloric acid or dilute nitric acid. The aqueous solution is then made alkaline and shaken with 
+chloroform. The chloroform extract is then shaken with dilute acid, and the alkaloid salt is allowed 
+to crystallize. 
+ 
+Uses: 
+o Stimulation of Muscarinic Receptor (cholinergic). This stimulation leads to constriction of 
+the pupil and contraction of ciliary muscles. 
+o Therapeutic Application: Due to these effects, pilocarpine is used in the treatment of 
+glaucoma. 
+Terpenoid alkaloids 
+Terpenoid alkaloids are defined as alkaloids that are terpene in nature. This classification refers to their 
+chemical structure being derived from terpenoids. 
+Examples of terpenoid alkaloids include: 
+ 
+Taxol (Taxus brevifolia) 
+ 
+Aconitine (Aconite) 
+ 
+Coniine (Conium maculatum) 
+Taxol, aconitine, and coniine, are classified as pseudo-alkaloids because their biosynthetic precursor is not 
+an amino acid. Furthermore, taxol is specifically categorized as a non-heterocyclic alkaloid, meaning its 
+nitrogen atom is present outside the cyclic system. 
+1. Taxol (Paclitaxel) 
+ 
+Source and Origin: Taxol is a pseudoalkaloid obtained from the bark of Taxus brevifolia, also 
+known as the pacific yew. This tree can live up to 100 years. 
+ 
+Chemical Constituents: The bark of a mature Taxus brevifolia tree typically contains 0.01-0.02% of 
+taxol. In addition to taxol, the bark also contains taxanes, such as 10-deacetyl taxol, Baccatin-III 
+(0.2%), and 10-deacetylbaccatin-III. 
+ 
+Chemical Structure: The chemical structure of Taxol is provided in the sources. 
+ 
+Uses: Taxol is a significant compound used in the treatment of various cancers, including ovarian 
+cancer, breast cancer, and non-small cell lung cancer.
+
+--- OCR TEXT ---
+* Source and Origin: Pilocarpus consists of the dried leaflets of Pilocarpus jaborandi or P.
+microphyllus (Maranham Jaborandi). These plants belong to the family Rutaceae. The plants are
+shrubs and are indigenous to Brazil.
+
+o Commercial Availability and Stability: All commercial Pilocarpus, pilocarpine, and
+pilocarpidine are presently from species of Pilocarpus microphyllus. However, under ideal
+storage conditions, the leaves tend to lose at least half of their alkaloid content within one
+year, indicating that leaves two years old or older are practically worthless.
+
++ Chemical Constituents: Pilocarpus contains 0.5-1% of alkaloid pilocarpine. Pilocarpine is
+described as the lactone of pilocarpic acid, (an oily syrupy liquid with a glycoxaline nucleus).
+
++ Extraction: It can be obtained as a crystalline substance by treating the powdered leaves with
+sodium carbonate. The extraction process involves shaking the benzene extract with dilute
+hydrochloric acid or dilute nitric acid. The aqueous solution is then made alkaline and shaken with
+chloroform. The chloroform extract is then shaken with dilute acid, and the alkaloid salt is allowed
+to crystallize.
+
+« Uses:
+
+o Stimulation of Muscarinic Receptor (cholinergic). This stimulation leads to constriction of
+the pupil and contraction of ciliary muscles.
+
+o Therapeutic Application: Due to these effects, pilocarpine is used in the treatment of
+glaucoma.
+
+Terpenoid alkaloids
+
+Terpenoid alkaloids are defined as alkaloids that are terpene in nature. This classification refers to their
+chemical structure being derived from terpenoids.
+
+Examples of terpenoid alkaloids include:
++ Taxol (Taxus brevifolia)
+« Aconitine (Aconite)
+* Coniine (Conium maculatum)
+
+Taxol, aconitine, and coniine, are classified as pseudo-alkaloids because their biosynthetic precursor is not
+an amino acid. Furthermore, taxol is specifically categorized as a non-heterocyclic alkaloid, meaning its
+nitrogen atom is present outside the cyclic system.
+
+1. Taxol (Paclitaxel)
+
+* Source and Origin: Taxol is a pseudoalkaloid obtained from the bark of Taxus brevifolia, also
+known as the pacific yew. This tree can live up to 100 years.
+
+* Chemical Constituents: The bark of a mature Taxus brevifolia tree typically contains 0.01-0.02% of
+taxol. In addition to taxol, the bark also contains taxanes, such as 10-deacetyl taxol, Baccatin-lll
+(0.2%), and 10-deacetylbaccatin-lll.
+
+* Chemical Structure: The chemical structure of Taxol is provided in the sources.
+
++ Uses: Taxol is a significant compound used in the treatment of various cancers, including ovarian
+cancer, breast cancer, and non-small cell lung cancer.
+
+============================================================
+PAGE 17
+============================================================
+2. Aconitine (Aconite) 
+ 
+Aconitine is identified as an example of a terpenoid alkaloid and a pseudo-alkaloid. 
+3. Coniine (Conium maculatum) 
+ 
+Extraction: Coniine is a volatile liquid alkaloid. It, along with nicotine, is most conveniently isolated 
+by distillation. 
+ 
+Chemical Structure: The chemical structure of Coniine is provided in the sources. 
+Steroidal alkaloids 
+Steroidal alkaloids are a class of alkaloids characterized by the presence of a steroidal nucleus 
+(cyclopentanoperhydro-phenanthrene) in their chemical structure. 
+Examples of crude drugs containing steroidal alkaloids include: 
+ 
+Veratrum viride 
+ 
+Solanum species (containing solanidfine and solasodine) 
+ 
+White hellebore (Veratrum album) 
+1. Veratrum viride 
+ 
+Source and Origin: Veratrum viride (family Liliaceae) consists of the dried rhizome and roots of the 
+plant. 
+ 
+Chemical Constituents: This plant contains a large number of alkaloids, which can be divided into 
+three main groups: 
+o Alkamines (steroidal bases): These include germine, jervine, and veratramine. 
+o Glycosides of alkamines: Examples are pseudo jervine and veratrosine. 
+o Esters of alkamines: This group includes germidine, germitrine, neo-germitrine, and 
+veratridine. 
+o Among these, the ester alkaloids germidine and germitrine are considered therapeutically 
+important.  
+ 
+Uses: Veratrum viride alkaloids possess hypotensive, cardiac depressant, and sedative 
+properties. They are used as an antihypertensive. 
+2. White hellebore (European hellebore) 
+ 
+Source and Origin: White hellebore consists of the dried rhizome of Veratrum album. 
+ 
+Chemical Constituents: It contains steroidal bases, glyco-alkaloids, and alkaloid esters that are 
+similar to those found in Veratrum viride. 
+Alkaloidal Amines 
+Alkaloidal Amines refer to a category of alkaloids that includes several significant compounds with diverse 
+pharmacological properties. With some of the specific examples provided under this section are also 
+classified elsewhere as proto-alkaloids or pseudo-alkaloids, indicating a functional or structural grouping 
+rather than a strict chemical classification in this context. 
+ 
+Ephedra (Mahuang):
+
+--- OCR TEXT ---
+2. Aconitine (Aconite)
+« Aconitine is identified as an example of a terpenoid alkaloid and a pseudo-alkaloid.
+3. Coniine (Conium maculatum)
+
++ Extraction: Coniine is a volatile liquid alkaloid. It, along with nicotine, is most conveniently isolated
+by distillation.
+
+* Chemical Structure: The chemical structure of Coniine is provided in the sources.
+Steroidal alkaloids
+
+Steroidal alkaloids are a class of alkaloids characterized by the presence of a steroidal nucleus
+(cyclopentanoperhydro-phenanthrene) in their chemical structure.
+
+Examples of crude drugs containing steroidal alkaloids include:
++ Veratrum viride
+* Solanum species (containing solanidfine and solasodine)
+« White hellebore (Veratrum album)
+
+1. Veratrum viride
+
+« Source and Origin: Veratrum viride (family Liliaceae) consists of the dried rhizome and roots of the
+plant.
+
+* Chemical Constituents: This plant contains a large number of alkaloids, which can be divided into
+three main groups:
+
+o Alkamines (steroidal bases): These include germine, jervine, and veratramine.
+o Glycosides of alkamines: Examples are pseudo jervine and veratrosine.
+
+o Esters of alkamines: This group includes germidine, germitrine, neo-germitrine, and
+veratridine.
+
+o Among these, the ester alkaloids germidine and germitrine are considered therapeutically
+important.
+
++ Uses: Veratrum viride alkaloids possess hypotensive, cardiac depressant, and sedative
+properties. They are used as an antihypertensive.
+
+2. White hellebore (European hellebore)
++ Source and Origin: White hellebore consists of the dried rhizome of Veratrum album.
+
+* Chemical Constituents: It contains steroidal bases, glyco-alkaloids, and alkaloid esters that are
+similar to those found in Veratrum viride.
+
+Alkaloidal Amines
+
+Alkaloidal Amines refer to a category of alkaloids that includes several significant compounds with diverse
+pharmacological properties. With some of the specific examples provided under this section are also
+classified elsewhere as proto-alkaloids or pseudo-alkaloids, indicating a functional or structural grouping
+rather than a strict chemical classification in this context.
+
++ Ephedra (Mahuang):
+
+============================================================
+PAGE 18
+============================================================
+o Origin: Ephedrine is derived from Ephedra sinica, Ephedra equisetums, and Ephedra 
+distachya. Ephedra consists of the dried entire or over ground portion of Ephedra sinica, 
+belonging to the family Gnetaceae. The Chinese character "Ma" means astringent and 
+"huang" means yellow. 
+o Chemical Constituents: It contains 0.5-2% of alkaloids, including (-)-ephedrine, 
+pseudoephedrine, 1-methylephedrine, and nor-ephedrine. 
+o Uses: Ephedra is a potent sympathomimetic that stimulates both alpha and beta-
+adrenergic receptors, causing vasoconstriction and cardiac stimulation, which produces 
+effects similar to those of epinephrine.  
+o It is classified as a bronchodilator and is used in the treatment of asthma, rhinitis, and 
+hay-fever. 
+ 
+Colchicum Corm and Colchicum Seeds: 
+o Origin: These are the dried ripe seeds and corms of Colchicum autumnale (Liliaceae). Indian 
+drug is obtained from Colchicum luteum. 
+o Colchicine is soluble in acidified, neutral, and alkaline water. 
+o Chemical Constituents: Colchicum contains the alkaloids colchicine (0.08% in seeds and 
+0.6% in corms) and demecolcine. 
+o Uses: Colchicum is used as a gout depressant and to cure gout and rheumatism. It is also 
+employed in the treatment of myeloid leukemia. Biologically, it is used to produce 
+polyploidy in experiments. 
+o Mechanism of Action: The exact mechanism of action in gout treatment is unknown. 
+However, it is known to inhibit leukocyte migration and reduce lactic acid production by 
+leukocytes, which results in a decreased deposition of uric acid. 
+ 
+Khat (Catha edulis): 
+o Origin and Description: Khat consists of the fresh leaves of Catha edulis which belong to the 
+family Celasteraceae. These leaves are habitually chewed to alleviate sensations of hunger 
+and fatigue by African and Arabian people. 
+o Chemical Constituents: It contains (-)-cathinone. 
+o Pharmacological Properties: The pharmacological properties of cathinone are similar to 
+those of amphetamine, particularly in terms of its potency of action relative to 
+catecholamines from storage sites. 
+ 
+Taxol (Paclitaxel): As discussed earlier.
+
+--- OCR TEXT ---
+Origin: Ephedrine is derived from Ephedra sinica, Ephedra equisetums, and Ephedra
+distachya. Ephedra consists of the dried entire or over ground portion of Ephedra sinica,
+belonging to the family Gnetaceae. The Chinese character "Ma" means astringent and
+"huang" means yellow.
+
+Chemical Constituents: It contains 0.5-2% of alkaloids, including (-)-ephedrine,
+pseudoephedrine, 1-methylephedrine, and nor-ephedrine.
+
+Uses: Ephedra is a potent sympathomimetic that stimulates both alpha and beta-
+adrenergic receptors, causing vasoconstriction and cardiac stimulation, which produces
+effects similar to those of epinephrine.
+
+It is classified as a bronchodilator and is used in the treatment of asthma, rhinitis, and
+hay-fever.
+
+Colchicum Corm and Colchicum Seeds:
+
+fe)
+
+Origin: These are the dried ripe seeds and corms of Colchicum autumnale (Liliaceae). Indian
+drug is obtained from Colchicum luteum.
+
+Colchicine is soluble in acidified, neutral, and alkaline water.
+
+Chemical Constituents: Colchicum contains the alkaloids colchicine (0.08% in seeds and
+0.6% in corms) and demecolcine.
+
+Uses: Colchicum is used as a gout depressant and to cure gout and rheumatism. It is also
+employed in the treatment of myeloid leukemia. Biologically, it is used to produce
+polyploidy in experiments.
+
+Mechanism of Action: The exact mechanism of action in gout treatment is unknown.
+However, it is known to inhibit leukocyte migration and reduce lactic acid production by
+leukocytes, which results in a decreased deposition of uric acid.
+
+Khat (Catha edulis):
+
+fe)
+
+Origin and Description: Khat consists of the fresh leaves of Catha edulis which belong to the
+family Celasteraceae. These leaves are habitually chewed to alleviate sensations of hunger
+and fatigue by African and Arabian people.
+
+Chemical Constituents: It contains (-)-cathinone.
+
+Pharmacological Properties: The pharmacological properties of cathinone are similar to
+those of amphetamine, particularly in terms of its potency of action relative to
+catecholamines from storage sites.
+
+Taxol (Paclitaxel): As discussed earlier.

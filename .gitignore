@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Scratch/temp files
+temp_*.txt
+
+# Environment files
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
